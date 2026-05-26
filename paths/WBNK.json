@@ -156,12 +156,12 @@
   },
   {
     "hash": "019634A334F7E39E",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/global/sweet_templates.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "014260B7C2E257A0",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/global/main.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -356,7 +356,7 @@
   },
   {
     "hash": "01E4E9C791AD95E2",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/global/global.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {

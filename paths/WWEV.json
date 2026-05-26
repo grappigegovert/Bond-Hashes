@@ -20436,7 +20436,7 @@
   },
   {
     "hash": "014C259F3D107837",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/events/global_events/pause_all.wwiseevent].wwisebank",
     "gameFlags": 1
   },
   {
@@ -31716,7 +31716,7 @@
   },
   {
     "hash": "01F5864575BC5E3D",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/events/global_events/resume_all.wwiseevent].wwisebank",
     "gameFlags": 1
   },
   {
