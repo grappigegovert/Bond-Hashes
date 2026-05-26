@@ -1,27 +1,27 @@
 [
   {
     "hash": "01CF076E9EFE60CC",
-    "path": "",
+    "path": "[assembly:/_knt/online/environments.environmentconfig].environmentconfig",
     "gameFlags": 1
   },
   {
     "hash": "012787C5DF57DB8F",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/offlineconfig/config.contracts].contracts",
     "gameFlags": 1
   },
   {
     "hash": "0101D76DF7C384E3",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/offlineconfig/config.activities].activities",
     "gameFlags": 1
   },
   {
     "hash": "01FBE4097B698967",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/offlineconfig/config.blobs].blobs",
     "gameFlags": 1
   },
   {
     "hash": "01AD6EC6AE7DBE39",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/offlineconfig/config.unlockables].unlockables",
     "gameFlags": 1
   }
 ]

@@ -126,7 +126,7 @@
   },
   {
     "hash": "0170DF6403B86A0D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/floor/wood_herringbone_world_mapped_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -746,7 +746,7 @@
   },
   {
     "hash": "01BFFAF2436C9E10",
-    "path": "",
+    "path": "[assembly:/_knt/effects/materials/glow/fx_glow_volumelight_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "hash": "0117BD217FB1CE88",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/wood/wood_oiled_noseams_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1846,7 +1846,7 @@
   },
   {
     "hash": "01F63578007EB04A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/steel_stainless_clean_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2596,7 +2596,7 @@
   },
   {
     "hash": "013331BA6F7AEF65",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/architecture/balustres/balustres_italian_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2856,7 +2856,7 @@
   },
   {
     "hash": "011AAFC79AF51E43",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/plastic/resin_white_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3016,7 +3016,7 @@
   },
   {
     "hash": "01ADBF505F7A6594",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/stone/marble_black_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3581,7 +3581,7 @@
   },
   {
     "hash": "012C038694EDE46C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/lamp_spot_light_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4031,7 +4031,7 @@
   },
   {
     "hash": "01285F090C698EC0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/wall/concrete_wood_ingrained_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4381,7 +4381,7 @@
   },
   {
     "hash": "018769713F133CEE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/modern_stage_strip_emissive_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6266,7 +6266,7 @@
   },
   {
     "hash": "01FF0385D6C347BE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/metal_old_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6671,7 +6671,7 @@
   },
   {
     "hash": "0142E7B6254DB180",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/plastic/plastic_black_a_matte.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6961,12 +6961,12 @@
   },
   {
     "hash": "016F48EF05A4B0BA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/architecture/trims/trims_wall_hotel_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "016BDF3AF4FBB05F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/paintings_modern_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7151,7 +7151,7 @@
   },
   {
     "hash": "01E46D552EF5CF29",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/sculpture_facade_ornate_d.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8461,7 +8461,7 @@
   },
   {
     "hash": "016E0D5DCF336F97",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/backdrop/buildings/backdrop_building_paris_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8881,7 +8881,7 @@
   },
   {
     "hash": "0127C02E686F1B72",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/light_wall_emissive_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9046,7 +9046,7 @@
   },
   {
     "hash": "01210DE7E54FF8CA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/plastic/plastic_black_a_glossy.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9091,7 +9091,7 @@
   },
   {
     "hash": "01EAEE3E59A3521B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/electronic/computer_screen_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9321,7 +9321,7 @@
   },
   {
     "hash": "0153EBBBF363CA67",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/light_wall_emissive_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10691,7 +10691,7 @@
   },
   {
     "hash": "01F6C4521BCAAE46",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/stone/marble_black_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11586,7 +11586,7 @@
   },
   {
     "hash": "0177978BC524D4C5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/chair_modern_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11631,7 +11631,7 @@
   },
   {
     "hash": "0163F9894207CF39",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/lamp_modern_chrome_standing_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12621,7 +12621,7 @@
   },
   {
     "hash": "016BE427E87855AC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/decals/dirt/decal_dirt_facade_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13191,7 +13191,7 @@
   },
   {
     "hash": "01DF9D89D214E092",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/wall_clock_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13421,7 +13421,7 @@
   },
   {
     "hash": "017AB83578104C30",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/plastic/plastic_white_glossy_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13941,7 +13941,7 @@
   },
   {
     "hash": "01F70DD2C539602A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/gym/yoga_mats_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14096,7 +14096,7 @@
   },
   {
     "hash": "01A9B1F42E88C214",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/metal_painted_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14631,7 +14631,7 @@
   },
   {
     "hash": "0109462EA965C44E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/metal_brushed_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15361,7 +15361,7 @@
   },
   {
     "hash": "0121B5C3CC11D777",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/light_wall_emissive_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15386,7 +15386,7 @@
   },
   {
     "hash": "01CBBEB5F0609F1D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/stone/marble_white_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15976,7 +15976,7 @@
   },
   {
     "hash": "012353B3A569DEA8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/decals/dirt/decal_dirt_facade_d.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16251,7 +16251,7 @@
   },
   {
     "hash": "01EEE4B7D0A27666",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/electronic/tv_crt_monitor_screen_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16921,7 +16921,7 @@
   },
   {
     "hash": "01FD89D5B78B9BAD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/wall/ceramictiles_modern_white_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16971,7 +16971,7 @@
   },
   {
     "hash": "01E53D5312D77BC4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/lightbulb_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17066,7 +17066,7 @@
   },
   {
     "hash": "010D541487200B85",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/fabric/restaurant_sofa_leather_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17241,7 +17241,7 @@
   },
   {
     "hash": "01F099ED1535AD0F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/sofa_modern_leather_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17506,7 +17506,7 @@
   },
   {
     "hash": "0173A4F17AA22A10",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/trim/trims_metal_clean_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17586,7 +17586,7 @@
   },
   {
     "hash": "013EA413C2741703",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/electronic/vacuumcleaner_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17741,7 +17741,7 @@
   },
   {
     "hash": "01F1AFAFBB27AA92",
-    "path": "",
+    "path": "[assembly:/_knt/effects/materials/gameplay/fx_lva_sphere.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18211,7 +18211,7 @@
   },
   {
     "hash": "0177B6FDB7607707",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/containers/laundry_carts_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18511,7 +18511,7 @@
   },
   {
     "hash": "018849BC3F37484A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/trash/old_tyre_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19311,7 +19311,7 @@
   },
   {
     "hash": "0111351E84A722E6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/steel_stainless_clean_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19856,7 +19856,7 @@
   },
   {
     "hash": "0161AD1FE540D380",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/floor/floor_concrete_carpark_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20781,7 +20781,7 @@
   },
   {
     "hash": "01C84C6AC20A2218",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/metal_brushed_bronze_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21826,7 +21826,7 @@
   },
   {
     "hash": "014354B189363858",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/plastic/plastic_tube_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {

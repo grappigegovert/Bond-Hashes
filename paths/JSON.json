@@ -96,7 +96,7 @@
   },
   {
     "hash": "01427B00DDFDCF59",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/service/playnext/playnextconfig.json].json",
     "gameFlags": 1
   },
   {
@@ -381,7 +381,7 @@
   },
   {
     "hash": "01C295E29A912E2D",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/missionconfig.json].json",
     "gameFlags": 1
   },
   {
@@ -396,7 +396,7 @@
   },
   {
     "hash": "01334CAC4D08F1ED",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/lists/lists.json].json",
     "gameFlags": 1
   },
   {
@@ -451,7 +451,7 @@
   },
   {
     "hash": "01112DA427231282",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/service/opportunities/opportunities.json].json",
     "gameFlags": 1
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "hash": "0171CDD89A0BD11A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/storyconfig.json].json",
     "gameFlags": 1
   },
   {
@@ -841,7 +841,7 @@
   },
   {
     "hash": "0114861423EF92F9",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/pages/video/video.json].json",
     "gameFlags": 1
   },
   {

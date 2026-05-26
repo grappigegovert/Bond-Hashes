@@ -3506,7 +3506,7 @@
   },
   {
     "hash": "015D3B3462D9F347",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_b02.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4721,7 +4721,7 @@
   },
   {
     "hash": "01ECCC86043C561B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/container_plastic_lid_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5361,7 +5361,7 @@
   },
   {
     "hash": "01EE2D8F19207F2A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_crapemyrtle_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6191,7 +6191,7 @@
   },
   {
     "hash": "010F5534728CE7C9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/trauma_gloves_dispenser_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6686,7 +6686,7 @@
   },
   {
     "hash": "011B70B7B109C75B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/museum_props_a.template?/metal_pole_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6911,7 +6911,7 @@
   },
   {
     "hash": "0147E87F43A512C8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/laptop_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7146,7 +7146,7 @@
   },
   {
     "hash": "01EF9928C16457A0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_grey_b_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9056,7 +9056,7 @@
   },
   {
     "hash": "015ECCA7085EDCF3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/bath_rug_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9741,7 +9741,7 @@
   },
   {
     "hash": "0197799F7B69BF9F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_hippie_apartment_b_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11181,7 +11181,7 @@
   },
   {
     "hash": "01E1D28DCC6E8896",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_a_kinematic.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11296,7 +11296,7 @@
   },
   {
     "hash": "014563DCED841B6C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/gas_cylinder_cart_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11786,7 +11786,7 @@
   },
   {
     "hash": "01E4A833A47B3FF8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_centrifuge_small_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12181,7 +12181,7 @@
   },
   {
     "hash": "016189258BB61DB6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/wine_bottle_customlabel_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12366,7 +12366,7 @@
   },
   {
     "hash": "013C2F61407ABF8D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_open_1x1x2_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13246,7 +13246,7 @@
   },
   {
     "hash": "011F946DCFFE06E1",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_seagulls.template?/fx_e_seagulls.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13426,7 +13426,7 @@
   },
   {
     "hash": "010B1A7FB206E29A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/medical_stretcher_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15076,7 +15076,7 @@
   },
   {
     "hash": "01A359170E89881B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_soda_cluster_jitter_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15271,7 +15271,7 @@
   },
   {
     "hash": "014D721DA6B501B9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/whiskey_decanter_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16701,7 +16701,7 @@
   },
   {
     "hash": "01CFD068F94461B2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/bandages_rolledup_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17021,7 +17021,7 @@
   },
   {
     "hash": "0193435C85B814DF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_ledge_bundle_thin_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19231,7 +19231,7 @@
   },
   {
     "hash": "01943A7ECA3959D4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_soda_c_open.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19376,7 +19376,7 @@
   },
   {
     "hash": "01209180189C8174",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_ledge_bundle_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20981,7 +20981,7 @@
   },
   {
     "hash": "013A41F15B6DADDF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_b_lid_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21196,7 +21196,7 @@
   },
   {
     "hash": "0126987D21F348AB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_paper_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21996,7 +21996,7 @@
   },
   {
     "hash": "01744049EA4EA6D1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/mirrors_a.template?/mirror_antique_b_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -22446,7 +22446,7 @@
   },
   {
     "hash": "01A7A5CEC427DAC4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_d_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -25041,7 +25041,7 @@
   },
   {
     "hash": "0163CDD4EDE09EAA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_leaves_ground_b_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -25731,7 +25731,7 @@
   },
   {
     "hash": "018C401ABB38E1A6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_soda_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -26921,7 +26921,7 @@
   },
   {
     "hash": "016C82F8DD072492",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/deodorant_rollon_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -27566,7 +27566,7 @@
   },
   {
     "hash": "01895AC4AB2DA10E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/wine_bottle_church_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -28506,7 +28506,7 @@
   },
   {
     "hash": "0109AEBAA043149C",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/shatter/fx_shatter_wood.template?/fx_e_destruction_wood_big_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -29326,7 +29326,7 @@
   },
   {
     "hash": "01783D2A8EA0FDDE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/wine_box_open_full_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -29711,7 +29711,7 @@
   },
   {
     "hash": "012825FC20D640EC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_crapemyrtle_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -30066,7 +30066,7 @@
   },
   {
     "hash": "01895E11F81DC262",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_beer_c_open.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -30951,7 +30951,7 @@
   },
   {
     "hash": "0177054F1A9444F8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_americanboxwood_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -34881,7 +34881,7 @@
   },
   {
     "hash": "01C7F26D3755C3C5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/toilet_paper_holder_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -36701,7 +36701,7 @@
   },
   {
     "hash": "01342532F83362F5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_gloves_box_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -36761,7 +36761,7 @@
   },
   {
     "hash": "010535A55BCEB25A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/computer_mousepad_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -37001,7 +37001,7 @@
   },
   {
     "hash": "014122889E7AA630",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_fishes.template?/fx_pm_fish_zebra_sea_bream.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -38036,7 +38036,7 @@
   },
   {
     "hash": "01AF762269691A08",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/organ_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -38246,7 +38246,7 @@
   },
   {
     "hash": "01AB4BE8ED134586",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_morgue_table_cleaning_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -39286,7 +39286,7 @@
   },
   {
     "hash": "01E0169C74771578",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_fishes.template?/fx_pm_fish_red_tripplefin_blenny.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -40901,7 +40901,7 @@
   },
   {
     "hash": "01719567C40CDBB9",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/impacts/fx_impacts_materialbased.template?/fx_pb_impact_smoke_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -41781,7 +41781,7 @@
   },
   {
     "hash": "01B009D7797F7FBD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_b_empty_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -43086,7 +43086,7 @@
   },
   {
     "hash": "0168DD602726FD8A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_a_empty_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -44121,7 +44121,7 @@
   },
   {
     "hash": "017B5AD7F880A5BE",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_seagulls.template?/fx_particle_seagull_flying_cheap.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -45411,7 +45411,7 @@
   },
   {
     "hash": "0179C3E2166919F5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_big_soft_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -46456,7 +46456,7 @@
   },
   {
     "hash": "0104857F644FAD35",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/plastic_toy_box_large_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -47321,7 +47321,7 @@
   },
   {
     "hash": "01E6DE5AFC727526",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/styrofoam_takeaway_tray_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -47751,7 +47751,7 @@
   },
   {
     "hash": "0198AEDA6883D302",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/water_bottle_a_open.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -48291,7 +48291,7 @@
   },
   {
     "hash": "011F63F202CDD59E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_plywood_1x05x1_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -52061,7 +52061,7 @@
   },
   {
     "hash": "01B62CA0379B23FB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/bed_hospital_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -52676,7 +52676,7 @@
   },
   {
     "hash": "016043975EBDE5B1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_bundle_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -53421,7 +53421,7 @@
   },
   {
     "hash": "0130C8FFB0DF6CCC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_morgue_spray_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -54071,7 +54071,7 @@
   },
   {
     "hash": "018AB4A3DE990DD4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/pallet_wrapped_1x1x2_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -54531,7 +54531,7 @@
   },
   {
     "hash": "01042F83E83D7F33",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/container_plastic_open_b_01.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -54596,7 +54596,7 @@
   },
   {
     "hash": "0199C0B0568F3A56",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/misc/fx_draw.template?/fx_e_draw_foliage_interaction_hero.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -54826,7 +54826,7 @@
   },
   {
     "hash": "019193B99CBF48B4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/gir_water_bottle_a_open.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -56161,7 +56161,7 @@
   },
   {
     "hash": "016C077176083170",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/shatter/fx_shatter_chandeliers.template?/fx_e_shatter_chandelier_impact_big_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -57211,7 +57211,7 @@
   },
   {
     "hash": "01AAEF9FE8F3A75E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_plastic_a_empty_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -58826,7 +58826,7 @@
   },
   {
     "hash": "011EA5CF90E966FD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_tatami_mat_japan_160x470_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -59766,7 +59766,7 @@
   },
   {
     "hash": "0197476743BE4EEA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/cabletray_bunker_a.template?/cablestructure_600cm_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -60751,7 +60751,7 @@
   },
   {
     "hash": "015A142D871BE5E0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_i.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -61906,7 +61906,7 @@
   },
   {
     "hash": "01A90829E246A7AE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_soda_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -62361,7 +62361,7 @@
   },
   {
     "hash": "01D53EAF47E21CAA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_dock_b_low.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -62421,7 +62421,7 @@
   },
   {
     "hash": "01E7BD3E4DFA7A10",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/gymbag_a_detail.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -62646,7 +62646,7 @@
   },
   {
     "hash": "0141049202E5AF01",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/redcarpet_palace_exterior_b_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -64246,7 +64246,7 @@
   },
   {
     "hash": "01E2BCB7F0852C5C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_baroque_blue_a_v2.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -66181,7 +66181,7 @@
   },
   {
     "hash": "01C143F54F144E8C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_dock_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -67711,7 +67711,7 @@
   },
   {
     "hash": "01021AD3FCB15D8F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_park_no_leafs_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -67821,12 +67821,12 @@
   },
   {
     "hash": "01EE6365F947F0B7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_leaves_ground_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0173D3AF272CAB46",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/plastic_toy_box_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -68716,7 +68716,7 @@
   },
   {
     "hash": "01EB3EE8AD7A8563",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/oxygen_concentrator_unit_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -69616,7 +69616,7 @@
   },
   {
     "hash": "01481E2102044660",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/whiskey_decanter_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -70276,7 +70276,7 @@
   },
   {
     "hash": "01E25F094D721B3A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_e_black.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -70416,7 +70416,7 @@
   },
   {
     "hash": "01A2837BA876ED01",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_a_autumn.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -72981,7 +72981,7 @@
   },
   {
     "hash": "014DF060DF51C71D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_soda_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -73196,7 +73196,7 @@
   },
   {
     "hash": "01201E1C921F4152",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/lighting/fog_planes_a.template?/fog_plane_100x100m.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -75491,7 +75491,7 @@
   },
   {
     "hash": "015E5F5C754517A4",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_rats.template?/fx_particle_squirrel_running.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -75656,7 +75656,7 @@
   },
   {
     "hash": "01EC3D3AC66038E2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_g_autumn.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -77451,7 +77451,7 @@
   },
   {
     "hash": "01FC6AAA77DC1971",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_b_lid_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -77681,7 +77681,7 @@
   },
   {
     "hash": "01809CCFF4DBD951",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/misc/fx_draw.template?/fx_e_draw_water_interaction_hero.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -77826,7 +77826,7 @@
   },
   {
     "hash": "018DE5C0765C65B5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_soda_d_open.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -79191,7 +79191,7 @@
   },
   {
     "hash": "01C9703D7D41CD15",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_b_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -79671,7 +79671,7 @@
   },
   {
     "hash": "0150D171A6993F74",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/observatory_props_a.template?/observatory_plaguedoctor_stand_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -80591,7 +80591,7 @@
   },
   {
     "hash": "01050C9B4A4F5DE7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_open_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -81131,7 +81131,7 @@
   },
   {
     "hash": "01EA1AB36C99A5BF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_bundle_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -81376,7 +81376,7 @@
   },
   {
     "hash": "01490222E13122A1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_a01.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -81411,7 +81411,7 @@
   },
   {
     "hash": "01AFB8A9CE72F3AE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/drip_stand_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -82116,7 +82116,7 @@
   },
   {
     "hash": "013D4C2E6F3B4980",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_leaves_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -82561,7 +82561,7 @@
   },
   {
     "hash": "01B64D2EE0F02B01",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_curtains_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -83296,7 +83296,7 @@
   },
   {
     "hash": "0110CF59354B7B83",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/computer_old_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -86171,7 +86171,7 @@
   },
   {
     "hash": "01DB7D30F365FC8A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/bandages_rolledup_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -87026,7 +87026,7 @@
   },
   {
     "hash": "014466ED7D359FA4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_b_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -89091,7 +89091,7 @@
   },
   {
     "hash": "01A674AC1CEA61E3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/military_computer_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -89621,7 +89621,7 @@
   },
   {
     "hash": "0197FDAEA451A317",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_a_lid_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -91031,7 +91031,7 @@
   },
   {
     "hash": "01D0FA1B3615653B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_ledge_bundle_c_autumn.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -91841,7 +91841,7 @@
   },
   {
     "hash": "0101645270B71991",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_park_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -93371,7 +93371,7 @@
   },
   {
     "hash": "0177E18BEDF85B76",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/ventilation_grid_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -94031,7 +94031,7 @@
   },
   {
     "hash": "01AD6FEA8E0E2496",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_d_autumn.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -94786,7 +94786,7 @@
   },
   {
     "hash": "01D096DA5791B64A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_grey_c_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -96206,7 +96206,7 @@
   },
   {
     "hash": "017443E1FEFA3C73",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_a02_blue.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -98236,7 +98236,7 @@
   },
   {
     "hash": "018A2CB52F87D108",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/oxygen_tank_cart_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -98466,7 +98466,7 @@
   },
   {
     "hash": "016F7AFE08279A10",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/beer_bottles_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -98531,7 +98531,7 @@
   },
   {
     "hash": "019B38221053B91E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_b02_red.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -99341,7 +99341,7 @@
   },
   {
     "hash": "01320533E4ADF12B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/security_hard_drive_a_reinforced.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -101851,7 +101851,7 @@
   },
   {
     "hash": "010BCB791CDBEEE6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_soda_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -101931,7 +101931,7 @@
   },
   {
     "hash": "01F6CAAA77756334",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/observatory_props_a.template?/observatory_sextant_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -103821,7 +103821,7 @@
   },
   {
     "hash": "01C89ED7013E3950",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_a01_grey.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -103846,7 +103846,7 @@
   },
   {
     "hash": "01B649BECFD67E2D",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_fishes.template?/fx_e_fishes.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -104866,7 +104866,7 @@
   },
   {
     "hash": "01E10B5E7CDC27C0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_office_red_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -107741,7 +107741,7 @@
   },
   {
     "hash": "01D1C681150D304A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_wooden_1x05x2_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -108021,7 +108021,7 @@
   },
   {
     "hash": "018F8F187CC92000",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_old_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -108451,7 +108451,7 @@
   },
   {
     "hash": "01CC2585867015BE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_soda_jitter_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -109031,7 +109031,7 @@
   },
   {
     "hash": "01AAAAE1A55C1B37",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_open_1x1x2_pictures_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -110006,7 +110006,7 @@
   },
   {
     "hash": "01D8C498C721B8DA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_open_1x1x2_no_darklight_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -111156,7 +111156,7 @@
   },
   {
     "hash": "017944ADCA20634B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/wine_box_open_halffull_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -111631,7 +111631,7 @@
   },
   {
     "hash": "015EE901AE122A40",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/gymbag_a_grey.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -111641,7 +111641,7 @@
   },
   {
     "hash": "010E3E292F50C9A8",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_rats.template?/fx_particle_rat_running.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -111901,7 +111901,7 @@
   },
   {
     "hash": "01C2123915A7B528",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_park_b_low.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -113186,7 +113186,7 @@
   },
   {
     "hash": "011D24D754251CC4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -113536,7 +113536,7 @@
   },
   {
     "hash": "0126956E18859954",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/first_aid_satchel_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -113546,7 +113546,7 @@
   },
   {
     "hash": "01473ED3A6AF6020",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/pallet_wrapped_1x1x1_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -113681,7 +113681,7 @@
   },
   {
     "hash": "01A568D3BE1B0B48",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_can_plastic_a_stack_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -115361,7 +115361,7 @@
   },
   {
     "hash": "0120D984C32F2250",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_b_autumn.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -120096,7 +120096,7 @@
   },
   {
     "hash": "019D8E126F351155",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_leaves_ground_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -120906,7 +120906,7 @@
   },
   {
     "hash": "01BCFEE5EC0D31D1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/toilet_paper_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -121731,7 +121731,7 @@
   },
   {
     "hash": "019BB05486BB7F55",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/laundry_carts_a.template?/laundry_carts_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -122126,7 +122126,7 @@
   },
   {
     "hash": "01A458745C47A49F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/container_plastic_open_c_01.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -124246,7 +124246,7 @@
   },
   {
     "hash": "01FA9D8F0017755F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_wooden_1x1x1_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -124661,7 +124661,7 @@
   },
   {
     "hash": "018B34125A564549",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_leaves_ground_c_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -124731,7 +124731,7 @@
   },
   {
     "hash": "0177C8CCF819F2D7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_baroque_blue_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -124991,7 +124991,7 @@
   },
   {
     "hash": "01145F7653E2FE8C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_h_autumn.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -129661,7 +129661,7 @@
   },
   {
     "hash": "0154F0B71108D643",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/toilet_paper_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -130176,7 +130176,7 @@
   },
   {
     "hash": "01EB6FBAFADCC9B9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_beer_c_trash.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -131176,7 +131176,7 @@
   },
   {
     "hash": "01B1839D76F79B3F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_can_plastic_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -131931,7 +131931,7 @@
   },
   {
     "hash": "013C1135212DD002",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_open_1x1x1_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -132096,7 +132096,7 @@
   },
   {
     "hash": "01BBA267A7629956",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/sodacan_jitter_cluster_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -132181,7 +132181,7 @@
   },
   {
     "hash": "011113C16CB8DEFB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/sodacan_jester_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -132221,7 +132221,7 @@
   },
   {
     "hash": "01515B5546ACFB61",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_park_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -133076,7 +133076,7 @@
   },
   {
     "hash": "01E5E93815F040AB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/laptop_b_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -134441,7 +134441,7 @@
   },
   {
     "hash": "01DA6A1F1E065C68",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_seagulls.template?/fx_particle_seagull_flying.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -134511,7 +134511,7 @@
   },
   {
     "hash": "0158FE0BBDE58E23",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/sodacan_pressure_cluster_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -134791,7 +134791,7 @@
   },
   {
     "hash": "0175933101CDF2F2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/containers_set_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -135541,7 +135541,7 @@
   },
   {
     "hash": "0176A35A35385520",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_platanus_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -135761,7 +135761,7 @@
   },
   {
     "hash": "01335DA67B3F621F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/computer_old_keyboard_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -136696,7 +136696,7 @@
   },
   {
     "hash": "015852B73D3B8208",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/labtop_a_closed.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -136816,7 +136816,7 @@
   },
   {
     "hash": "010965711FA41C14",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/toothpaste_hokaido_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -137796,7 +137796,7 @@
   },
   {
     "hash": "0120083CE3BE9356",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/mat_japanese_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -138031,7 +138031,7 @@
   },
   {
     "hash": "01C708931A71B2B1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/rough_doormat_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -139716,7 +139716,7 @@
   },
   {
     "hash": "01C87FC8655DBD4C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/styrofoam_takeaway_cover_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -140281,7 +140281,7 @@
   },
   {
     "hash": "017FD10AE799CB3A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_plywood_1x05x2_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -140466,7 +140466,7 @@
   },
   {
     "hash": "0181F1684D5D6EF2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_e_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -144096,7 +144096,7 @@
   },
   {
     "hash": "01AFE8ABB266920B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -144966,7 +144966,7 @@
   },
   {
     "hash": "012E2A6955F1C165",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/rug_black_silver_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -145136,7 +145136,7 @@
   },
   {
     "hash": "01A34A25C8C59B03",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_open_1x1x2_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -145156,7 +145156,7 @@
   },
   {
     "hash": "018570B034080BA4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_c_empty_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -145596,7 +145596,7 @@
   },
   {
     "hash": "015FFD0D393F8A8A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_morgue_liquid_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -147846,7 +147846,7 @@
   },
   {
     "hash": "011B711463BF8A69",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_park_no_leafs_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -148626,7 +148626,7 @@
   },
   {
     "hash": "01C1E7BF40F0DA93",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/deodorant_cap_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -152631,7 +152631,7 @@
   },
   {
     "hash": "019E1A385BDC2AB2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/cable_box_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -152676,7 +152676,7 @@
   },
   {
     "hash": "018646DB1B7ACFC1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_office_red_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -153261,7 +153261,7 @@
   },
   {
     "hash": "01C9CC0508FF2FBF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/museum_props_a.template?/ship_museum_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -157336,7 +157336,7 @@
   },
   {
     "hash": "0100C0112101E07C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_hanging_arm_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -158811,7 +158811,7 @@
   },
   {
     "hash": "01FB1D27731E6F83",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_c_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -159411,7 +159411,7 @@
   },
   {
     "hash": "01EB6A3CC2E6E4D8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_f.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -161001,7 +161001,7 @@
   },
   {
     "hash": "01131391989C1728",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_barberry_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -164136,7 +164136,7 @@
   },
   {
     "hash": "019150229B871BC7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_barberry_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -165386,7 +165386,7 @@
   },
   {
     "hash": "0198318220F854F5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_plywood_1x1x1_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -165941,7 +165941,7 @@
   },
   {
     "hash": "017D4ADB6FE33110",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -167246,7 +167246,7 @@
   },
   {
     "hash": "01CE1C815C1E1F6D",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/shatter/fx_shatter_chandeliers.template?/fx_e_shatter_chandelier_impact_small_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -169431,7 +169431,7 @@
   },
   {
     "hash": "0121485B10837488",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/garbage_bottle_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -169496,7 +169496,7 @@
   },
   {
     "hash": "01F30345FB7C977D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_e_empty_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -169666,7 +169666,7 @@
   },
   {
     "hash": "01F4B48CD966EC75",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/cake_confection_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -171286,7 +171286,7 @@
   },
   {
     "hash": "0172EA8ECB1E896C",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_fishes.template?/fx_pm_fish_gold.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -171611,7 +171611,7 @@
   },
   {
     "hash": "0102237D5BE3EEDD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_f_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -172226,7 +172226,7 @@
   },
   {
     "hash": "0131B333A5272AEA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/food_cake_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -172956,7 +172956,7 @@
   },
   {
     "hash": "01CC38AA882B20D3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/sodacan_jitter_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -173006,7 +173006,7 @@
   },
   {
     "hash": "01609142F9159781",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_wooden_1x1x1_lid_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -173846,7 +173846,7 @@
   },
   {
     "hash": "01FAEC582006F376",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/laundry_carts_a.template?/trolley_small_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -174506,7 +174506,7 @@
   },
   {
     "hash": "01D13431E0C438EE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_park_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -179051,7 +179051,7 @@
   },
   {
     "hash": "01EF9F5D7834EE7F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/sodacan_jester_cluster_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -179116,7 +179116,7 @@
   },
   {
     "hash": "015EE1828947E805",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/redcarpet_palace_brass_rod_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -180741,7 +180741,7 @@
   },
   {
     "hash": "01908A0B5B0B4FF0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_plastic_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -180966,7 +180966,7 @@
   },
   {
     "hash": "0135B96379697E90",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/whiskey_decanter_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -181306,7 +181306,7 @@
   },
   {
     "hash": "01AB012C569BD594",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/staticdecal_interactive_puddle.template?/staticdecal_interactive_puddle.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -182541,7 +182541,7 @@
   },
   {
     "hash": "0177D9EF6E6F0AE0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/cable_box_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -183066,7 +183066,7 @@
   },
   {
     "hash": "015B2D92C7573B79",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/organ_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -186131,7 +186131,7 @@
   },
   {
     "hash": "017C02BF44D87C94",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/chicken_pot_snack_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -186401,7 +186401,7 @@
   },
   {
     "hash": "01F7B6AF05923C8E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_ledge_bundle_a_autumn.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -188761,7 +188761,7 @@
   },
   {
     "hash": "01FF20DDEEF83A36",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/rug_black_silver_a_folded.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -189236,7 +189236,7 @@
   },
   {
     "hash": "018829ECBA2A4E16",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_a02.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -189256,7 +189256,7 @@
   },
   {
     "hash": "015E8FC5E109BEF0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_barberry_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -190961,7 +190961,7 @@
   },
   {
     "hash": "01A94B74D8F014F2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_morgue_liquid_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -191356,7 +191356,7 @@
   },
   {
     "hash": "01EBA419CD0245EC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/liquid_container_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -192351,7 +192351,7 @@
   },
   {
     "hash": "01661FA989A4E327",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_b01.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -193746,7 +193746,7 @@
   },
   {
     "hash": "0113AD8AFF5807EF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_d_empty_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -194611,7 +194611,7 @@
   },
   {
     "hash": "012F8FC8A74123AB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_morgue_liquid_a_destructible.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -194786,7 +194786,7 @@
   },
   {
     "hash": "01D98426DBCD5179",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_beer_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -196106,7 +196106,7 @@
   },
   {
     "hash": "017F041228C7F835",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/cabinet_medical_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -196556,7 +196556,7 @@
   },
   {
     "hash": "01F3F1FBF619019E",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/misc/fx_draw.template?/fx_e_draw_water_interaction_npc.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -197516,7 +197516,7 @@
   },
   {
     "hash": "01D79C62A1B3C337",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_b_empty_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -199641,7 +199641,7 @@
   },
   {
     "hash": "01D1B38B10017526",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/wine_box_closed_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -200921,7 +200921,7 @@
   },
   {
     "hash": "0165F14C4D77DDD6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/water_bottle_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -201206,7 +201206,7 @@
   },
   {
     "hash": "016DE60671FCEFCE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_park_no_leafs_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -203521,7 +203521,7 @@
   },
   {
     "hash": "0131DFE4C8E73994",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_tube_metal_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -203706,7 +203706,7 @@
   },
   {
     "hash": "01CA7DA1736598D3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/mirrors_a.template?/mirror_bathroom_frameless_b_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -205656,7 +205656,7 @@
   },
   {
     "hash": "01482A37FD636E3C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_leaves_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -205706,7 +205706,7 @@
   },
   {
     "hash": "01546E3F9056B3A7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_cabinet_onwheels_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -206011,7 +206011,7 @@
   },
   {
     "hash": "0135B2EBE2361283",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/flags_a.template?/french_flag_tricolore_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -206641,7 +206641,7 @@
   },
   {
     "hash": "01D5AEDAE5F2EC62",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_d_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -207416,7 +207416,7 @@
   },
   {
     "hash": "019888CAAD2779E0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/laundry_carts_a.template?/laundry_carts_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -207701,7 +207701,7 @@
   },
   {
     "hash": "01FAA71FB628E02B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/security_hard_drive_a_elegant.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -208101,7 +208101,7 @@
   },
   {
     "hash": "01E4A3AD98A50A5A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_ledge_bundle_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -208511,7 +208511,7 @@
   },
   {
     "hash": "01F81FC1564962BA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_c_lid_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -209306,7 +209306,7 @@
   },
   {
     "hash": "01018B4ACACF36E1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_barberry_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -210151,7 +210151,7 @@
   },
   {
     "hash": "01D93747A849A6FF",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/shatter/fx_shatter_pottery.template?/fx_e_shatter_brick_red.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -210186,7 +210186,7 @@
   },
   {
     "hash": "012A05BBDAF6069E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/medical_stretcher_a_grey.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -213966,7 +213966,7 @@
   },
   {
     "hash": "01684EB0E928C68C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/rubble_pile_a_sizec_dark.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -214211,7 +214211,7 @@
   },
   {
     "hash": "01E5D3861137A8E4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_morgue_table_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -215106,7 +215106,7 @@
   },
   {
     "hash": "013B4162422A319F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -215661,7 +215661,7 @@
   },
   {
     "hash": "01BEF0E6C7B473A7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_lifesupport_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -217021,7 +217021,7 @@
   },
   {
     "hash": "01AAECC76F2B5888",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/computer_old_monitor_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -220301,7 +220301,7 @@
   },
   {
     "hash": "01599C71777103D4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_wooden_c_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -220616,7 +220616,7 @@
   },
   {
     "hash": "019549BF894D53EE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_a_full_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -221541,7 +221541,7 @@
   },
   {
     "hash": "019C9C8158635728",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_g.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -221756,7 +221756,7 @@
   },
   {
     "hash": "01EA9712CFAC8854",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_paper_a_open_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -222081,7 +222081,7 @@
   },
   {
     "hash": "01B60C45C52A9A4F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_platanus_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -222476,7 +222476,7 @@
   },
   {
     "hash": "01A39AD4E2FE151B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/mirrors_a.template?/mirror_marrakesh_d_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -222936,7 +222936,7 @@
   },
   {
     "hash": "01E13E26C01EFBA6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/containers_b.template?/container_plastic_recycling_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -223121,7 +223121,7 @@
   },
   {
     "hash": "013E097538F4F56B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_japanese_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -224546,7 +224546,7 @@
   },
   {
     "hash": "01638362111A974D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_tatami_mat_japan_100x120_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -224721,7 +224721,7 @@
   },
   {
     "hash": "01993C730FEA8FB1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/museum_props_a.template?/ship_museum_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -225031,7 +225031,7 @@
   },
   {
     "hash": "01888566F2480FC5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/wine_box_open_empty_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -225101,7 +225101,7 @@
   },
   {
     "hash": "015D8E124A244692",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/lighting/fog_planes_a.template?/fog_plane_100x100m_nofade.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -225636,7 +225636,7 @@
   },
   {
     "hash": "016B63978E67C58B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/shampoo_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -226261,7 +226261,7 @@
   },
   {
     "hash": "01A9CBDA6A95040C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_baroque_blue_a_small.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -226691,7 +226691,7 @@
   },
   {
     "hash": "01631FEAAED4A3FC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_japanese_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -227586,7 +227586,7 @@
   },
   {
     "hash": "01A956BBE21978E6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/deodorant_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -228026,7 +228026,7 @@
   },
   {
     "hash": "016B8B96050A9781",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/gymbag_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -228481,7 +228481,7 @@
   },
   {
     "hash": "010B8F60FEC39D80",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_bundle_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -228606,7 +228606,7 @@
   },
   {
     "hash": "01E61C4DCCB57F10",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_plywood_open_1x1x2_pictures_clean.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -228791,7 +228791,7 @@
   },
   {
     "hash": "01F41CA24FC0973C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/computer_old_keyboard_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -229746,7 +229746,7 @@
   },
   {
     "hash": "011A94B7DB944CBA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/plastic_utensils_wrapped_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -230061,7 +230061,7 @@
   },
   {
     "hash": "01ABD8B6C91D2487",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_wooden_1x05x1_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -230276,7 +230276,7 @@
   },
   {
     "hash": "0144AA8A8517B46F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/quixel_containerbox_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -230526,7 +230526,7 @@
   },
   {
     "hash": "01927485A07ADAF5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/hospital_glove_dispenser_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -232086,7 +232086,7 @@
   },
   {
     "hash": "01317F46AE209F2F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_e.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -233576,7 +233576,7 @@
   },
   {
     "hash": "019DBC85AD0082A4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_e_autumn.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -234001,7 +234001,7 @@
   },
   {
     "hash": "0117CE3D9FA8E60C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/old_persian_rug_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -234196,7 +234196,7 @@
   },
   {
     "hash": "015FF0BD5B8F72F2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_h.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -234746,7 +234746,7 @@
   },
   {
     "hash": "015396B93FE1ED33",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_leaves_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -235111,7 +235111,7 @@
   },
   {
     "hash": "0142A1FF26D0CAE2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_baroque_red_a_small.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -236266,7 +236266,7 @@
   },
   {
     "hash": "011BBC8C2E670F86",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_platanus_c.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -236286,7 +236286,7 @@
   },
   {
     "hash": "01A19FFE52FD129F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/mirrors_a.template?/mirror_bathroom_frameless_a_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -236996,7 +236996,7 @@
   },
   {
     "hash": "01ACEA8FEE636644",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/medical_duffle_bag_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -237156,7 +237156,7 @@
   },
   {
     "hash": "01AAEDB7157694E0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/sodacan_freshbubbles_cluster_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -237816,7 +237816,7 @@
   },
   {
     "hash": "01F33F12B0E89AF2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_b01_green.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -238851,7 +238851,7 @@
   },
   {
     "hash": "0164AE387869D786",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/bathroom/bathroom_props_a.template?/soap_bar_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -240386,7 +240386,7 @@
   },
   {
     "hash": "01FF52D586240AEA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/carpet_big_soft_d.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -241431,7 +241431,7 @@
   },
   {
     "hash": "0174D23BFFA83498",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/suitcases_a.template?/suitcase_b01_yellow.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -242121,7 +242121,7 @@
   },
   {
     "hash": "01AAB3C7E7ACE862",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/foliage/ivy_a.template?/ivy_vine_ledge_bundle_thin_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -242816,7 +242816,7 @@
   },
   {
     "hash": "01D753F00D55C9E9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/food/food_props_a.template?/can_soda_a_open.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -243726,7 +243726,7 @@
   },
   {
     "hash": "01229F1A487826CE",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_crows.template?/fx_e_crows.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -243926,7 +243926,7 @@
   },
   {
     "hash": "01D65C853D61D66E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_box_metal_e_lid_00.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -244146,7 +244146,7 @@
   },
   {
     "hash": "019C9B8F525827CB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_dirty_park_a_low.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -244591,7 +244591,7 @@
   },
   {
     "hash": "0147F3456AA1CE00",
-    "path": "",
+    "path": "[assembly:/_knt/effects/templates/animals/fx_rats.template?/fx_e_rats.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -245896,7 +245896,7 @@
   },
   {
     "hash": "016756752949FD6F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/decals/decals_ground_a.template?/decal_corner_leaves_b.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -246201,7 +246201,7 @@
   },
   {
     "hash": "019F370AAE32A561",
-    "path": "",
+    "path": "[assembly:/_knt/environment/templates/props/hospital/hospital_props_a.template?/organ_a.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {

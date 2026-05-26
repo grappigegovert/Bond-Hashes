@@ -41,7 +41,7 @@
   },
   {
     "hash": "01BE9AB7151A8707",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/couch_modern_livingroom_a.wl2?/couch_modern_livingroom_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "hash": "010FFCE3A3F769A8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/harbour_props/ocean_buoy_floats.wl2?/ocean_buoy_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "hash": "01E5C977C15C1711",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/table_stand_winery_a.wl2?/table_stand_winery_wood_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "hash": "0148281BE9E9040B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/miami_billboards_a.wl2?/billboard_truss_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -496,7 +496,7 @@
   },
   {
     "hash": "01DB902815CE1F40",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_tileset_big_heating_a.wl2?/big_heating_corner.prim].prim",
     "gameFlags": 1
   },
   {
@@ -1431,7 +1431,7 @@
   },
   {
     "hash": "0187CC85DCC2B503",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gym/benchpress_large_a.wl2?/benchpress_loaded_bar_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -1491,7 +1491,7 @@
   },
   {
     "hash": "01AAAA86B989BA69",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/moving_boxes_a.wl2?/moving_box_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -1636,7 +1636,7 @@
   },
   {
     "hash": "01FA4021C7E1E133",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/suitcase_b.wl2?/suitcase_b01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -3161,7 +3161,7 @@
   },
   {
     "hash": "01A999F21B34A338",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/indian_food_a.wl2?/indian_food_pile_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -3336,7 +3336,7 @@
   },
   {
     "hash": "019A5A863B87EDB0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/mirror_antique_a.wl2?/mirror_antique_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -4201,7 +4201,7 @@
   },
   {
     "hash": "010BE706D1AF4E81",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/equipment/hose_watering_a.wl2?/hose_watering_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -4316,7 +4316,7 @@
   },
   {
     "hash": "01F6390660931D45",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/laboratory/laboratory_pills_a.wl2?/laboratory_pills_b_open_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -4681,7 +4681,7 @@
   },
   {
     "hash": "019A891960CA0A7F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/pine_aleppo_a.wl2?/pine_aleppo_9m_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -4751,7 +4751,7 @@
   },
   {
     "hash": "01C7C6756DFE8084",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/melee/fireextinguisher_a.wl2?/fireextinguisher_holder_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -5896,7 +5896,7 @@
   },
   {
     "hash": "01077B068482A8C8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/cabletray_bunker_a.wl2?/cablestructure_bend_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -6056,7 +6056,7 @@
   },
   {
     "hash": "0178666B8B99D555",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_floor_a_lab_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -6566,7 +6566,7 @@
   },
   {
     "hash": "010A3EE1B7C64CD4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gameplay/letters/clipboard_a.wl2?/clipboard_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -7181,7 +7181,7 @@
   },
   {
     "hash": "016D6AD900F67442",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_counter_60.prim].prim",
     "gameFlags": 1
   },
   {
@@ -8926,7 +8926,7 @@
   },
   {
     "hash": "01760E20E037A728",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/ground_cover_clovers_a.wl2?/ground_cover_clovers_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -9371,7 +9371,7 @@
   },
   {
     "hash": "0182EE9E57368691",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_cabinet_110.prim].prim",
     "gameFlags": 1
   },
   {
@@ -9606,7 +9606,7 @@
   },
   {
     "hash": "01EBC2CF363A5564",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/street_trafficcone_a.wl2?/street_trafficcone_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -10576,7 +10576,7 @@
   },
   {
     "hash": "015A37FF67078110",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/hospital/hospital_lifesupport_b.wl2?/hospital_lifesupport_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -13266,7 +13266,7 @@
   },
   {
     "hash": "01113359E442E469",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/desk_modern_office_black_a.wl2?/desk_modern_office_black_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -13601,7 +13601,7 @@
   },
   {
     "hash": "0113E2429370DF19",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/books/book_antique_a.wl2?/book_antique_c_shatter.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -13826,7 +13826,7 @@
   },
   {
     "hash": "0160A39A4A8C98E8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_cabinet_110_door_left.prim].prim",
     "gameFlags": 1
   },
   {
@@ -13846,7 +13846,7 @@
   },
   {
     "hash": "015E08F4F642A11F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/carpet_baroque_red_a.wl2?/carpet_baroque_red_a_v2.prim].prim",
     "gameFlags": 1
   },
   {
@@ -13991,7 +13991,7 @@
   },
   {
     "hash": "01F25C0AC9645D2A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/cheese_collection_a.wl2?/cheese_m_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -14346,7 +14346,7 @@
   },
   {
     "hash": "016E2B030678C2DC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/roll_containers_a.wl2?/roll_container_a_shelf_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -14491,7 +14491,7 @@
   },
   {
     "hash": "01C67EB92070F7BB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/chair_relaxing_hokaido_b.wl2?/chair_relaxing_hokaido_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -14821,7 +14821,7 @@
   },
   {
     "hash": "01AB447349FC99CF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/books/book_antique_a.wl2?/book_antique_e_shatter.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -15686,7 +15686,7 @@
   },
   {
     "hash": "01C2EBE1E7B3C5AE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/laptop_a.wl2?/laptop_a_screen.prim].prim",
     "gameFlags": 1
   },
   {
@@ -16911,7 +16911,7 @@
   },
   {
     "hash": "015C066442990CC6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_e.prim].prim",
     "gameFlags": 1
   },
   {
@@ -17306,7 +17306,7 @@
   },
   {
     "hash": "01E646C93BE2D771",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/paper/cardgame_cards_b.wl2?/cardgame_heart_10.prim].prim",
     "gameFlags": 1
   },
   {
@@ -17401,7 +17401,7 @@
   },
   {
     "hash": "01DD40800491497C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/photocopymachine_a.wl2?/photocopymachine_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -18066,7 +18066,7 @@
   },
   {
     "hash": "0103E02ACED0187C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/container_cardboard_box_c.wl2?/container_cardboard_box_c_size_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -18601,7 +18601,7 @@
   },
   {
     "hash": "011B0C4F8EFBA9AA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/bush_barberry_a.wl2?/bush_barberry_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -18946,7 +18946,7 @@
   },
   {
     "hash": "01A967CF8193940E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/architecture/walls/plywood_walls_support_a.wl2?/plywood_support_outerwall_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -19066,7 +19066,7 @@
   },
   {
     "hash": "0183CA3E6567AD26",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/apc_a/apc_a.wl2?/hmg_a_exterior.prim].prim",
     "gameFlags": 1
   },
   {
@@ -20161,7 +20161,7 @@
   },
   {
     "hash": "01912466E187DAE3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_a_small_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -21146,7 +21146,7 @@
   },
   {
     "hash": "01EEC1C965922699",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/hospital/trauma_gloves_dispenser_a.wl2?/trauma_gloves_dispenser_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -21571,7 +21571,7 @@
   },
   {
     "hash": "011F79DEC63AE130",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/sunbed_table_wooden_a.wl2?/sunbed_wooden_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -22446,7 +22446,7 @@
   },
   {
     "hash": "01515DF1604ACDE7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_cabinet_110_door_right.prim].prim",
     "gameFlags": 1
   },
   {
@@ -23251,7 +23251,7 @@
   },
   {
     "hash": "01C52A56106F59C4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/carpet_baroque_red_a.wl2?/carpet_baroque_red_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -23841,7 +23841,7 @@
   },
   {
     "hash": "01B658E5CB62D645",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/closet_antique_a.wl2?/hiding_closet_door_right_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -24041,7 +24041,7 @@
   },
   {
     "hash": "01C8117E71E1F8A6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_tileset_big_heating_a.wl2?/big_heating_2m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -24851,7 +24851,7 @@
   },
   {
     "hash": "01A7A29D95F258EB",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_500m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -24911,7 +24911,7 @@
   },
   {
     "hash": "012823F293EF7BD7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/chandelier_palace_small_a.wl2?/chandeliere_palace_small_a_main.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -25071,7 +25071,7 @@
   },
   {
     "hash": "012B5A9A1A84EFC8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/accessories/painting_accessories_a.wl2?/painting_pencil_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -26001,7 +26001,7 @@
   },
   {
     "hash": "01F6F2124135A507",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/desk_modern_office_black_a.wl2?/desk_modern_office_black_a_small_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -26051,7 +26051,7 @@
   },
   {
     "hash": "01E39F25FB6488CC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/ground_cover_clovers_a.wl2?/ground_cover_clovers_i.prim].prim",
     "gameFlags": 1
   },
   {
@@ -26516,7 +26516,7 @@
   },
   {
     "hash": "01B204502CB76DE8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/bed_penthouse_a.wl2?/bed_penthouse_clean_a_mattress.prim].prim",
     "gameFlags": 1
   },
   {
@@ -27406,7 +27406,7 @@
   },
   {
     "hash": "017B40DE98E4A994",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/garden_props/pot_ceramic_big_round_a.wl2?/pot_ceramic_big_round_b_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -27466,7 +27466,7 @@
   },
   {
     "hash": "011345A132476B6F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/laboratory/laboratory_pills_a.wl2?/laboratory_pills_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -28196,7 +28196,7 @@
   },
   {
     "hash": "01FC2478019FFC78",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/hedge_a.wl2?/hedge_box_8x150_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -28436,7 +28436,7 @@
   },
   {
     "hash": "01BD527CFFA7392D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/shipping_container_a.wl2?/shipping_container_short_a_door_right.prim].prim",
     "gameFlags": 1
   },
   {
@@ -29811,7 +29811,7 @@
   },
   {
     "hash": "013DCD1291B2E6BF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/cabletray_bunker_a.wl2?/cablestructure_600cm_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -30251,7 +30251,7 @@
   },
   {
     "hash": "01FCF047117ED7F5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/accessories/canvases_painting_a.wl2?/canvas_d_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -30771,7 +30771,7 @@
   },
   {
     "hash": "01C95668950607B8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/fashionshow_chair_a.wl2?/chair_arms_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -30851,7 +30851,7 @@
   },
   {
     "hash": "01233EDCB624D822",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/hedge_a.wl2?/hedge_round_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -31111,7 +31111,7 @@
   },
   {
     "hash": "01E125780790A6DF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_counter_100.prim].prim",
     "gameFlags": 1
   },
   {
@@ -31581,7 +31581,7 @@
   },
   {
     "hash": "01F97296449B7DC0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_traditional_a.wl2?/kitchen_kit_cabinet_side_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -31851,7 +31851,7 @@
   },
   {
     "hash": "01B0FB809F2EF296",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/tractor_tyres_a.wl2?/tractor_tyres_a_rim.prim].prim",
     "gameFlags": 1
   },
   {
@@ -32521,7 +32521,7 @@
   },
   {
     "hash": "0198D4DAD4BD782A",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/melee/fireextinguisher_a.wl2?/fireextinguisher_a_shatter.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -33626,7 +33626,7 @@
   },
   {
     "hash": "01F7D118D8C25F04",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/chandelier_palace_small_b.wl2?/chandeliere_palace_small_b_main.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -34296,7 +34296,7 @@
   },
   {
     "hash": "01ED67718A1B35FD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/school/spray_can_a.wl2?/spray_can_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -34346,7 +34346,7 @@
   },
   {
     "hash": "019F974B1415DE4B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/leisure/pool_table_triangle_a.wl2?/cue_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -34651,7 +34651,7 @@
   },
   {
     "hash": "01F2F914DECED6CA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_tileset_big_heating_a.wl2?/big_heating_8m_end.prim].prim",
     "gameFlags": 1
   },
   {
@@ -34961,7 +34961,7 @@
   },
   {
     "hash": "0133BCC589522769",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/cheese_collection_a.wl2?/cheese_g_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -35231,7 +35231,7 @@
   },
   {
     "hash": "015B0E36798699A9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_floor_a_lab_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -36606,7 +36606,7 @@
   },
   {
     "hash": "01B4724E3795FB6C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/dugong/dugong_net_hanging_a.wl2?/dugong_net_pile_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -37021,7 +37021,7 @@
   },
   {
     "hash": "01163D5C353CC281",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_50_cm_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -37036,7 +37036,7 @@
   },
   {
     "hash": "01EFC98CC1F5CE05",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/indian_food_a.wl2?/indian_food_pile_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -37101,7 +37101,7 @@
   },
   {
     "hash": "01B8B997B0180616",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_floor_a_lab_c_llama.prim].prim",
     "gameFlags": 1
   },
   {
@@ -37411,7 +37411,7 @@
   },
   {
     "hash": "017C346CEBF146B3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_cabinet_side_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -37971,7 +37971,7 @@
   },
   {
     "hash": "01DDA580CDDD739C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/architecture/fences/fence_wire_a.wl2?/fence_wire_top_end_a_single.prim].prim",
     "gameFlags": 1
   },
   {
@@ -38621,7 +38621,7 @@
   },
   {
     "hash": "01523B74C30B0498",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/carpet_big_soft_a.wl2?/carpet_big_soft_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -39431,7 +39431,7 @@
   },
   {
     "hash": "0111EAF0E6C2FD5C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/museum_entrance_counter_a.wl2?/palacevintageposter_palace_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -40541,7 +40541,7 @@
   },
   {
     "hash": "01B708AD8AF522CD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/ground_cover_clovers_a.wl2?/ground_cover_clovers_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -40951,7 +40951,7 @@
   },
   {
     "hash": "01ECA0FA5ECCB8E5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/dead_bush_a.wl2?/dead_bush_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -41566,7 +41566,7 @@
   },
   {
     "hash": "01F35455680ECE19",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/suitcase_a.wl2?/suitcase_a01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -41746,7 +41746,7 @@
   },
   {
     "hash": "0171834DCF2EAA6C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/sunbed_table_wooden_a.wl2?/sunbed_table_wooden_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -42316,7 +42316,7 @@
   },
   {
     "hash": "01424326B9497CA5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/lamp_modern_chrome_standing_a.wl2?/lamp_modern_chrome_standing_arm.prim].prim",
     "gameFlags": 1
   },
   {
@@ -42711,7 +42711,7 @@
   },
   {
     "hash": "017417D4ADA05F20",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/militaryradio_a.wl2?/militaryradio_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -42796,7 +42796,7 @@
   },
   {
     "hash": "01B5A7DECF683F6F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/cabletray_bunker_a.wl2?/cablestructure_600cm_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -43911,7 +43911,7 @@
   },
   {
     "hash": "0110E332E79BE86A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/container_cardboard_box_b.wl2?/container_cardboard_box_b_type_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -44056,7 +44056,7 @@
   },
   {
     "hash": "01067603BD8B4581",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/pine_aleppo_a.wl2?/pine_aleppo_9m_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -44951,7 +44951,7 @@
   },
   {
     "hash": "010213DD1D621974",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/restaurant_bar_stool_a.wl2?/restaurant_bar_stool_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -45041,7 +45041,7 @@
   },
   {
     "hash": "0124DFEB4A937306",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/utensils/mug_a.wl2?/mug_b_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -45276,7 +45276,7 @@
   },
   {
     "hash": "01083858127EE8C8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/humidor_a.wl2?/humidor_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -45681,7 +45681,7 @@
   },
   {
     "hash": "01BD2908A6BBB365",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/fan_small_b.wl2?/fan_small_b_zrot_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -46131,7 +46131,7 @@
   },
   {
     "hash": "01A527EC08EA428F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/utensils/tray_silver_a.wl2?/tray_gold_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -46166,7 +46166,7 @@
   },
   {
     "hash": "016B80FE8C2D1AD6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/pine_aleppo_a.wl2?/pine_aleppo_9m_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -47696,7 +47696,7 @@
   },
   {
     "hash": "01304AC9A7327651",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/equipment/emergency_parachute_container_a.wl2?/emergency_parachute_container_door_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -47756,7 +47756,7 @@
   },
   {
     "hash": "016389A1A0DE6D09",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/lamp_modern_chrome_standing_a.wl2?/lamp_modern_chrome_standing_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -47831,7 +47831,7 @@
   },
   {
     "hash": "01017F1BE1DBB103",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/bottle_rum_a.wl2?/rum_bottle_a_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -48031,7 +48031,7 @@
   },
   {
     "hash": "01DC990B77B1CF91",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/leisure/arcade_cabinet_a.wl2?/arcade_cabinet_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -48281,7 +48281,7 @@
   },
   {
     "hash": "01DCDF274A4A2D10",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/plastic_sheets_fence_c.wl2?/plastic_sheets_fence_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -48901,7 +48901,7 @@
   },
   {
     "hash": "0102EA0E03ED98F9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/barn_scaffold_a.wl2?/barn_scaffold_long_pole_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -49661,7 +49661,7 @@
   },
   {
     "hash": "0127F185486415B3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/plastic_sheets_fence_a.wl2?/plastic_sheets_fence_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -51086,7 +51086,7 @@
   },
   {
     "hash": "01EF9D877D1D3F7F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/microphone_stand_a.wl2?/microphone_stand_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -51476,7 +51476,7 @@
   },
   {
     "hash": "01368AC488E2EC30",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/paintings/paintings_classic_italian_a.wl2?/canvas_square_size_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -52651,7 +52651,7 @@
   },
   {
     "hash": "014706DBE0DADC6D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/indian_food_a.wl2?/indian_food_pile_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -53601,7 +53601,7 @@
   },
   {
     "hash": "01FD7848DE1B67BF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/roof_aircondition_a.wl2?/roof_aircondition_a_fan_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -53706,7 +53706,7 @@
   },
   {
     "hash": "0151CF3577055141",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_floor_a_airlock_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -54161,7 +54161,7 @@
   },
   {
     "hash": "01D5EB5DD8490B14",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/plastic_sheets_fence_d.wl2?/plastic_sheets_fence_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -54301,7 +54301,7 @@
   },
   {
     "hash": "017CB715EA1B450D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/cabletray_bunker_a.wl2?/cablestructure_corner_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -54576,7 +54576,7 @@
   },
   {
     "hash": "01924F1C03199958",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/closet_antique_a.wl2?/hiding_closet_antique_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -55866,7 +55866,7 @@
   },
   {
     "hash": "0165A960A5CF9142",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/miami_billboards_a.wl2?/billboard_ytruss_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -58051,7 +58051,7 @@
   },
   {
     "hash": "01BB089ED26A97E8",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_1m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -59386,7 +59386,7 @@
   },
   {
     "hash": "011753548F24F9E1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/chair_office_modern_leather_a.wl2?/chair_office_modern_leather_a_legs_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -60396,7 +60396,7 @@
   },
   {
     "hash": "0150A42C2E5941F4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/pallet_wooden_worn_a.wl2?/pallet_wooden_worn_big_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -60841,7 +60841,7 @@
   },
   {
     "hash": "0147E27A65051123",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_cabinet_side_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -61406,7 +61406,7 @@
   },
   {
     "hash": "010B22E92B88B76F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_laundry_mumbai_a.wl2?/pipes_laundry_mumbai_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -61806,7 +61806,7 @@
   },
   {
     "hash": "0126F8B31B292C56",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/crates_wooden_a.wl2?/crate_wooden_1x1x1_lid_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -62746,7 +62746,7 @@
   },
   {
     "hash": "01AE35C5F0D5946A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/bush_barberry_a.wl2?/bush_barberry_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -63621,7 +63621,7 @@
   },
   {
     "hash": "0163BE6694DE45DB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/architecture/walls/wall_tiles_set_a.wl2?/wall_tile_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -64571,7 +64571,7 @@
   },
   {
     "hash": "01374DC89317F711",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/architecture/wells/well_stone_decorated_italy_a.wl2?/well_stone_decorated_magpie_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -65546,7 +65546,7 @@
   },
   {
     "hash": "01120798CA62D7CE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/fan_stand_a.wl2?/fan_stand_a_rotator_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -67366,7 +67366,7 @@
   },
   {
     "hash": "01743DACBBAF36A4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/lamp_table_office_b.wl2?/office_table_lamp_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -67816,7 +67816,7 @@
   },
   {
     "hash": "0108D0C6C536F3AF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/lamp_modern_chrome_standing_a.wl2?/lamp_modern_chrome_standing_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -67851,7 +67851,7 @@
   },
   {
     "hash": "01D49D56B587D4A0",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/melee/foldingknife_b.wl2?/foldingknife_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -68111,7 +68111,7 @@
   },
   {
     "hash": "016C89C466F31E81",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/chandelier_palace_small_b.wl2?/chandeliere_palace_small_b_base.prim].prim",
     "gameFlags": 1
   },
   {
@@ -68631,7 +68631,7 @@
   },
   {
     "hash": "01F28A7B72B318DE",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_1m_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -69976,7 +69976,7 @@
   },
   {
     "hash": "010DBAE3D0AF22B5",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_4m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -71001,7 +71001,7 @@
   },
   {
     "hash": "01432FED8BEFF824",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_tileset_blue_a.wl2?/pipe_d20_blue_b_corner_25cm_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -71551,7 +71551,7 @@
   },
   {
     "hash": "0131967C4FB26E44",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/plastic_toy_box_a.wl2?/plastic_toy_box_large_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -71951,7 +71951,7 @@
   },
   {
     "hash": "01A9471AFBC4AE7A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/ground_cover_clovers_a.wl2?/ground_cover_clovers_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -74126,7 +74126,7 @@
   },
   {
     "hash": "012C056E8212016A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/asphalt_debris_a.wl2?/asphalt_debris_stone_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -74361,7 +74361,7 @@
   },
   {
     "hash": "01DEC2C263028928",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/contemporary_cylindrical_light_a.wl2?/contemporary_cylindrical_light_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -74506,7 +74506,7 @@
   },
   {
     "hash": "01F55FB305862CD9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/mirror_antique_a.wl2?/mirror_antique_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -74746,7 +74746,7 @@
   },
   {
     "hash": "015447BA6ED9083A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/plastic_sheets_fence_a.wl2?/plastic_sheets_fence_a_02.prim].prim",
     "gameFlags": 1
   },
   {
@@ -75306,7 +75306,7 @@
   },
   {
     "hash": "01AAB4AD44511314",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/hedge_a.wl2?/hedge_round_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -75411,7 +75411,7 @@
   },
   {
     "hash": "01CF522E5138893C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -75991,7 +75991,7 @@
   },
   {
     "hash": "01307954CFC19A5D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/library_furniture_penthouse_a.wl2?/library_shelf_penthouse_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -76081,12 +76081,12 @@
   },
   {
     "hash": "01A648422C203BDC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/equipment/hose_watering_a.wl2?/hose_watering_handle_a.prim].prim",
     "gameFlags": 1
   },
   {
     "hash": "010FBAE6D6427E23",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_10cm.prim].prim",
     "gameFlags": 1
   },
   {
@@ -76271,7 +76271,7 @@
   },
   {
     "hash": "0143AFF4152702F9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_floor_bronx_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -77111,7 +77111,7 @@
   },
   {
     "hash": "01FD60F113658BE2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/utensils/mug_a.wl2?/mug_a_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -77316,7 +77316,7 @@
   },
   {
     "hash": "015CBB446FEB1976",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_10m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -77506,7 +77506,7 @@
   },
   {
     "hash": "01B2194BDE0CB6EA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_floor_a_airlock_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -77761,7 +77761,7 @@
   },
   {
     "hash": "0105E8397D80DF22",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/books/book_antique_a.wl2?/book_antique_b_shatter.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -77986,7 +77986,7 @@
   },
   {
     "hash": "01906D19911663A7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/dugong/dugong_net_hanging_a.wl2?/dugong_net_hanging_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -79856,7 +79856,7 @@
   },
   {
     "hash": "0108077791931BFE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_floor_a_lab.prim].prim",
     "gameFlags": 1
   },
   {
@@ -79936,7 +79936,7 @@
   },
   {
     "hash": "01901AC52A76086A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/wall_clock_a.wl2?/wall_clock_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -80176,7 +80176,7 @@
   },
   {
     "hash": "012144A492358190",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_tileset_big_heating_a.wl2?/big_heating_4m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -80796,7 +80796,7 @@
   },
   {
     "hash": "01D14F70292AE9DB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/pine_aleppo_a.wl2?/pine_aleppo_9m_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -81171,7 +81171,7 @@
   },
   {
     "hash": "01D8C220224ACB57",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_tileset_big_heating_a.wl2?/big_heating_8m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -81261,7 +81261,7 @@
   },
   {
     "hash": "01D38E5E78684ADA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gameplay/containers/crate_styrofoam_a.wl2?/container_styrofoam_laboratory_a_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -81361,7 +81361,7 @@
   },
   {
     "hash": "01FFB29B0E2B91A9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/contemporary_cylindrical_light_a.wl2?/contemporary_cylindrical_light_link_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -81716,7 +81716,7 @@
   },
   {
     "hash": "017293212AFF6E76",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/lockers_a.wl2?/lockers_door_a_00_dynamic.prim].prim",
     "gameFlags": 1
   },
   {
@@ -82191,7 +82191,7 @@
   },
   {
     "hash": "01F7DB50735CB8FE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gym/hand_weights_a.wl2?/hand_weight_15kg_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -82581,7 +82581,7 @@
   },
   {
     "hash": "011F25FC31B1C428",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/miami_billboards_a.wl2?/billboard_truss_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -82731,7 +82731,7 @@
   },
   {
     "hash": "01F0EEEAEC9B3286",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/flags/american_flag_a.wl2?/american_flag_b_small_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -82836,7 +82836,7 @@
   },
   {
     "hash": "014D7E6721800B21",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/jungle_bush_b.wl2?/junglebush_b_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -82871,7 +82871,7 @@
   },
   {
     "hash": "0156BB554EF15B66",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/cheese_collection_a.wl2?/cheese_h_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -83136,7 +83136,7 @@
   },
   {
     "hash": "012265E15A7D9585",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/roll_containers_a.wl2?/roll_container_a_open_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -83156,7 +83156,7 @@
   },
   {
     "hash": "01785DA0DEED1FD3",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_cylinder_1m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -83621,7 +83621,7 @@
   },
   {
     "hash": "0119EA17600A1DF1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/cheese_collection_a.wl2?/cheese_d_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -83801,7 +83801,7 @@
   },
   {
     "hash": "0160194BA0CE5415",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gym/benchpress_large_a.wl2?/benchpress_weight_45_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -83856,7 +83856,7 @@
   },
   {
     "hash": "01A6FC85FCC5F069",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/hedge_a.wl2?/hedge_box_8x3_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -84301,7 +84301,7 @@
   },
   {
     "hash": "01CB0EF3526CBC5B",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/water/fx_generic_water.wl2?/fx_generic_water_plane_16x16_segments.prim].prim",
     "gameFlags": 1
   },
   {
@@ -86961,7 +86961,7 @@
   },
   {
     "hash": "0128233FB5B19958",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_tileset_big_heating_a.wl2?/big_heating_valve.prim].prim",
     "gameFlags": 1
   },
   {
@@ -87236,7 +87236,7 @@
   },
   {
     "hash": "01D8AC211E1E9992",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_laundry_mumbai_a.wl2?/pipes_laundry_mumbai_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -87406,7 +87406,7 @@
   },
   {
     "hash": "018C4D8873501D04",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/indian_food_a.wl2?/indian_food_pile_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -87731,7 +87731,7 @@
   },
   {
     "hash": "0186724C9C720355",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/suitcase_b.wl2?/suitcase_b02.prim].prim",
     "gameFlags": 1
   },
   {
@@ -87976,7 +87976,7 @@
   },
   {
     "hash": "013E79592AC43C8A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/garden_props/wheelbarrow_a.wl2?/wheelbarrow_a_kinematic.prim].prim",
     "gameFlags": 1
   },
   {
@@ -88731,7 +88731,7 @@
   },
   {
     "hash": "01342FFBF13A4BAB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/tractor_tyres_a.wl2?/tractor_tyres_a_tyre.prim].prim",
     "gameFlags": 1
   },
   {
@@ -88781,7 +88781,7 @@
   },
   {
     "hash": "0155BFCE1C3360A0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/signs/signs_shop_electric_a.wl2?/sign_shop_mobile_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -89191,7 +89191,7 @@
   },
   {
     "hash": "010896A7D11D1D57",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/utensils/tray_silver_a.wl2?/tray_silver_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -90906,7 +90906,7 @@
   },
   {
     "hash": "011BB80D59D02B71",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/trash/old_tyre_a.wl2?/old_tyre_a_dynamic.prim].prim",
     "gameFlags": 1
   },
   {
@@ -91181,7 +91181,7 @@
   },
   {
     "hash": "01C6BDBCA033240A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_island_100.prim].prim",
     "gameFlags": 1
   },
   {
@@ -91476,7 +91476,7 @@
   },
   {
     "hash": "01CECB9A9004BAE8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/asphalt_debris_a.wl2?/asphalt_debris_stone_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -91781,7 +91781,7 @@
   },
   {
     "hash": "013B175433F1A3DC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/humidor_a.wl2?/humidor_lid_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -92696,7 +92696,7 @@
   },
   {
     "hash": "01481B4A3A5338F4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/office_props/office_scrapbook_containers_a.wl2?/office_scrapbook_container_small_rigidbody_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -92931,7 +92931,7 @@
   },
   {
     "hash": "01357550C73222C1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/library_bookshelf_a.wl2?/library_book_single_destructible_b.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -93316,7 +93316,7 @@
   },
   {
     "hash": "01A654E32A018804",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/equipment/rake_a.wl2?/rake_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -93346,7 +93346,7 @@
   },
   {
     "hash": "01CE07D6330F2B44",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gym/hand_weights_a.wl2?/hand_weight_10kg_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -93521,7 +93521,7 @@
   },
   {
     "hash": "01B9FE7B7846B1F5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/military_box_wooden_a.wl2?/military_box_wooden_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -93921,7 +93921,7 @@
   },
   {
     "hash": "01EA0432EC71DF7D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/cheese_collection_a.wl2?/cheese_k_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -94016,7 +94016,7 @@
   },
   {
     "hash": "01664EE695A96EF6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -94786,7 +94786,7 @@
   },
   {
     "hash": "01FEF49090FD9A23",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/fan_small_b.wl2?/fan_small_b_rotator_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -95141,7 +95141,7 @@
   },
   {
     "hash": "011CE229DE500A9E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/lamp_pole_modern_a.wl2?/lamp_pole_modern_single_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -95276,7 +95276,7 @@
   },
   {
     "hash": "012195E175A9CA72",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/cheese_collection_a.wl2?/cheese_a_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -96506,7 +96506,7 @@
   },
   {
     "hash": "0153AD1D2F6BF88D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/bottle_water_glass_a.wl2?/bottle_water_glass_open_a_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -97571,7 +97571,7 @@
   },
   {
     "hash": "01BE95251510B3D6",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_100m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -98446,7 +98446,7 @@
   },
   {
     "hash": "01A9599320F54000",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/crates_wooden_a.wl2?/crate_open_1x1x2_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -99746,7 +99746,7 @@
   },
   {
     "hash": "01703940F31C2F6D",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/apc_a/apc_a.wl2?/apc_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -101466,7 +101466,7 @@
   },
   {
     "hash": "016AF48615189AD7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/fridge_old_a.wl2?/fridge_old_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -101656,7 +101656,7 @@
   },
   {
     "hash": "01823839033B4E20",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_floor_a_airlock.prim].prim",
     "gameFlags": 1
   },
   {
@@ -101976,7 +101976,7 @@
   },
   {
     "hash": "014D052F191667F0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/plastic_sheets_fence_b.wl2?/plastic_sheets_fence_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -102681,7 +102681,7 @@
   },
   {
     "hash": "01E1D6780EF55DFE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gym/benchpress_large_a.wl2?/benchpress_weight_55_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -102761,7 +102761,7 @@
   },
   {
     "hash": "01D32AE5870684D9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/whiskey_decanter_a.wl2?/whiskey_decanter_c.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -102891,7 +102891,7 @@
   },
   {
     "hash": "01FA53D4FA628B36",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/plastic_sheets_fence_a.wl2?/plastic_sheets_fence_a_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -103221,7 +103221,7 @@
   },
   {
     "hash": "015C18074203AA24",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/utilities/oil_tank_a.wl2?/oil_tank_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -103731,7 +103731,7 @@
   },
   {
     "hash": "018951E924D5407F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_cabinet_60.prim].prim",
     "gameFlags": 1
   },
   {
@@ -104721,7 +104721,7 @@
   },
   {
     "hash": "017C6E76402A10C0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/shipping_container_a.wl2?/shipping_container_short_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -105036,7 +105036,7 @@
   },
   {
     "hash": "0135A01D3C7CEA31",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gym/fitness_modular_mat_a.wl2?/fitness_mat_modular_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -106301,7 +106301,7 @@
   },
   {
     "hash": "0143424668FE1E9E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/atm_a.wl2?/atm_flap_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -106861,7 +106861,7 @@
   },
   {
     "hash": "01F51F6A3CCD0C1A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/generator_a.wl2?/petrolgenerator_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -107301,7 +107301,7 @@
   },
   {
     "hash": "01105D035E5BB0FA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/closet_antique_a.wl2?/hiding_closet_door_left_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -109451,7 +109451,7 @@
   },
   {
     "hash": "016AE987CA1201D4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/bush_barberry_a.wl2?/bush_barberry_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -109981,7 +109981,7 @@
   },
   {
     "hash": "0160EFB2D081113B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -110091,7 +110091,7 @@
   },
   {
     "hash": "01AABBB71A2782F2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/mirror_antique_a.wl2?/mirror_antique_frame_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -110446,7 +110446,7 @@
   },
   {
     "hash": "018B6A47F36F85DF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_tileset_big_heating_a.wl2?/big_heating_1m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -110921,7 +110921,7 @@
   },
   {
     "hash": "010494F09E66F3F4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/body_container_dumpster_metal_a.wl2?/body_container_dumpster_metal_c_lid.prim].prim",
     "gameFlags": 1
   },
   {
@@ -110971,7 +110971,7 @@
   },
   {
     "hash": "01C54EEE06293AF8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -111206,7 +111206,7 @@
   },
   {
     "hash": "01AB2AE056F70BF8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/shelf_marrakesh_b.wl2?/shelf_marrakesh_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -112266,7 +112266,7 @@
   },
   {
     "hash": "01AD01363A1FC621",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/vending_machine_soda_a.wl2?/vending_machine_soda_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -112876,7 +112876,7 @@
   },
   {
     "hash": "0162FAC96D92DE2D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/paintings/paintings_modern_b.wl2?/painting_swedish_c_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -113291,7 +113291,7 @@
   },
   {
     "hash": "018B63F4F8884EDB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/magnifier_lamp_a.wl2?/magnifier_lamp_a_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -113331,7 +113331,7 @@
   },
   {
     "hash": "014D91323FE7CD8B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/bush_barberry_a.wl2?/bush_barberry_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -113691,7 +113691,7 @@
   },
   {
     "hash": "018EF02BDB4C76F7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/bathroom/ventilation_grid_a.wl2?/ventilation_grid_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -114316,7 +114316,7 @@
   },
   {
     "hash": "0145D260AA4597C3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/museum_entrance_counter_a.wl2?/palacevintageposter_palace_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -114536,7 +114536,7 @@
   },
   {
     "hash": "018A4646B398C879",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/carpet_big_soft_a.wl2?/carpet_big_soft_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -115536,7 +115536,7 @@
   },
   {
     "hash": "014FC045AF5DFD76",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/military_box_wooden_a.wl2?/military_box_wooden_a_kinematic.prim].prim",
     "gameFlags": 1
   },
   {
@@ -115906,7 +115906,7 @@
   },
   {
     "hash": "01F7EC7349635914",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/rusty_metal_barrels_a.wl2?/rusty_metal_barrels_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -115936,7 +115936,7 @@
   },
   {
     "hash": "01FF9EF1F6AA3406",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/tv_screen_fashionshow_a.wl2?/tv_screen_wall_big_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -116106,7 +116106,7 @@
   },
   {
     "hash": "01B4AF94FB915EE0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/vending_machine_soda_a.wl2?/vending_machine_soda_b_door.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -116356,7 +116356,7 @@
   },
   {
     "hash": "014F545AA6AB0050",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/computer_old_a.wl2?/computer_old_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -116736,7 +116736,7 @@
   },
   {
     "hash": "011C7401C63EE5EF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/hedge_a.wl2?/hedge_round_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -117111,7 +117111,7 @@
   },
   {
     "hash": "0124EE28EE6EFB86",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -117386,7 +117386,7 @@
   },
   {
     "hash": "01B0278661E947EC",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/melee/amputationknife_a.wl2?/amputationknife_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -117431,7 +117431,7 @@
   },
   {
     "hash": "0118FE0C3BB3C17C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_traditional_a.wl2?/kitchen_kit_cabinet_side_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -118456,7 +118456,7 @@
   },
   {
     "hash": "01A9093E7D9E316B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_endpiece_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -119236,7 +119236,7 @@
   },
   {
     "hash": "01E0730BD651C9F6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_counter_side_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -119431,7 +119431,7 @@
   },
   {
     "hash": "01DEB0D26E39A8F7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/rusty_metal_barrels_a.wl2?/rusty_metal_barrels_c_kinematic.prim].prim",
     "gameFlags": 1
   },
   {
@@ -119836,7 +119836,7 @@
   },
   {
     "hash": "013C24420AF4347E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/school/spray_can_a.wl2?/spray_can_a_open_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -120551,7 +120551,7 @@
   },
   {
     "hash": "017B5316C7ADDD52",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_counter_side_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -120986,7 +120986,7 @@
   },
   {
     "hash": "01CAB56DB8CCBB78",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/folding_portable_table_a.wl2?/folding_portable_table_cloth_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -121001,7 +121001,7 @@
   },
   {
     "hash": "019F20D1E54722F1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_laundry_mumbai_a.wl2?/pipes_laundry_mumbai_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -121261,7 +121261,7 @@
   },
   {
     "hash": "01F5ADD8721DA8F6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/dead_bush_a.wl2?/dead_bush_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -122596,7 +122596,7 @@
   },
   {
     "hash": "01C38CFE5B189A6C",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_box_1m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -122906,7 +122906,7 @@
   },
   {
     "hash": "018FC743F9EC5ABB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_cabinet_corner.prim].prim",
     "gameFlags": 1
   },
   {
@@ -122991,7 +122991,7 @@
   },
   {
     "hash": "013FE8D94DB7400F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/table_library_penthouse_a.wl2?/table_library_penthouse_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -123191,7 +123191,7 @@
   },
   {
     "hash": "0141AFE9F8F460C6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/whiskey_decanter_a.wl2?/whiskey_decanter_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -124236,7 +124236,7 @@
   },
   {
     "hash": "01D62839CD2D260D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_counter_sink.prim].prim",
     "gameFlags": 1
   },
   {
@@ -124296,7 +124296,7 @@
   },
   {
     "hash": "018946AD7A3AF515",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/bottle_vodka_c.wl2?/vodka_bottle_c_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -124776,7 +124776,7 @@
   },
   {
     "hash": "01DB9EB9FC9E4200",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/contemporary_cylindrical_light_a.wl2?/contemporary_cylindrical_light_end_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -126276,7 +126276,7 @@
   },
   {
     "hash": "0112D5D1BF42E37E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gym/fitness_modular_mat_a.wl2?/fitness_mat_modular_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -127051,7 +127051,7 @@
   },
   {
     "hash": "01D4553E791DE8E2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/tractor_tyres_a.wl2?/tractor_tyres_a_full.prim].prim",
     "gameFlags": 1
   },
   {
@@ -127106,7 +127106,7 @@
   },
   {
     "hash": "0118E75A5387AB29",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/ground_cover_clovers_a.wl2?/ground_cover_clovers_f.prim].prim",
     "gameFlags": 1
   },
   {
@@ -127191,7 +127191,7 @@
   },
   {
     "hash": "01E0A2F574B714D1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/mirror_antique_a.wl2?/mirror_antique_frame_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -127746,7 +127746,7 @@
   },
   {
     "hash": "013CB6E4B0465C56",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/mirror_antique_a.wl2?/mirror_bathroom_frameless_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -128856,7 +128856,7 @@
   },
   {
     "hash": "01A45E5A4018B3F1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/beer_bottles_a.wl2?/beer_bottle_a_open_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -129761,7 +129761,7 @@
   },
   {
     "hash": "01BBD5B88FE076DF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/trash/old_tyre_a.wl2?/old_tyre_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -130406,7 +130406,7 @@
   },
   {
     "hash": "012006E47141CC9C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/lamp_modern_chrome_standing_a.wl2?/lamp_modern_chrome_standing_arm_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -130551,7 +130551,7 @@
   },
   {
     "hash": "0120BE3810E93B7B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/ground_cover_clovers_a.wl2?/ground_cover_clovers_h.prim].prim",
     "gameFlags": 1
   },
   {
@@ -131041,7 +131041,7 @@
   },
   {
     "hash": "0180BC63123EBA77",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/whiskey_decanter_a.wl2?/whiskey_decanter_b.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -131296,7 +131296,7 @@
   },
   {
     "hash": "01F2CBBB999D8120",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/equipment/emergency_parachute_container_a.wl2?/emergency_parachute_container_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -131451,12 +131451,12 @@
   },
   {
     "hash": "011399647E8A4A57",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/museum_entrance_counter_a.wl2?/palacevintageposter_palace_c.prim].prim",
     "gameFlags": 1
   },
   {
     "hash": "01870CE0E378FBFF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_floor_a_lab_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -132511,7 +132511,7 @@
   },
   {
     "hash": "01B2583B5482D53E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/gym/hand_weights_a.wl2?/hand_weight_20kg_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -133401,7 +133401,7 @@
   },
   {
     "hash": "01EDC4220F8544E7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/hedge_a.wl2?/hedge_box_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -133591,7 +133591,7 @@
   },
   {
     "hash": "012C50037042DA78",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/computer_old_a.wl2?/computer_old_monitor_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -133616,7 +133616,7 @@
   },
   {
     "hash": "01EB891A00C75CA0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/container_cardboard_box_a.wl2?/container_cardboard_box_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -133676,7 +133676,7 @@
   },
   {
     "hash": "01442846D89AC050",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/pipes/pipes_tileset_big_heating_a.wl2?/big_heating_ceilingbracket.prim].prim",
     "gameFlags": 1
   },
   {
@@ -133811,7 +133811,7 @@
   },
   {
     "hash": "010CB4F73D115387",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/crates_wooden_a.wl2?/crate_wooden_1x1x1_shatter02.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -133986,7 +133986,7 @@
   },
   {
     "hash": "01527550CCFBD03E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/vase_silver_large_a.wl2?/vase_silver_large_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -134071,7 +134071,7 @@
   },
   {
     "hash": "010D98405E8616B2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/cabletray_bunker_a.wl2?/cablestructure_600cm_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -134241,7 +134241,7 @@
   },
   {
     "hash": "014BA93493597F86",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_counter_corner.prim].prim",
     "gameFlags": 1
   },
   {
@@ -135026,7 +135026,7 @@
   },
   {
     "hash": "01A8CE99645DF7F7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_b_small_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -135141,7 +135141,7 @@
   },
   {
     "hash": "0186A1ED1A180192",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_counter_40.prim].prim",
     "gameFlags": 1
   },
   {
@@ -137911,7 +137911,7 @@
   },
   {
     "hash": "01B50BFFEE4756BD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_a.wl2?/haybale_decal_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -138211,7 +138211,7 @@
   },
   {
     "hash": "013717A5D29E3B12",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/laundry_carts_a.wl2?/laundry_carts_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -138561,7 +138561,7 @@
   },
   {
     "hash": "01189711EF2DFE81",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/couch_modern_livingroom_a.wl2?/couch_modern_livingroom_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -139011,7 +139011,7 @@
   },
   {
     "hash": "01F879097A51CB48",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/cheese_collection_a.wl2?/cheese_e_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -139441,7 +139441,7 @@
   },
   {
     "hash": "01C635F02A9EE005",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/palace_sofa_bedroom_a.wl2?/sofa_blanket_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -140106,7 +140106,7 @@
   },
   {
     "hash": "013151B129A45D03",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/cabletray_bunker_a.wl2?/cablestructure_600cm_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -141381,7 +141381,7 @@
   },
   {
     "hash": "0155047C976ACC99",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/couch_modern_livingroom_a.wl2?/couch_modern_livingroom_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -141791,7 +141791,7 @@
   },
   {
     "hash": "010F4D1ABB63028E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/cabinet_morgue_a.wl2?/cabinet_morgue_a_doors.prim].prim",
     "gameFlags": 1
   },
   {
@@ -143476,7 +143476,7 @@
   },
   {
     "hash": "01DD12F12E396E74",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/fan_small_b.wl2?/fan_small_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -143716,7 +143716,7 @@
   },
   {
     "hash": "01FF2199D729FE94",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/paintings/paintings_modern_b.wl2?/painting_swedish_g_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -143811,7 +143811,7 @@
   },
   {
     "hash": "01DEAB588D81C547",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/makeup/makeup_props_a.wl2?/lipstick_a_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -144041,7 +144041,7 @@
   },
   {
     "hash": "016BD96A92F29662",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/melee/circumcisionknife_a.wl2?/circumcisionknife_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -145296,7 +145296,7 @@
   },
   {
     "hash": "01592188FA9C11C5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/moving_boxes_a.wl2?/moving_box_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -145331,7 +145331,7 @@
   },
   {
     "hash": "01602197305CA426",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/plastic_sheets_fence_a.wl2?/plastic_sheets_fence_f.prim].prim",
     "gameFlags": 1
   },
   {
@@ -145471,7 +145471,7 @@
   },
   {
     "hash": "017164C45939D5AB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/ground_cover_clovers_a.wl2?/ground_cover_clovers_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -146541,7 +146541,7 @@
   },
   {
     "hash": "01A48DC933CB4F4D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/piano_a.wl2?/piano_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -147246,7 +147246,7 @@
   },
   {
     "hash": "01E378B585FC76A2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/library_furniture_penthouse_a.wl2?/library_shelf_penthouse_c_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -147846,7 +147846,7 @@
   },
   {
     "hash": "01E421042280303A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/tv_screen_fashionshow_a.wl2?/tv_moderndesign_medium_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -147966,7 +147966,7 @@
   },
   {
     "hash": "01F696A15E822FF2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/table_ambrosia_a.wl2?/table_ambrosia_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -148736,7 +148736,7 @@
   },
   {
     "hash": "011072965FD95E68",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_cabinet_110_open.prim].prim",
     "gameFlags": 1
   },
   {
@@ -149541,7 +149541,7 @@
   },
   {
     "hash": "011210F6BC5E9FAA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/equipment/hose_watering_a.wl2?/hose_watering_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -150541,7 +150541,7 @@
   },
   {
     "hash": "01C3E7C80333AF8B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/plastic_sheets_fence_d.wl2?/plastic_sheets_fence_e.prim].prim",
     "gameFlags": 1
   },
   {
@@ -150611,7 +150611,7 @@
   },
   {
     "hash": "013A7FBB8C4657D9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/roll_containers_a.wl2?/roll_container_a_door_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -150756,7 +150756,7 @@
   },
   {
     "hash": "019583AFC461A365",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/kitchen_knifeblock_a.wl2?/kitchen_knifeblock_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -151111,7 +151111,7 @@
   },
   {
     "hash": "01C6B45B8830CCEB",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_sphere_1m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -152976,7 +152976,7 @@
   },
   {
     "hash": "01E8CD78EE89CBC9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/mirror_antique_a.wl2?/mirror_bathroom_frameless_b_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -153516,7 +153516,7 @@
   },
   {
     "hash": "01FD7F13581B94A5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/moving_boxes_a.wl2?/moving_box_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -155661,7 +155661,7 @@
   },
   {
     "hash": "012BD3F52318DB77",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/laptop_a.wl2?/tablet_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -156106,7 +156106,7 @@
   },
   {
     "hash": "014B8C6879999B78",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/tv_screen_fashionshow_a.wl2?/tv_moderndesign_small_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -156856,7 +156856,7 @@
   },
   {
     "hash": "010147E711953DA1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/hedge_a.wl2?/hedge_box_3x3_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -157321,7 +157321,7 @@
   },
   {
     "hash": "0165FC5CF4DC1AB1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/shipping_container_a.wl2?/shipping_container_short_a_door_left.prim].prim",
     "gameFlags": 1
   },
   {
@@ -157461,7 +157461,7 @@
   },
   {
     "hash": "017668B4A51AE40C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/atm_a.wl2?/atm_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -157531,7 +157531,7 @@
   },
   {
     "hash": "0149763957E71B4E",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/water/fx_generic_water.wl2?/fx_generic_water_plane_1x1_segments.prim].prim",
     "gameFlags": 1
   },
   {
@@ -157776,7 +157776,7 @@
   },
   {
     "hash": "011F2B75C072F3E4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/asphalt_debris_a.wl2?/asphalt_debris_stone_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -158471,7 +158471,7 @@
   },
   {
     "hash": "01FB57F2592A6A12",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_kit_modern_a.wl2?/kitchen_kit_counter_80.prim].prim",
     "gameFlags": 1
   },
   {
@@ -158581,7 +158581,7 @@
   },
   {
     "hash": "01A16E43C3A77BA9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/harbour_props/windsock_a.wl2?/windsock_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -158796,7 +158796,7 @@
   },
   {
     "hash": "017D9CA9DB0FA2DF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/chair_modern_a.wl2?/chair_modern_a_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -158856,7 +158856,7 @@
   },
   {
     "hash": "01C504A2A1BDCF5C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/laptop_a.wl2?/laptop_a_keyboard.prim].prim",
     "gameFlags": 1
   },
   {
@@ -158951,7 +158951,7 @@
   },
   {
     "hash": "011C4B4D75E2320A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/paintings/paintings_modern_a.wl2?/frame_modern_type_a_size_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -159151,7 +159151,7 @@
   },
   {
     "hash": "017ACE290FCF2474",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/ground_cover_clovers_a.wl2?/ground_cover_clovers_g.prim].prim",
     "gameFlags": 1
   },
   {
@@ -159506,7 +159506,7 @@
   },
   {
     "hash": "01201C86B20477FA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/industrial_floor_fan_a.wl2?/industrial_floor_fan_a_fan.prim].prim",
     "gameFlags": 1
   },
   {
@@ -159726,7 +159726,7 @@
   },
   {
     "hash": "016882EF9ECF7DB7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/trash/dumpster_metal_a_full.wl2?/dumpster_metal_a_full_00.prim].prim",
     "gameFlags": 1
   },
   {
@@ -160196,7 +160196,7 @@
   },
   {
     "hash": "0105B819E53B12A5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/cheese_collection_a.wl2?/cheese_f_00.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -161346,7 +161346,7 @@
   },
   {
     "hash": "01A3FB6B88F19BF0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/architecture/doors/door_fireexit_a.wl2?/door_fireexit_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -163556,7 +163556,7 @@
   },
   {
     "hash": "0160A28A38B51BB4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/bottle_water_c.wl2?/bottle_water_c_detail.prim].prim",
     "gameFlags": 1
   },
   {
