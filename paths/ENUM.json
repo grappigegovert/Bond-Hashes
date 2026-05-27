@@ -46,7 +46,7 @@
   },
   {
     "hash": "01A6AA2C36DF19FC",
-    "path": "",
+    "path": "[assembly:/_knt/enums/qglassesscanstate.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "hash": "0196F942B6C21526",
-    "path": "",
+    "path": "[assembly:/_knt/enums/customschemeactiontype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -111,12 +111,12 @@
   },
   {
     "hash": "018511E157F0EE9B",
-    "path": "",
+    "path": "[assembly:/_knt/enums/deathscreentexttype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "011226F5CE2EF538",
-    "path": "",
+    "path": "[assembly:/_knt/enums/crowdactors_subtypes.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "hash": "01FA1FD9BE3EC097",
-    "path": "",
+    "path": "[assembly:/_knt/enums/qwatchvariationtype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -146,17 +146,17 @@
   },
   {
     "hash": "01E220400E7B043E",
-    "path": "",
+    "path": "[assembly:/_knt/enums/missiontypes.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01E4D9357D2D6CF9",
-    "path": "",
+    "path": "[assembly:/_knt/enums/investigationtype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "0117BC8952FB8035",
-    "path": "",
+    "path": "[assembly:/_knt/enums/tutorialtype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "hash": "014AEC983175AFA9",
-    "path": "",
+    "path": "[assembly:/_knt/enums/game_stats.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "hash": "0172FFFB9893EB05",
-    "path": "",
+    "path": "[assembly:/_knt/enums/gadgetresourcesizes.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "hash": "01D57067F102EB96",
-    "path": "",
+    "path": "[assembly:/_knt/enums/playerresourcetype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "hash": "01B8BCE2693596F9",
-    "path": "",
+    "path": "[assembly:/_knt/enums/qte_types.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -306,12 +306,12 @@
   },
   {
     "hash": "01E5D3E8CD509CAF",
-    "path": "",
+    "path": "[assembly:/_knt/enums/npckilltypes.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "019C09CACB88883C",
-    "path": "",
+    "path": "[assembly:/_knt/enums/vocalizations.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "hash": "016E4B662F74A603",
-    "path": "",
+    "path": "[assembly:/_knt/enums/gadgetskins.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -386,7 +386,7 @@
   },
   {
     "hash": "01FF705E4A79BA3B",
-    "path": "",
+    "path": "[assembly:/_knt/enums/qglassesscantype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -396,7 +396,7 @@
   },
   {
     "hash": "016523F5BC2AEFD3",
-    "path": "",
+    "path": "[assembly:/_knt/enums/gamepadcontrolschemepreset.enumtype].enumtype",
     "gameFlags": 1
   },
   {
@@ -411,7 +411,7 @@
   },
   {
     "hash": "016200F1D9DF6CE4",
-    "path": "",
+    "path": "[assembly:/_knt/enums/gadgetoutcomes.enumtype].enumtype",
     "gameFlags": 1
   },
   {
