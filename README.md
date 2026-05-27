@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-50.89%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-8/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-50.89%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-50.91%25-red.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-11/82-blue.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-50.91%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -37,7 +37,7 @@
 |FXAC     |1              |0            |0.00%             |0    |0.00%          |
 |FXAS     |91469          |91363        |99.88%            |0    |0.00%          |
 |GFXA     |18             |18           |100.00%           |0    |0.00%          |
-|GFXF     |14             |0            |0.00%             |0    |0.00%          |
+|GFXF     |14             |14           |100.00%           |0    |0.00%          |
 |GFXI     |2726           |2055         |75.39%            |0    |0.00%          |
 |GFXV     |217            |110          |50.69%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
@@ -80,8 +80,8 @@
 |TEMP     |69802          |66940        |95.90%            |0    |0.00%          |
 |TEXD     |30862          |13559        |43.93%            |0    |0.00%          |
 |TEXT     |31771          |13852        |43.60%            |0    |0.00%          |
-|UICB     |81             |0            |0.00%             |0    |0.00%          |
-|UICT     |81             |0            |0.00%             |0    |0.00%          |
+|UICB     |81             |81           |100.00%           |0    |0.00%          |
+|UICT     |81             |81           |100.00%           |0    |0.00%          |
 |VTXD     |2728           |2197         |80.54%            |0    |0.00%          |
 |WBNK     |102            |3            |2.94%             |0    |0.00%          |
 |WEMD     |33             |0            |0.00%             |0    |0.00%          |
