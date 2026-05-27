@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-10.31%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-25.70%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-4/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-10.31%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-25.70%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -12,11 +12,11 @@
 <!-- STATISTICS_TABLE_START -->
 |File Type|Total Resources|Correct Paths|Correct Percentage|Hints|Hint Percentage|
 |---------|---------------|-------------|------------------|-----|---------------|
-|ALOC     |20250          |6372         |31.47%            |0    |0.00%          |
+|ALOC     |20250          |16071        |79.36%            |0    |0.00%          |
 |ANMC     |23808          |0            |0.00%             |0    |0.00%          |
 |ASEB     |11926          |0            |0.00%             |0    |0.00%          |
 |ASET     |15096          |0            |0.00%             |0    |0.00%          |
-|BORG     |3077           |395          |12.84%            |0    |0.00%          |
+|BORG     |3077           |1367         |44.43%            |0    |0.00%          |
 |BOXC     |4706           |0            |0.00%             |0    |0.00%          |
 |CAMC     |2026           |0            |0.00%             |0    |0.00%          |
 |CBLU     |2290           |388          |16.94%            |0    |0.00%          |
@@ -67,22 +67,22 @@
 |ORES     |5              |5            |100.00%           |0    |0.00%          |
 |PEBL     |1              |0            |0.00%             |0    |0.00%          |
 |PETY     |1              |0            |0.00%             |0    |0.00%          |
-|PRIM     |32768          |7660         |23.38%            |0    |0.00%          |
+|PRIM     |32768          |21885        |66.79%            |0    |0.00%          |
 |RTLV     |2              |0            |0.00%             |0    |0.00%          |
 |SCDA     |201            |6            |2.99%             |0    |0.00%          |
 |SDEF     |102            |0            |0.00%             |0    |0.00%          |
 |SNEB     |8              |0            |0.00%             |0    |0.00%          |
 |SNET     |8              |0            |0.00%             |0    |0.00%          |
 |SVOL     |64             |0            |0.00%             |0    |0.00%          |
-|TBLU     |49509          |9150         |18.48%            |0    |0.00%          |
+|TBLU     |49509          |46644        |94.21%            |0    |0.00%          |
 |TDAT     |8              |0            |0.00%             |0    |0.00%          |
 |TDPK     |348            |0            |0.00%             |0    |0.00%          |
-|TEMP     |69802          |16258        |23.29%            |0    |0.00%          |
+|TEMP     |69802          |66940        |95.90%            |0    |0.00%          |
 |TEXD     |30862          |13516        |43.79%            |0    |0.00%          |
 |TEXT     |31771          |13809        |43.46%            |0    |0.00%          |
 |UICB     |81             |0            |0.00%             |0    |0.00%          |
 |UICT     |81             |0            |0.00%             |0    |0.00%          |
-|VTXD     |2728           |36           |1.32%             |0    |0.00%          |
+|VTXD     |2728           |2197         |80.54%            |0    |0.00%          |
 |WBNK     |102            |3            |2.94%             |0    |0.00%          |
 |WEMD     |33             |0            |0.00%             |0    |0.00%          |
 |WSGB     |362            |0            |0.00%             |0    |0.00%          |
