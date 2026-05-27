@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-25.70%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-4/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-25.70%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-26.08%25-red.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-5/82-blue.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-26.08%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -32,14 +32,14 @@
 |DSWB     |5              |0            |0.00%             |0    |0.00%          |
 |ECPB     |8306           |0            |0.00%             |0    |0.00%          |
 |ECPT     |8306           |0            |0.00%             |0    |0.00%          |
-|ENUM     |84             |1            |1.19%             |0    |0.00%          |
+|ENUM     |84             |19           |22.62%            |0    |0.00%          |
 |ERES     |1774           |0            |0.00%             |0    |0.00%          |
 |FXAC     |1              |0            |0.00%             |0    |0.00%          |
 |FXAS     |91469          |0            |0.00%             |0    |0.00%          |
 |GFXA     |18             |0            |0.00%             |0    |0.00%          |
 |GFXF     |14             |0            |0.00%             |0    |0.00%          |
-|GFXI     |2726           |3            |0.11%             |0    |0.00%          |
-|GFXV     |217            |0            |0.00%             |0    |0.00%          |
+|GFXI     |2726           |2055         |75.39%            |0    |0.00%          |
+|GFXV     |217            |110          |50.69%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |GPBM     |20             |0            |0.00%             |0    |0.00%          |
 |GPBS     |22             |0            |0.00%             |0    |0.00%          |
@@ -54,7 +54,7 @@
 |GRAD     |3              |0            |0.00%             |0    |0.00%          |
 |IMDR     |5              |0            |0.00%             |0    |0.00%          |
 |INIF     |1              |1            |100.00%           |0    |0.00%          |
-|JSON     |176            |6            |3.41%             |0    |0.00%          |
+|JSON     |176            |91           |51.70%            |0    |0.00%          |
 |KWOR     |35             |0            |0.00%             |0    |0.00%          |
 |LINE     |4439           |0            |0.00%             |0    |0.00%          |
 |LOCR     |201            |1            |0.50%             |0    |0.00%          |
@@ -92,7 +92,7 @@
 |WWEM     |21757          |0            |0.00%             |0    |0.00%          |
 |WWES     |229313         |0            |0.00%             |0    |0.00%          |
 |WWEV     |6639           |2            |0.03%             |0    |0.00%          |
-|XMLB     |620            |0            |0.00%             |0    |0.00%          |
+|XMLB     |620            |620          |100.00%           |0    |0.00%          |
 |YSHP     |1              |1            |100.00%           |0    |0.00%          |
 <!-- STATISTICS_TABLE_END -->
 </details>
