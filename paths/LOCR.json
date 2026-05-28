@@ -206,7 +206,7 @@
   },
   {
     "hash": "0150E1E74D041BAA",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/ui_systemreminder.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "hash": "01FF73FDDFA54DC7",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/ui_closedcaptions.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "hash": "01179467BC0E9F2F",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/knt_common.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -316,7 +316,7 @@
   },
   {
     "hash": "01AE4D67D3D72FCE",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/ui_menutext.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -391,7 +391,7 @@
   },
   {
     "hash": "0196341B19836B90",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/ui_missionnames.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -506,7 +506,7 @@
   },
   {
     "hash": "01815574989C4717",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/ui_collectibles.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -891,7 +891,7 @@
   },
   {
     "hash": "013659586F367CD3",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/knt_nvidiahighlighttypes.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -996,7 +996,7 @@
   },
   {
     "hash": "01A8FFDF926DF2A9",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/knt_richpresence.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
