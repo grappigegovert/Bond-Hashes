@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-50.91%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-11/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-50.91%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-51.15%25-red.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-12/82-blue.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-51.15%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -33,7 +33,7 @@
 |ECPB     |8306           |0            |0.00%             |0    |0.00%          |
 |ECPT     |8306           |0            |0.00%             |0    |0.00%          |
 |ENUM     |84             |19           |22.62%            |0    |0.00%          |
-|ERES     |1774           |0            |0.00%             |0    |0.00%          |
+|ERES     |1774           |1774         |100.00%           |0    |0.00%          |
 |FXAC     |1              |0            |0.00%             |0    |0.00%          |
 |FXAS     |91469          |91363        |99.88%            |0    |0.00%          |
 |GFXA     |18             |18           |100.00%           |0    |0.00%          |
