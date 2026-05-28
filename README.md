@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-57.50%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-14/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-57.50%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-57.84%25-red.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-16/82-blue.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-57.84%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -30,8 +30,8 @@
 |DLGE     |42156          |27721        |65.76%            |0    |0.00%          |
 |DSCN     |22             |0            |0.00%             |0    |0.00%          |
 |DSWB     |5              |0            |0.00%             |0    |0.00%          |
-|ECPB     |8306           |7045         |84.82%            |0    |0.00%          |
-|ECPT     |8306           |7045         |84.82%            |0    |0.00%          |
+|ECPB     |8306           |8306         |100.00%           |0    |0.00%          |
+|ECPT     |8306           |8306         |100.00%           |0    |0.00%          |
 |ENUM     |84             |19           |22.62%            |0    |0.00%          |
 |ERES     |1774           |1774         |100.00%           |0    |0.00%          |
 |FXAC     |1              |0            |0.00%             |0    |0.00%          |
@@ -85,10 +85,10 @@
 |VTXD     |2728           |2197         |80.54%            |0    |0.00%          |
 |WBNK     |102            |3            |2.94%             |0    |0.00%          |
 |WEMD     |33             |0            |0.00%             |0    |0.00%          |
-|WSGB     |362            |0            |0.00%             |0    |0.00%          |
-|WSGT     |362            |0            |0.00%             |0    |0.00%          |
-|WSWB     |25             |0            |0.00%             |0    |0.00%          |
-|WSWT     |30             |0            |0.00%             |0    |0.00%          |
+|WSGB     |362            |1            |0.28%             |0    |0.00%          |
+|WSGT     |362            |1            |0.28%             |0    |0.00%          |
+|WSWB     |25             |7            |28.00%            |0    |0.00%          |
+|WSWT     |30             |7            |23.33%            |0    |0.00%          |
 |WWEM     |21757          |0            |0.00%             |0    |0.00%          |
 |WWES     |229313         |90371        |39.41%            |0    |0.00%          |
 |WWEV     |6639           |39           |0.59%             |6600 |99.41%         |
