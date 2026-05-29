@@ -481,7 +481,7 @@
   },
   {
     "hash": "01482FF1F4DC3122",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui_agency.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -646,7 +646,7 @@
   },
   {
     "hash": "01F66B96654B7259",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui_gadgets.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -741,7 +741,7 @@
   },
   {
     "hash": "019ACD7BF6EEE5FD",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui_tutorialtext.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -791,7 +791,7 @@
   },
   {
     "hash": "0143C985A773BFA7",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui_setpieces.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -841,7 +841,7 @@
   },
   {
     "hash": "01231BC0C60DA43A",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui_hud_placeholder.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -921,7 +921,7 @@
   },
   {
     "hash": "01FAB37E89190CAE",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui_controllerlayout.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
