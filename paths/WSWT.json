@@ -46,7 +46,7 @@
   },
   {
     "hash": "012A65A3642F7593",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/ic health.sweetswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "hash": "010B9C00D56BB01E",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/bond.sweetswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01E6A7F3E8B04BC9",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/playerdistance.sweetswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "hash": "01BDBF61127A4131",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/buddydistance.sweetswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "hash": "01345C8DECF8B6BB",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/muertobb.sweetswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
