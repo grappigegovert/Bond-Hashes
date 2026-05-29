@@ -81,7 +81,7 @@
   },
   {
     "hash": "014CD885B39B5093",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/cloth/cloth_sheet_twosided.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "hash": "01D4531815F657ED",
-    "path": "",
+    "path": "[[assembly:/_knt/effects/materialclasses/fire/fx_mesh_heat_shockwave_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "hash": "01B85F6BB39067E4",
-    "path": "",
+    "path": "[[assembly:/_knt/effects/materialclasses/particle/fx_spriteparticlesa_liquid_bubble.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -526,7 +526,7 @@
   },
   {
     "hash": "014FCFF89CFABE87",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/cloth/cloth_sheet.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -721,7 +721,7 @@
   },
   {
     "hash": "01D8D75CD091DDF9",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial_detail.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -911,7 +911,7 @@
   },
   {
     "hash": "016DC9C5FE23876D",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial_colormask.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -966,7 +966,7 @@
   },
   {
     "hash": "01FCED90EAFB6820",
-    "path": "",
+    "path": "[[assembly:/_knt/characters/materialclasses/basic_hair_vertexcolor.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1301,7 +1301,7 @@
   },
   {
     "hash": "01DE41B1A53A93AB",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/scatter/basicmaterial_scatter.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1451,7 +1451,7 @@
   },
   {
     "hash": "01B325F702B2F366",
-    "path": "",
+    "path": "[[assembly:/_knt/items/materialclasses/weapon_basic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1511,7 +1511,7 @@
   },
   {
     "hash": "01697F8A847E2B88",
-    "path": "",
+    "path": "[[assembly:/_knt/characters/materialclasses/basic_fabric.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1581,12 +1581,12 @@
   },
   {
     "hash": "0157775E777BF4CE",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/vertexblending/depthblending_2_channel_overallrelief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01FF9BEB2CC62A7E",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1681,7 +1681,7 @@
   },
   {
     "hash": "012BAE571E58F858",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial_zmapped_relief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1701,7 +1701,7 @@
   },
   {
     "hash": "019208872319C259",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/cloth/cloth_sheet_normalscroll.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1836,7 +1836,7 @@
   },
   {
     "hash": "011975C72CC62DDB",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial_zmapped.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1921,7 +1921,7 @@
   },
   {
     "hash": "015EEDBD62CE4FB4",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/foliage/foliage_vertexwind_interaction.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2066,7 +2066,7 @@
   },
   {
     "hash": "01034BFBFCCBB378",
-    "path": "",
+    "path": "[[assembly:/_knt/characters/materialclasses/basic_hair.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2461,7 +2461,7 @@
   },
   {
     "hash": "01F73AB71CA65863",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/decals/decal_basicmaterial.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2596,7 +2596,7 @@
   },
   {
     "hash": "0199D8BC8537A3F2",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/decals/decal_puddle.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2781,7 +2781,7 @@
   },
   {
     "hash": "01FC2C3F860945D7",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial_pixeldepthoffset.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3386,12 +3386,12 @@
   },
   {
     "hash": "01BC1872B13E2C53",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/foliage/foliage_vertexwind.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "015A4ACD560D007C",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial_relief_hardalpha_vertexalphaheight.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3431,7 +3431,7 @@
   },
   {
     "hash": "016017B855844471",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/foliage/foliage_billboard.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3731,7 +3731,7 @@
   },
   {
     "hash": "0140EB6B7B7F523D",
-    "path": "",
+    "path": "[[assembly:/_knt/effects/materialclasses/gameplay/fx_lva_sphere.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3816,7 +3816,7 @@
   },
   {
     "hash": "016CCDAFB6B65C9D",
-    "path": "",
+    "path": "[[assembly:/_knt/characters/materialclasses/basic_skin.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4011,7 +4011,7 @@
   },
   {
     "hash": "013A65FCD2FBC8D0",
-    "path": "",
+    "path": "[[assembly:/_knt/characters/materialclasses/basic_eye.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4126,7 +4126,7 @@
   },
   {
     "hash": "0178451AC61A8EDA",
-    "path": "",
+    "path": "[[assembly:/_knt/effects/materialclasses/fxdraw/fx_draw_sa_sprite.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4236,7 +4236,7 @@
   },
   {
     "hash": "01E9B627C780DA64",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial_hardalpha.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4531,7 +4531,7 @@
   },
   {
     "hash": "01650947506A60DC",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial_relief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4736,7 +4736,7 @@
   },
   {
     "hash": "0104FA91689A58B0",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/vertexblending/depthblending_2_channel_relief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4751,7 +4751,7 @@
   },
   {
     "hash": "016A8C93837B182D",
-    "path": "",
+    "path": "[[assembly:/_knt/effects/materialclasses/decal/fx_decal_water_running_mask.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4821,7 +4821,7 @@
   },
   {
     "hash": "01EAACED4E7D9907",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/foliage/foliage_vertexwind_tree.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4926,7 +4926,7 @@
   },
   {
     "hash": "01395B0B700B63D2",
-    "path": "",
+    "path": "[[assembly:/_knt/effects/materialclasses/decal/fx_decal_foot_print.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5226,12 +5226,12 @@
   },
   {
     "hash": "0181837BD1E996E3",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/basicmaterial_wetmask.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01436C8291565000",
-    "path": "",
+    "path": "[[assembly:/_knt/environment/materialclasses/scatter/basicmaterial_scatter_grass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
