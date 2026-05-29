@@ -1,27 +1,27 @@
 [
   {
     "hash": "017D16AD4EBBFD36",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/buddydistance.sweetswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01A518F3B0204790",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/playerdistance.sweetswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "010B7E6B36298ABE",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/ic health.sweetswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "014510DA40FB6680",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/bond.sweetswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0129F95F1D587FF3",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt.sweet?/muertobb.sweetswitchgroup].entityblueprint",
     "gameFlags": 1
   }
 ]
