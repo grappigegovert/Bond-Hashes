@@ -7,9 +7,8 @@
   },
   {
     "hash": "016B9F7E5DF3C8BC",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "missionselect"
+    "path": "[assembly:/_knt/ui/enums/missionselect.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01E9771F3E9F0F7A",
@@ -31,9 +30,8 @@
   },
   {
     "hash": "01DFDF6DE2CDAA40",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "qtepromptspatialconfigtype"
+    "path": "[assembly:/_knt/ui/enums/qtepromptspatialconfigtype.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "0123826420A4AE77",
@@ -59,15 +57,13 @@
   },
   {
     "hash": "01A47BAF4DC551D0",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "shotgun"
+    "path": "[assembly:/_knt/items/enums/shotgun.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01321B2B6FB9986B",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "approachtypes"
+    "path": "[assembly:/_knt/design/interaction_prompts/enums/approachtypes.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01BD3406CD67F2D5",
@@ -82,9 +78,8 @@
   },
   {
     "hash": "01F6E927AFB27B2B",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "uicustomoptions"
+    "path": "[assembly:/_knt/ui/enums/uicustomoptions.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01F14C574D8291DA",
@@ -209,15 +204,13 @@
   },
   {
     "hash": "01D0B9A7591232D8",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "licence_plate_states"
+    "path": "[assembly:/_knt/vehicles/enums/licence_plate_states.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "017AABDBBB630694",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "tutorials_enum"
+    "path": "[assembly:/_knt/ui/enums/tutorials_enum.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "0175718CAD04555B",
@@ -237,9 +230,8 @@
   },
   {
     "hash": "01AFA8E68DBE6361",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "audiomixuioptions"
+    "path": "[assembly:/_knt/ui/enums/audiomixuioptions.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01212CD5DA2BB7E4",
@@ -259,9 +251,8 @@
   },
   {
     "hash": "019D7612939E2390",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "qtelabelalignment"
+    "path": "[assembly:/_knt/ui/enums/qtelabelalignment.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "0186A3527E7E3C2E",
@@ -277,9 +268,8 @@
   },
   {
     "hash": "01E1FEBCAD184AC9",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "lva_type"
+    "path": "[assembly:/_glacier/enums/lva_type.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01D57067F102EB96",
@@ -299,9 +289,8 @@
   },
   {
     "hash": "01EBEB523A8CE3C1",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "handgunclass"
+    "path": "[assembly:/_knt/items/enums/handgunclass.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "012384B1061EB6B8",
@@ -334,9 +323,8 @@
   },
   {
     "hash": "0160D7D8A83C381B",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "assaultrifle"
+    "path": "[assembly:/_knt/items/enums/assaultrifle.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "014CC752F32650C8",
