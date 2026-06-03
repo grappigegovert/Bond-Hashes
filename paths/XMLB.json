@@ -3098,5 +3098,10 @@
     "hash": "01A0F9E65756C592",
     "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/aurora/pages/tacticalsim_firearmselect/firearmslot.component.xml].bechaml",
     "gameFlags": 1
+  },
+  {
+    "hash": "017612D105F6A75C",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/onlineprivacypolicy/onlineprivacypolicy_page.bs.xml].bechaml",
+    "gameFlags": 1
   }
 ]
