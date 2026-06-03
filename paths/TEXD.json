@@ -21616,7 +21616,7 @@
   },
   {
     "hash": "011F44EF89C64AB3",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/handgrenades/hand_grenade_a_body_smoke_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -107931,7 +107931,7 @@
   },
   {
     "hash": "01F598313802D85C",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/handgrenades/hand_grenade_a_body_smoke_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -115481,7 +115481,7 @@
   },
   {
     "hash": "01AD83BEB077EBE0",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/handgrenades/hand_grenade_a_body_smoke_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
