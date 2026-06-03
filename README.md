@@ -1,6 +1,6 @@
 # 007-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,986-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-61.53%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/82-blue.svg)
 ![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-61.53%25-red.svg)
@@ -67,7 +67,7 @@
 |ORES     |5              |5            |100.00%           |0    |0.00%          |
 |PEBL     |1              |0            |0.00%             |0    |0.00%          |
 |PETY     |1              |0            |0.00%             |0    |0.00%          |
-|PRIM     |32768          |21885        |66.79%            |0    |0.00%          |
+|PRIM     |32768          |21886        |66.79%            |0    |0.00%          |
 |RTLV     |2              |2            |100.00%           |0    |0.00%          |
 |SCDA     |201            |6            |2.99%             |0    |0.00%          |
 |SDEF     |102            |102          |100.00%           |0    |0.00%          |
@@ -92,7 +92,7 @@
 |WWEM     |21757          |0            |0.00%             |0    |0.00%          |
 |WWES     |229313         |90371        |39.41%            |0    |0.00%          |
 |WWEV     |6639           |44           |0.66%             |6595 |99.34%         |
-|XMLB     |620            |620          |100.00%           |0    |0.00%          |
+|XMLB     |621            |621          |100.00%           |0    |0.00%          |
 |YSHP     |1              |1            |100.00%           |0    |0.00%          |
 <!-- STATISTICS_TABLE_END -->
 </details>
