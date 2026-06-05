@@ -161,7 +161,7 @@
   },
   {
     "hash": "0133831D82AE52EF",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/closecombat_states/state_cc_intensity.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "hash": "01922F010D66033F",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/haptics_states/haptics_firearm.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -551,7 +551,7 @@
   },
   {
     "hash": "010F1407A7E6F621",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/gadget_states/state_gdt_itemwheel.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -641,12 +641,12 @@
   },
   {
     "hash": "0154D272A328B1E9",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/haptics_states/haptics_controllertype.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01864374B01D00B3",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/haptics_states/haptics_feet.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -791,7 +791,7 @@
   },
   {
     "hash": "01FAFCDBEAAA014D",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/haptics_states/haptics_hands.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "hash": "01059253E62DC5F3",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/gadget_states/state_gdt_gadgetview.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -961,7 +961,7 @@
   },
   {
     "hash": "01D86CF5B7EF75BE",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/ui_states/state_ui_hud_gadgetselectionmenu.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1451,7 +1451,7 @@
   },
   {
     "hash": "015D044B147B837B",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/ui_states/state_ui_hud_journalmenu.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1481,7 +1481,7 @@
   },
   {
     "hash": "017E3C566A4858FA",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/haptics_states/haptics_stagger.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1646,7 +1646,7 @@
   },
   {
     "hash": "0100AE343A19251D",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/ui_states/state_ui_hud_confrontation.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1656,7 +1656,7 @@
   },
   {
     "hash": "016B60D0452E721E",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/mix_states/state_mix_sys_global.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1736,7 +1736,7 @@
   },
   {
     "hash": "01B7905154D43AD1",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/haptics_states/haptics_target.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
