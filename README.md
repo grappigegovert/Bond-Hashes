@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,986-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-61.53%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.77%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-21/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-61.53%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.77%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -12,7 +12,7 @@
 <!-- STATISTICS_TABLE_START -->
 |File Type|Total Resources|Correct Paths|Correct Percentage|Hints|Hint Percentage|
 |---------|---------------|-------------|------------------|-----|---------------|
-|ALOC     |20250          |16071        |79.36%            |0    |0.00%          |
+|ALOC     |20250          |19520        |96.40%            |0    |0.00%          |
 |ANMC     |23808          |0            |0.00%             |0    |0.00%          |
 |ASEB     |11926          |11423        |95.78%            |0    |0.00%          |
 |ASET     |15096          |14809        |98.10%            |0    |0.00%          |
@@ -67,7 +67,7 @@
 |ORES     |5              |5            |100.00%           |0    |0.00%          |
 |PEBL     |1              |1            |100.00%           |0    |0.00%          |
 |PETY     |1              |1            |100.00%           |0    |0.00%          |
-|PRIM     |32768          |21886        |66.79%            |0    |0.00%          |
+|PRIM     |32768          |27689        |84.50%            |0    |0.00%          |
 |RTLV     |2              |2            |100.00%           |0    |0.00%          |
 |SCDA     |201            |6            |2.99%             |0    |0.00%          |
 |SDEF     |102            |102          |100.00%           |0    |0.00%          |
