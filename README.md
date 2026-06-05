@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,986-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-61.53%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/82-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-21/82-blue.svg)
 ![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-61.53%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
@@ -65,8 +65,8 @@
 |MOMA     |370            |0            |0.00%             |0    |0.00%          |
 |NAVP     |228            |0            |0.00%             |0    |0.00%          |
 |ORES     |5              |5            |100.00%           |0    |0.00%          |
-|PEBL     |1              |0            |0.00%             |0    |0.00%          |
-|PETY     |1              |0            |0.00%             |0    |0.00%          |
+|PEBL     |1              |1            |100.00%           |0    |0.00%          |
+|PETY     |1              |1            |100.00%           |0    |0.00%          |
 |PRIM     |32768          |21886        |66.79%            |0    |0.00%          |
 |RTLV     |2              |2            |100.00%           |0    |0.00%          |
 |SCDA     |201            |6            |2.99%             |0    |0.00%          |
