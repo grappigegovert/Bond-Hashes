@@ -225,11 +225,11 @@
         "path": "[modules:/zguideagility.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -407,7 +407,7 @@
         "path": "[modules:/zclblackboardfloatarrayentryentity.class].entitytype",
         "in": [
             {
-                "pin": "3310826759",
+                "pin": "Add",
                 "description": ""
             }
         ],
@@ -766,11 +766,11 @@
         "path": "[modules:/zclaisounddistractionstimulus.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -907,19 +907,19 @@
         "path": "[modules:/zabsoluterotatorentity.class].entitytype",
         "in": [
             {
-                "pin": "3445331904",
+                "pin": "SetXAxisAngle",
                 "description": ""
             },
             {
-                "pin": "3605365233",
+                "pin": "SetUseDegrees",
                 "description": ""
             },
             {
-                "pin": "3383642109",
+                "pin": "SetZAxisAngle",
                 "description": ""
             },
             {
-                "pin": "580517118",
+                "pin": "SetYAxisAngle",
                 "description": ""
             }
         ],
@@ -948,7 +948,7 @@
         "path": "[modules:/zaccumulatorentity.class].entitytype",
         "in": [
             {
-                "pin": "3310826759",
+                "pin": "Add",
                 "description": ""
             }
         ],
@@ -959,7 +959,7 @@
         "path": "[modules:/zstorylineroutinebaseentity.class].entitytype",
         "in": [
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -988,11 +988,11 @@
         "path": "[modules:/zactivateplayerimpersonation.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -1033,15 +1033,15 @@
         "path": "[modules:/zactorinstanceentity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "2766133809",
+                "pin": "PlaySpecific",
                 "description": ""
             },
             {
-                "pin": "4273697156",
+                "pin": "Play",
                 "description": ""
             }
         ],
@@ -1052,7 +1052,7 @@
         "path": "[modules:/zactuatormoveentity.class].entitytype",
         "in": [
             {
-                "pin": "3702945584",
+                "pin": "Value",
                 "description": ""
             }
         ],
@@ -1492,11 +1492,11 @@
         "path": "[modules:/zdamageableobjectentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
-                "pin": "3019358183",
+                "pin": "Destroy",
                 "description": ""
             }
         ],
@@ -1530,11 +1530,11 @@
         "path": "[modules:/zdestructiblesystemaspect.class].entitytype",
         "in": [
             {
-                "pin": "2570421698",
+                "pin": "BreakAll",
                 "description": ""
             },
             {
-                "pin": "3585110527",
+                "pin": "ResetDestruction",
                 "description": ""
             }
         ],
@@ -1580,11 +1580,11 @@
         "path": "[modules:/zaudioambiencereverb.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -1599,11 +1599,11 @@
                 "description": ""
             },
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -1630,7 +1630,7 @@
                 "description": ""
             },
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             }
         ],
@@ -1688,11 +1688,11 @@
         "path": "[modules:/zsoundgateentitybase.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -1703,11 +1703,11 @@
         "path": "[modules:/zsoundgateentity.class].entitytype",
         "in": [
             {
-                "pin": "3535843008",
+                "pin": "Close",
                 "description": ""
             },
             {
-                "pin": "71445658",
+                "pin": "Open",
                 "description": ""
             },
             {
@@ -1726,11 +1726,11 @@
         "path": "[modules:/zaudioemitterspatialaspect.class].entitytype",
         "in": [
             {
-                "pin": "1039800818",
+                "pin": "SetMaxOcclusion",
                 "description": ""
             },
             {
-                "pin": "2016649955",
+                "pin": "SetAttenuationScaling",
                 "description": ""
             }
         ],
@@ -1741,7 +1741,7 @@
         "path": "[modules:/zaudioemittervolumetricaspect.class].entitytype",
         "in": [
             {
-                "pin": "2016649955",
+                "pin": "SetAttenuationScaling",
                 "description": ""
             }
         ],
@@ -1752,19 +1752,19 @@
         "path": "[modules:/zaudioevententitybase.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "121738739",
+                "pin": "Send",
                 "description": ""
             },
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -1775,7 +1775,7 @@
         "path": "[modules:/zaudioevententity.class].entitytype",
         "in": [
             {
-                "pin": "3451748318",
+                "pin": "Break",
                 "description": ""
             }
         ],
@@ -1804,7 +1804,7 @@
         "path": "[modules:/zaudioinsideoutsideroomquery.class].entitytype",
         "in": [
             {
-                "pin": "3850148591",
+                "pin": "Query",
                 "description": ""
             }
         ],
@@ -1821,11 +1821,11 @@
         "path": "[modules:/zaudiolevelmeterentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -1836,7 +1836,7 @@
         "path": "[modules:/zaudiolistenerdebugentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             }
         ],
@@ -1847,11 +1847,11 @@
         "path": "[modules:/zaudiomicrophoneentity.class].entitytype",
         "in": [
             {
-                "pin": "1232803157",
+                "pin": "TurnOn",
                 "description": ""
             },
             {
-                "pin": "2772598662",
+                "pin": "TurnOff",
                 "description": ""
             }
         ],
@@ -1880,11 +1880,11 @@
         "path": "[modules:/zaudioocclusionmodentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -1943,7 +1943,7 @@
         "path": "[modules:/zaudioswitchentity.class].entitytype",
         "in": [
             {
-                "pin": "2045449563",
+                "pin": "SetToDefault",
                 "description": ""
             }
         ],
@@ -2123,11 +2123,11 @@
         "path": "[modules:/zauxbusentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -2138,7 +2138,7 @@
         "path": "[modules:/zbaseconstraintentity.class].entitytype",
         "in": [
             {
-                "pin": "3451748318",
+                "pin": "Break",
                 "description": ""
             }
         ],
@@ -2389,11 +2389,11 @@
         "path": "[modules:/zblendinspothelper.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "1517400020",
+                "pin": "Leave",
                 "description": ""
             }
         ],
@@ -2446,11 +2446,11 @@
         "path": "[modules:/zlinkedentity.class].entitytype",
         "in": [
             {
-                "pin": "4159927587",
+                "pin": "HideBone",
                 "description": ""
             },
             {
-                "pin": "11691979",
+                "pin": "ShowBone",
                 "description": ""
             }
         ],
@@ -2467,11 +2467,11 @@
         "path": "[modules:/zboneattachentity.class].entitytype",
         "in": [
             {
-                "pin": "3559413302",
+                "pin": "Detach",
                 "description": ""
             },
             {
-                "pin": "3647306167",
+                "pin": "Attach",
                 "description": ""
             }
         ],
@@ -2550,7 +2550,7 @@
         "path": "[modules:/zbootpagetextprovider.class].entitytype",
         "in": [
             {
-                "pin": "1818810142",
+                "pin": "RefreshData",
                 "description": ""
             }
         ],
@@ -2615,11 +2615,11 @@
         "path": "[modules:/zbrowserfocusentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -2804,7 +2804,7 @@
         "path": "[modules:/zclaidebugforceadoptbehaviorentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
@@ -2842,7 +2842,7 @@
         "path": "[modules:/zclaiemitbespokesystemicdialogueevent.class].entitytype",
         "in": [
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -2853,7 +2853,7 @@
         "path": "[modules:/zclaiemitsystemicdialogueevent.class].entitytype",
         "in": [
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -3122,7 +3122,7 @@
         "path": "[modules:/zclachievementunlock.class].entitytype",
         "in": [
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -3133,11 +3133,11 @@
         "path": "[modules:/zclactivateplayertargetingcontext.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -3154,11 +3154,11 @@
         "path": "[modules:/zclactivityupdatestatus.class].entitytype",
         "in": [
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "3087654605",
+                "pin": "Completed",
                 "description": ""
             }
         ],
@@ -3169,7 +3169,7 @@
         "path": "[modules:/zclbrickbuilderentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
@@ -3648,11 +3648,11 @@
         "path": "[modules:/zclattachtoboneoffsetentity.class].entitytype",
         "in": [
             {
-                "pin": "3559413302",
+                "pin": "Detach",
                 "description": ""
             },
             {
-                "pin": "3647306167",
+                "pin": "Attach",
                 "description": ""
             }
         ],
@@ -3709,7 +3709,7 @@
         "path": "[modules:/zclblackboardentity.class].entitytype",
         "in": [
             {
-                "pin": "611376642",
+                "pin": "Clear",
                 "description": ""
             }
         ],
@@ -3889,11 +3889,11 @@
         "path": "[modules:/zclboneattachentity.class].entitytype",
         "in": [
             {
-                "pin": "3559413302",
+                "pin": "Detach",
                 "description": ""
             },
             {
-                "pin": "3647306167",
+                "pin": "Attach",
                 "description": ""
             }
         ],
@@ -3999,11 +3999,11 @@
         "path": "[modules:/zclboolbasicentity.class].entitytype",
         "in": [
             {
-                "pin": "3684218864",
+                "pin": "SetFalse",
                 "description": ""
             },
             {
-                "pin": "2813380637",
+                "pin": "SetTrue",
                 "description": ""
             }
         ],
@@ -4377,7 +4377,7 @@
         "path": "[modules:/zclconditionaltimerentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             }
         ],
@@ -4476,15 +4476,15 @@
         "path": "[modules:/zclcurveevaluatorentity.class].entitytype",
         "in": [
             {
-                "pin": "4273697156",
+                "pin": "Play",
                 "description": ""
             },
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "375111145",
+                "pin": "Pause",
                 "description": ""
             },
             {
@@ -4525,11 +4525,11 @@
         "path": "[modules:/zstructureentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
-                "pin": "3451748318",
+                "pin": "Break",
                 "description": ""
             }
         ],
@@ -4944,7 +4944,7 @@
         "path": "[modules:/zcldontimesentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
@@ -5925,7 +5925,7 @@
         "path": "[modules:/zclgamemanagerstartfromcheckpoint.class].entitytype",
         "in": [
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -6592,11 +6592,11 @@
         "path": "[modules:/zclothsimulationentity.class].entitytype",
         "in": [
             {
-                "pin": "58329675",
+                "pin": "EnableSimulation",
                 "description": ""
             },
             {
-                "pin": "1161070",
+                "pin": "DisableSimulation",
                 "description": ""
             }
         ],
@@ -7133,7 +7133,7 @@
         "path": "[modules:/zclhierarchyeventtransmitterentity.class].entitytype",
         "in": [
             {
-                "pin": "121738739",
+                "pin": "Send",
                 "description": ""
             }
         ],
@@ -7144,7 +7144,7 @@
         "path": "[modules:/zclhierarchyeventtransmitterentity_entity.class].entitytype",
         "in": [
             {
-                "pin": "121738739",
+                "pin": "Send",
                 "description": ""
             }
         ],
@@ -7524,11 +7524,11 @@
         "path": "[modules:/zclintercepthumanoidgoal.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -8751,7 +8751,7 @@
         "path": "[modules:/zclnetworksyncpointentity.class].entitytype",
         "in": [
             {
-                "pin": "1939902659",
+                "pin": "Signal",
                 "description": ""
             }
         ],
@@ -9122,15 +9122,15 @@
         "path": "[modules:/zcrowdactorgroupentity.class].entitytype",
         "in": [
             {
-                "pin": "1721914899",
+                "pin": "ForcePanic",
                 "description": ""
             },
             {
-                "pin": "624714164",
+                "pin": "GetGroupID",
                 "description": ""
             },
             {
-                "pin": "1527533478",
+                "pin": "ChangeHomeGroup",
                 "description": ""
             }
         ],
@@ -9319,7 +9319,7 @@
         "path": "[modules:/zclrazerevent.class].entitytype",
         "in": [
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             }
         ],
@@ -9454,11 +9454,11 @@
         "path": "[modules:/zsequenceentity.class].entitytype",
         "in": [
             {
-                "pin": "997497632",
+                "pin": "Abort",
                 "description": ""
             },
             {
-                "pin": "2594198464",
+                "pin": "StartAndSkipToEnd",
                 "description": ""
             },
             {
@@ -9466,31 +9466,31 @@
                 "description": ""
             },
             {
-                "pin": "1480915523",
+                "pin": "Skip",
                 "description": ""
             },
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "375111145",
+                "pin": "Pause",
                 "description": ""
             },
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "3485930164",
+                "pin": "Unpause",
                 "description": ""
             },
             {
-                "pin": "3483776891",
+                "pin": "Time",
                 "description": ""
             }
         ],
@@ -9623,7 +9623,7 @@
         "path": "[modules:/zclrichpresenceupdate.class].entitytype",
         "in": [
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             }
         ],
@@ -9843,11 +9843,11 @@
         "path": "[modules:/zclsetclosecombatpairedactionsset.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -9858,11 +9858,11 @@
         "path": "[modules:/zclsetcustommeleefinisher.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -9895,11 +9895,11 @@
         "path": "[modules:/zclsetfadeentity.class].entitytype",
         "in": [
             {
-                "pin": "3178809251",
+                "pin": "FadeIn",
                 "description": ""
             },
             {
-                "pin": "1739810581",
+                "pin": "FadeOut",
                 "description": ""
             }
         ],
@@ -10417,7 +10417,7 @@
         "path": "[modules:/zclsetrenderhighcontrastmodewithinrangeentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             }
         ],
@@ -10472,7 +10472,7 @@
         "path": "[modules:/zclstateentity.class].entitytype",
         "in": [
             {
-                "pin": "23452757",
+                "pin": "SetCurrent",
                 "description": ""
             }
         ],
@@ -10925,15 +10925,15 @@
         "path": "[modules:/zclstatemachineentity.class].entitytype",
         "in": [
             {
-                "pin": "1831039569",
+                "pin": "InitialState",
                 "description": ""
             },
             {
-                "pin": "2059841236",
+                "pin": "PreviousState",
                 "description": ""
             },
             {
-                "pin": "2199304605",
+                "pin": "NextState",
                 "description": ""
             }
         ],
@@ -11293,7 +11293,7 @@
         "path": "[modules:/zcltestchunkpackerentity.class].entitytype",
         "in": [
             {
-                "pin": "1920217537",
+                "pin": "Compare",
                 "description": ""
             },
             {
@@ -11437,15 +11437,15 @@
         "path": "[modules:/zcltimerexecutionrootentity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -11694,7 +11694,7 @@
         "path": "[modules:/zclvalueboolnotificationentity.class].entitytype",
         "in": [
             {
-                "pin": "613307771",
+                "pin": "Poll",
                 "description": ""
             }
         ],
@@ -11735,7 +11735,7 @@
         "path": "[modules:/zclvalueintnotificationentity.class].entitytype",
         "in": [
             {
-                "pin": "613307771",
+                "pin": "Poll",
                 "description": ""
             }
         ],
@@ -12416,7 +12416,7 @@
         "path": "[modules:/zclvocalizationevententity.class].entitytype",
         "in": [
             {
-                "pin": "121738739",
+                "pin": "Send",
                 "description": ""
             }
         ],
@@ -12522,7 +12522,7 @@
         "path": "[modules:/zcameraconetriggerentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             }
         ],
@@ -12539,35 +12539,35 @@
         "path": "[modules:/zcameraentity.class].entitytype",
         "in": [
             {
-                "pin": "3631943747",
+                "pin": "CameraCut",
                 "description": ""
             },
             {
-                "pin": "686855527",
+                "pin": "SetPIPPriority",
                 "description": ""
             },
             {
-                "pin": "2109921640",
+                "pin": "SetAsGameMainCamera",
                 "description": ""
             },
             {
-                "pin": "3274695753",
+                "pin": "SetNearZ",
                 "description": ""
             },
             {
-                "pin": "761718834",
+                "pin": "SetFovYDeg",
                 "description": ""
             },
             {
-                "pin": "410074355",
+                "pin": "SetClearColor",
                 "description": ""
             },
             {
-                "pin": "3135762906",
+                "pin": "SetFarZ",
                 "description": ""
             },
             {
-                "pin": "2847545435",
+                "pin": "SetAspectWByH",
                 "description": ""
             }
         ],
@@ -12626,7 +12626,7 @@
         "path": "[modules:/zcameraplanealignedtriggerentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             }
         ],
@@ -12637,7 +12637,7 @@
         "path": "[modules:/zcameraplanetriggerentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             }
         ],
@@ -12684,7 +12684,7 @@
         "path": "[modules:/zchannelkeywordcondition.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -12701,11 +12701,11 @@
         "path": "[modules:/zchannelkeywordproxyentity.class].entitytype",
         "in": [
             {
-                "pin": "3483299288",
+                "pin": "AddKeyword",
                 "description": ""
             },
             {
-                "pin": "2114967611",
+                "pin": "RemoveKeyword",
                 "description": ""
             }
         ],
@@ -12905,11 +12905,11 @@
         "path": "[modules:/zcinematicvolumeentity.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -13069,11 +13069,11 @@
         "path": "[modules:/zclothwireentity.class].entitytype",
         "in": [
             {
-                "pin": "445890690",
+                "pin": "WireDetach",
                 "description": ""
             },
             {
-                "pin": "400486147",
+                "pin": "WireAttach",
                 "description": ""
             }
         ],
@@ -13125,7 +13125,7 @@
         "path": "[modules:/zcolorarrayentity.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -13148,11 +13148,11 @@
         "path": "[modules:/zcolortouicolorentity.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             },
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             }
         ],
@@ -13187,7 +13187,7 @@
         "path": "[modules:/zconditionstack.class].entitytype",
         "in": [
             {
-                "pin": "4249846551",
+                "pin": "Check",
                 "description": ""
             }
         ],
@@ -13222,7 +13222,7 @@
         "path": "[modules:/zconditionaltimerentity.class].entitytype",
         "in": [
             {
-                "pin": "2512913872",
+                "pin": "SetInterval",
                 "description": ""
             }
         ],
@@ -13263,11 +13263,11 @@
         "path": "[modules:/zdynamicobjectentity.class].entitytype",
         "in": [
             {
-                "pin": "3286244325",
+                "pin": "NotifyDataChanged",
                 "description": ""
             },
             {
-                "pin": "1680789294",
+                "pin": "GetData",
                 "description": ""
             }
         ],
@@ -13278,19 +13278,19 @@
         "path": "[modules:/zcontractstartentity.class].entitytype",
         "in": [
             {
-                "pin": "2644027496",
+                "pin": "SetContractId",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "3911607332",
+                "pin": "GetContractId",
                 "description": ""
             },
             {
-                "pin": "329316886",
+                "pin": "SetEntranceId",
                 "description": ""
             }
         ],
@@ -13379,11 +13379,11 @@
         "path": "[modules:/zconversationchoicehandlerentity.class].entitytype",
         "in": [
             {
-                "pin": "78341141",
+                "pin": "Hide",
                 "description": ""
             },
             {
-                "pin": "2453435967",
+                "pin": "Show",
                 "description": ""
             }
         ],
@@ -13394,7 +13394,7 @@
         "path": "[modules:/zconverttovectorentity_scolorrgb.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -13405,7 +13405,7 @@
         "path": "[modules:/zconverttovectorentity_svector3.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -13416,7 +13416,7 @@
         "path": "[modules:/zconverttovectorentity_float32.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -13427,7 +13427,7 @@
         "path": "[modules:/zconverttovoidentity_svector3.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -13438,7 +13438,7 @@
         "path": "[modules:/zconverttovoidentity_zentityreference.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -13449,7 +13449,7 @@
         "path": "[modules:/zconverttovoidentity_bool.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -13460,7 +13460,7 @@
         "path": "[modules:/zconverttovoidentity_float32.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -13471,7 +13471,7 @@
         "path": "[modules:/zconverttovoidentity_int.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -13482,11 +13482,11 @@
         "path": "[modules:/zcountdownentity.class].entitytype",
         "in": [
             {
-                "pin": "3266971265",
+                "pin": "RestartFrom",
                 "description": ""
             },
             {
-                "pin": "3046769141",
+                "pin": "Countdown",
                 "description": ""
             }
         ],
@@ -13497,15 +13497,15 @@
         "path": "[modules:/zcountdowntimerentity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "4064338360",
+                "pin": "SetSeconds",
                 "description": ""
             }
         ],
@@ -13516,15 +13516,15 @@
         "path": "[modules:/zcounterentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
-                "pin": "2949585302",
+                "pin": "Inc",
                 "description": ""
             },
             {
-                "pin": "1155748622",
+                "pin": "Dec",
                 "description": ""
             }
         ],
@@ -13541,15 +13541,15 @@
         "path": "[modules:/zcrowdteleportentity.class].entitytype",
         "in": [
             {
-                "pin": "559099039",
+                "pin": "SetScaredActionTeleport",
                 "description": ""
             },
             {
-                "pin": "3210910439",
+                "pin": "SetScaredActionLeave",
                 "description": ""
             },
             {
-                "pin": "951063151",
+                "pin": "SetScaredActionStay",
                 "description": ""
             }
         ],
@@ -13608,15 +13608,15 @@
         "path": "[modules:/zcrowdentity.class].entitytype",
         "in": [
             {
-                "pin": "2356974530",
+                "pin": "ForcePanicGroup",
                 "description": ""
             },
             {
-                "pin": "1527533478",
+                "pin": "ChangeHomeGroup",
                 "description": ""
             },
             {
-                "pin": "1335449576",
+                "pin": "ForceWarzone",
                 "description": ""
             },
             {
@@ -13624,7 +13624,7 @@
                 "description": ""
             },
             {
-                "pin": "2061863157",
+                "pin": "KillCrowdActor",
                 "description": ""
             },
             {
@@ -13651,31 +13651,31 @@
         "path": "[modules:/zcrowdactivityentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2869672422",
+                "pin": "SetEnterDelay",
                 "description": ""
             },
             {
-                "pin": "2261797448",
+                "pin": "SetCanActorsBePushed",
                 "description": ""
             },
             {
-                "pin": "2008764650",
+                "pin": "SetGait",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             },
             {
-                "pin": "2851440590",
+                "pin": "SetLeaveDelay",
                 "description": ""
             },
             {
-                "pin": "2372883418",
+                "pin": "SetEnabled",
                 "description": ""
             }
         ],
@@ -13722,7 +13722,7 @@
         "path": "[modules:/zcrowdgaitvalueentity.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -13739,7 +13739,7 @@
         "path": "[modules:/zcrowdproximityentity.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -13762,15 +13762,15 @@
         "path": "[modules:/zcurrentlocaleentity.class].entitytype",
         "in": [
             {
-                "pin": "3903097993",
+                "pin": "GetCurrentTextLocale",
                 "description": ""
             },
             {
-                "pin": "665116739",
+                "pin": "GetCurrentRegion",
                 "description": ""
             },
             {
-                "pin": "1766250413",
+                "pin": "GetCurrentLocale",
                 "description": ""
             }
         ],
@@ -13787,7 +13787,7 @@
         "path": "[modules:/zcurrentplatformentity.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -13798,7 +13798,7 @@
         "path": "[modules:/zcurveevaluator.class].entitytype",
         "in": [
             {
-                "pin": "434707923",
+                "pin": "Input",
                 "description": ""
             }
         ],
@@ -13856,7 +13856,7 @@
         "path": "[modules:/zd6constraintentity.class].entitytype",
         "in": [
             {
-                "pin": "3213012115",
+                "pin": "SetMotorsEnabled",
                 "description": ""
             }
         ],
@@ -13956,19 +13956,19 @@
         "path": "[modules:/zdebugboxentity.class].entitytype",
         "in": [
             {
-                "pin": "904736769",
+                "pin": "SizeZ",
                 "description": ""
             },
             {
-                "pin": "2900648379",
+                "pin": "SizeY",
                 "description": ""
             },
             {
-                "pin": "3689107757",
+                "pin": "SizeX",
                 "description": ""
             },
             {
-                "pin": "2811717613",
+                "pin": "Color",
                 "description": ""
             }
         ],
@@ -13979,7 +13979,7 @@
         "path": "[modules:/zdebugbreakentity.class].entitytype",
         "in": [
             {
-                "pin": "3451748318",
+                "pin": "Break",
                 "description": ""
             }
         ],
@@ -13996,11 +13996,11 @@
         "path": "[modules:/zdebugcheckkeyentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -14017,11 +14017,11 @@
         "path": "[modules:/zdebugcircleentity.class].entitytype",
         "in": [
             {
-                "pin": "1020291948",
+                "pin": "Radius",
                 "description": ""
             },
             {
-                "pin": "2811717613",
+                "pin": "Color",
                 "description": ""
             }
         ],
@@ -14032,7 +14032,7 @@
         "path": "[modules:/zdebugcrowdlocomotionentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
@@ -14047,19 +14047,19 @@
         "path": "[modules:/zdebugcylinderentity.class].entitytype",
         "in": [
             {
-                "pin": "2223897541",
+                "pin": "RadiusY",
                 "description": ""
             },
             {
-                "pin": "4074889273",
+                "pin": "Height",
                 "description": ""
             },
             {
-                "pin": "4085959507",
+                "pin": "RadiusX",
                 "description": ""
             },
             {
-                "pin": "2811717613",
+                "pin": "Color",
                 "description": ""
             }
         ],
@@ -14084,7 +14084,7 @@
                 "description": ""
             },
             {
-                "pin": "2811717613",
+                "pin": "Color",
                 "description": ""
             },
             {
@@ -14092,7 +14092,7 @@
                 "description": ""
             },
             {
-                "pin": "4074889273",
+                "pin": "Height",
                 "description": ""
             }
         ],
@@ -14115,7 +14115,7 @@
         "path": "[modules:/zdebuglineentity.class].entitytype",
         "in": [
             {
-                "pin": "2811717613",
+                "pin": "Color",
                 "description": ""
             }
         ],
@@ -14162,11 +14162,11 @@
         "path": "[modules:/zdebugplaneentity.class].entitytype",
         "in": [
             {
-                "pin": "1475513172",
+                "pin": "Size",
                 "description": ""
             },
             {
-                "pin": "2811717613",
+                "pin": "Color",
                 "description": ""
             }
         ],
@@ -14177,11 +14177,11 @@
         "path": "[modules:/zdebugsphereentity.class].entitytype",
         "in": [
             {
-                "pin": "1020291948",
+                "pin": "Radius",
                 "description": ""
             },
             {
-                "pin": "2811717613",
+                "pin": "Color",
                 "description": ""
             }
         ],
@@ -14198,7 +14198,7 @@
         "path": "[modules:/zdebugtextentity.class].entitytype",
         "in": [
             {
-                "pin": "2811717613",
+                "pin": "Color",
                 "description": ""
             }
         ],
@@ -14209,7 +14209,7 @@
         "path": "[modules:/zdebugvariableentity.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -14226,11 +14226,11 @@
         "path": "[modules:/zdecalsspawnentity.class].entitytype",
         "in": [
             {
-                "pin": "1777084264",
+                "pin": "DirectionSpawn",
                 "description": ""
             },
             {
-                "pin": "1372578019",
+                "pin": "Spawn",
                 "description": ""
             }
         ],
@@ -14259,11 +14259,11 @@
         "path": "[modules:/zdefaultgloballeveldescriptor.class].entitytype",
         "in": [
             {
-                "pin": "1545441928",
+                "pin": "UseDefault",
                 "description": ""
             },
             {
-                "pin": "382841383",
+                "pin": "SetAsLevelDescriptor",
                 "description": ""
             }
         ],
@@ -14344,7 +14344,7 @@
         "path": "[modules:/zdestructioneffectinterfaceentity.class].entitytype",
         "in": [
             {
-                "pin": "2292607438",
+                "pin": "DeactivateEffect",
                 "description": ""
             }
         ],
@@ -14367,15 +14367,15 @@
         "path": "[modules:/zdialogcooldownentity.class].entitytype",
         "in": [
             {
-                "pin": "1764042585",
+                "pin": "ResetCooldown",
                 "description": ""
             },
             {
-                "pin": "3409625381",
+                "pin": "ResetAllCooldowns",
                 "description": ""
             },
             {
-                "pin": "2453435967",
+                "pin": "Show",
                 "description": ""
             }
         ],
@@ -14422,7 +14422,7 @@
         "path": "[modules:/zdifficultycollectioncondition.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -14451,7 +14451,7 @@
         "path": "[modules:/zdifficultycondition.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -14462,11 +14462,11 @@
         "path": "[modules:/zdifficultyparameterreaderentity.class].entitytype",
         "in": [
             {
-                "pin": "3238116996",
+                "pin": "GetFloat",
                 "description": ""
             },
             {
-                "pin": "2849792711",
+                "pin": "GetInteger",
                 "description": ""
             }
         ],
@@ -14519,7 +14519,7 @@
         "path": "[modules:/zdoorentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
@@ -14547,7 +14547,7 @@
                 "description": ""
             },
             {
-                "pin": "666711088",
+                "pin": "Lock",
                 "description": ""
             },
             {
@@ -14559,7 +14559,7 @@
                 "description": ""
             },
             {
-                "pin": "3535843008",
+                "pin": "Close",
                 "description": ""
             },
             {
@@ -14571,7 +14571,7 @@
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             },
             {
@@ -14579,7 +14579,7 @@
                 "description": ""
             },
             {
-                "pin": "1833481689",
+                "pin": "Unlock",
                 "description": ""
             },
             {
@@ -14684,7 +14684,7 @@
         "path": "[modules:/zdynamicgameplayspawnerentity.class].entitytype",
         "in": [
             {
-                "pin": "1372578019",
+                "pin": "Spawn",
                 "description": ""
             }
         ],
@@ -14707,11 +14707,11 @@
         "path": "[modules:/zdynamicobjectaccessorentity.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -14803,7 +14803,7 @@
         "path": "[modules:/zengineregioncompareentity.class].entitytype",
         "in": [
             {
-                "pin": "1920217537",
+                "pin": "Compare",
                 "description": ""
             }
         ],
@@ -14868,7 +14868,7 @@
         "path": "[modules:/zenvelopefollower.class].entitytype",
         "in": [
             {
-                "pin": "434707923",
+                "pin": "Input",
                 "description": ""
             }
         ],
@@ -14908,11 +14908,11 @@
         "path": "[modules:/zenvironmentalhazardfallingobjectareaentity.class].entitytype",
         "in": [
             {
-                "pin": "951154001",
+                "pin": "End",
                 "description": ""
             },
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
@@ -14927,11 +14927,11 @@
         "path": "[modules:/zenvironmentalhazardsmokeareaentity.class].entitytype",
         "in": [
             {
-                "pin": "951154001",
+                "pin": "End",
                 "description": ""
             },
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
@@ -14946,7 +14946,7 @@
         "path": "[modules:/zuinavigationnodebase.class].entitytype",
         "in": [
             {
-                "pin": "570173688",
+                "pin": "GiveFocus",
                 "description": ""
             }
         ],
@@ -14999,11 +14999,11 @@
         "path": "[modules:/zeventchannelentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -15110,7 +15110,7 @@
         "path": "[modules:/zeventtransmitterentity_iactor.class].entitytype",
         "in": [
             {
-                "pin": "1616029456",
+                "pin": "TransmitEvent",
                 "description": ""
             }
         ],
@@ -15121,7 +15121,7 @@
         "path": "[modules:/zeventtransmitterentity_svector3.class].entitytype",
         "in": [
             {
-                "pin": "1616029456",
+                "pin": "TransmitEvent",
                 "description": ""
             }
         ],
@@ -15132,7 +15132,7 @@
         "path": "[modules:/zeventtransmitterentity_zentityref.class].entitytype",
         "in": [
             {
-                "pin": "1616029456",
+                "pin": "TransmitEvent",
                 "description": ""
             }
         ],
@@ -15143,15 +15143,15 @@
         "path": "[modules:/zeventtransmitterentity_bool.class].entitytype",
         "in": [
             {
-                "pin": "1616029456",
+                "pin": "TransmitEvent",
                 "description": ""
             },
             {
-                "pin": "3758089778",
+                "pin": "TransmitTrue",
                 "description": ""
             },
             {
-                "pin": "1882310023",
+                "pin": "TransmitFalse",
                 "description": ""
             }
         ],
@@ -15162,7 +15162,7 @@
         "path": "[modules:/zeventtransmitterentity_float32.class].entitytype",
         "in": [
             {
-                "pin": "1616029456",
+                "pin": "TransmitEvent",
                 "description": ""
             }
         ],
@@ -15173,7 +15173,7 @@
         "path": "[modules:/zeventtransmitterentity_int32.class].entitytype",
         "in": [
             {
-                "pin": "1616029456",
+                "pin": "TransmitEvent",
                 "description": ""
             }
         ],
@@ -15184,7 +15184,7 @@
         "path": "[modules:/zeventtransmitterentity_void.class].entitytype",
         "in": [
             {
-                "pin": "1616029456",
+                "pin": "TransmitEvent",
                 "description": ""
             }
         ],
@@ -15356,7 +15356,7 @@
         "path": "[modules:/zfixedorientationaspect.class].entitytype",
         "in": [
             {
-                "pin": "2539684689",
+                "pin": "UpdateTransform",
                 "description": ""
             }
         ],
@@ -15414,11 +15414,11 @@
         "path": "[modules:/zfloatrangecomparatorentity.class].entitytype",
         "in": [
             {
-                "pin": "3702945584",
+                "pin": "Value",
                 "description": ""
             },
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             }
         ],
@@ -15429,43 +15429,43 @@
         "path": "[modules:/zfloatsorterentity.class].entitytype",
         "in": [
             {
-                "pin": "1141589763",
+                "pin": "J",
                 "description": ""
             },
             {
-                "pin": "2746444292",
+                "pin": "D",
                 "description": ""
             },
             {
-                "pin": "1037565863",
+                "pin": "C",
                 "description": ""
             },
             {
-                "pin": "1304234792",
+                "pin": "F",
                 "description": ""
             },
             {
-                "pin": "3554254475",
+                "pin": "A",
                 "description": ""
             },
             {
-                "pin": "2852464175",
+                "pin": "H",
                 "description": ""
             },
             {
-                "pin": "1255198513",
+                "pin": "B",
                 "description": ""
             },
             {
-                "pin": "3568589458",
+                "pin": "E",
                 "description": ""
             },
             {
-                "pin": "3707901625",
+                "pin": "I",
                 "description": ""
             },
             {
-                "pin": "985283518",
+                "pin": "G",
                 "description": ""
             }
         ],
@@ -15536,27 +15536,27 @@
         "path": "[modules:/zframeanimatorentity.class].entitytype",
         "in": [
             {
-                "pin": "3193658945",
+                "pin": "SetEndIndex",
                 "description": ""
             },
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "3935651977",
+                "pin": "Continue",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "3402045742",
+                "pin": "SetStartIndex",
                 "description": ""
             },
             {
-                "pin": "990859672",
+                "pin": "SetFrameRate",
                 "description": ""
             }
         ],
@@ -15579,11 +15579,11 @@
         "path": "[modules:/zfullscreenvideocontrol.class].entitytype",
         "in": [
             {
-                "pin": "3180294756",
+                "pin": "StopFullScreenVideo",
                 "description": ""
             },
             {
-                "pin": "1710805047",
+                "pin": "StartFullScreenVideo",
                 "description": ""
             }
         ],
@@ -15943,11 +15943,11 @@
         "path": "[modules:/zgamepauseentity.class].entitytype",
         "in": [
             {
-                "pin": "753414640",
+                "pin": "RequestPause",
                 "description": ""
             },
             {
-                "pin": "515417629",
+                "pin": "ReleasePause",
                 "description": ""
             }
         ],
@@ -15982,7 +15982,7 @@
         "path": "[modules:/zgamestatsetter.class].entitytype",
         "in": [
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             }
         ],
@@ -16047,11 +16047,11 @@
         "path": "[modules:/zgameuimenuentity.class].entitytype",
         "in": [
             {
-                "pin": "3721973544",
+                "pin": "TryOpen",
                 "description": ""
             },
             {
-                "pin": "4151764611",
+                "pin": "TryClose",
                 "description": ""
             }
         ],
@@ -16104,15 +16104,15 @@
         "path": "[modules:/zgameuimanagerentity.class].entitytype",
         "in": [
             {
-                "pin": "2167194713",
+                "pin": "ShowSubmitBugReportForm",
                 "description": ""
             },
             {
-                "pin": "1348400835",
+                "pin": "EnableModalDialogs",
                 "description": ""
             },
             {
-                "pin": "226355838",
+                "pin": "DisableModalDialogs",
                 "description": ""
             }
         ],
@@ -16164,19 +16164,19 @@
         "path": "[modules:/zgateentity.class].entitytype",
         "in": [
             {
-                "pin": "3535843008",
+                "pin": "Close",
                 "description": ""
             },
             {
-                "pin": "71445658",
+                "pin": "Open",
                 "description": ""
             },
             {
-                "pin": "107220550",
+                "pin": "OpenFraction",
                 "description": ""
             },
             {
-                "pin": "2665021895",
+                "pin": "SetIsOpen",
                 "description": ""
             }
         ],
@@ -16217,7 +16217,7 @@
         "path": "[modules:/zgetaudiosettingsentity.class].entitytype",
         "in": [
             {
-                "pin": "3115726040",
+                "pin": "GetDynamicRangeMode",
                 "description": ""
             },
             {
@@ -16225,7 +16225,7 @@
                 "description": ""
             },
             {
-                "pin": "1157853253",
+                "pin": "GetAudioOutputMode",
                 "description": ""
             }
         ],
@@ -16266,7 +16266,7 @@
         "path": "[modules:/zgetentity_tosignal.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -16307,7 +16307,7 @@
         "path": "[modules:/zgetpositionentity.class].entitytype",
         "in": [
             {
-                "pin": "3557669287",
+                "pin": "GetPosition",
                 "description": ""
             }
         ],
@@ -16318,15 +16318,15 @@
         "path": "[modules:/zgetroomid.class].entitytype",
         "in": [
             {
-                "pin": "3826411665",
+                "pin": "EnableAutoGet",
                 "description": ""
             },
             {
-                "pin": "3652923682",
+                "pin": "DisableAutoGet",
                 "description": ""
             },
             {
-                "pin": "4122126084",
+                "pin": "GetRoomID",
                 "description": ""
             }
         ],
@@ -16337,7 +16337,7 @@
         "path": "[modules:/zgetrotationentity.class].entitytype",
         "in": [
             {
-                "pin": "3143484835",
+                "pin": "GetRotation",
                 "description": ""
             }
         ],
@@ -16360,7 +16360,7 @@
         "path": "[modules:/zgetspatialentity_tosignal.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -16521,7 +16521,7 @@
         "path": "[modules:/zhm5variantconverterentity_scolorrgb.class].entitytype",
         "in": [
             {
-                "pin": "1056867889",
+                "pin": "Variant",
                 "description": ""
             }
         ],
@@ -16532,11 +16532,11 @@
         "path": "[modules:/zhm5variantconverterentity_zentityref.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             },
             {
-                "pin": "1056867889",
+                "pin": "Variant",
                 "description": ""
             }
         ],
@@ -16547,7 +16547,7 @@
         "path": "[modules:/zhm5variantconverterentity_zstring.class].entitytype",
         "in": [
             {
-                "pin": "1056867889",
+                "pin": "Variant",
                 "description": ""
             }
         ],
@@ -16558,7 +16558,7 @@
         "path": "[modules:/zhm5variantconverterentity_bool.class].entitytype",
         "in": [
             {
-                "pin": "1056867889",
+                "pin": "Variant",
                 "description": ""
             }
         ],
@@ -16569,7 +16569,7 @@
         "path": "[modules:/zhm5variantconverterentity_float32.class].entitytype",
         "in": [
             {
-                "pin": "1056867889",
+                "pin": "Variant",
                 "description": ""
             }
         ],
@@ -16580,7 +16580,7 @@
         "path": "[modules:/zhm5variantconverterentity_int.class].entitytype",
         "in": [
             {
-                "pin": "1056867889",
+                "pin": "Variant",
                 "description": ""
             }
         ],
@@ -16591,7 +16591,7 @@
         "path": "[modules:/zhm5variantconverterentity_void.class].entitytype",
         "in": [
             {
-                "pin": "1056867889",
+                "pin": "Variant",
                 "description": ""
             }
         ],
@@ -16602,7 +16602,7 @@
         "path": "[modules:/zuispatialcontrollerentity.class].entitytype",
         "in": [
             {
-                "pin": "2847088219",
+                "pin": "SetSpatial",
                 "description": ""
             }
         ],
@@ -16643,19 +16643,19 @@
         "path": "[modules:/zhudcamera3dcontrollerentity.class].entitytype",
         "in": [
             {
-                "pin": "4191004034",
+                "pin": "OccludersNone",
                 "description": ""
             },
             {
-                "pin": "843893899",
+                "pin": "ResetWithViewDirection",
                 "description": ""
             },
             {
-                "pin": "4027693404",
+                "pin": "OccludersNear",
                 "description": ""
             },
             {
-                "pin": "4286692774",
+                "pin": "OccludersFar",
                 "description": ""
             }
         ],
@@ -16696,7 +16696,7 @@
         "path": "[modules:/zhudcontrollergadgetwatchping.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             }
         ],
@@ -16790,7 +16790,7 @@
         "path": "[modules:/zuiimageresourceentity.class].entitytype",
         "in": [
             {
-                "pin": "690151322",
+                "pin": "GetRID",
                 "description": ""
             }
         ],
@@ -17200,11 +17200,11 @@
         "path": "[modules:/zhudignorevisibility.class].entitytype",
         "in": [
             {
-                "pin": "2341174464",
+                "pin": "RemoveFromIgnoreList",
                 "description": ""
             },
             {
-                "pin": "856523338",
+                "pin": "AddToIgnoreList",
                 "description": ""
             }
         ],
@@ -17245,11 +17245,11 @@
         "path": "[modules:/zhudpipcontroller.class].entitytype",
         "in": [
             {
-                "pin": "1010973624",
+                "pin": "EnablePiP",
                 "description": ""
             },
             {
-                "pin": "770422263",
+                "pin": "DisablePiP",
                 "description": ""
             }
         ],
@@ -17268,11 +17268,11 @@
                 "description": ""
             },
             {
-                "pin": "2461028036",
+                "pin": "OpenPage",
                 "description": ""
             },
             {
-                "pin": "2883747353",
+                "pin": "ReleaseFocus",
                 "description": ""
             }
         ],
@@ -17318,11 +17318,11 @@
         "path": "[modules:/zhudtimerinstance.class].entitytype",
         "in": [
             {
-                "pin": "78341141",
+                "pin": "Hide",
                 "description": ""
             },
             {
-                "pin": "2453435967",
+                "pin": "Show",
                 "description": ""
             }
         ],
@@ -17333,11 +17333,11 @@
         "path": "[modules:/zhudtutorialhintdata.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -17348,19 +17348,19 @@
         "path": "[modules:/zhudvisibilitycontroller2.class].entitytype",
         "in": [
             {
-                "pin": "3258686664",
+                "pin": "InstantOff",
                 "description": ""
             },
             {
-                "pin": "3178809251",
+                "pin": "FadeIn",
                 "description": ""
             },
             {
-                "pin": "1739810581",
+                "pin": "FadeOut",
                 "description": ""
             },
             {
-                "pin": "3990001614",
+                "pin": "InstantOn",
                 "description": ""
             }
         ],
@@ -17935,11 +17935,11 @@
         "path": "[modules:/zinputsignalentity.class].entitytype",
         "in": [
             {
-                "pin": "4079040810",
+                "pin": "SignalData",
                 "description": ""
             },
             {
-                "pin": "1939902659",
+                "pin": "Signal",
                 "description": ""
             }
         ],
@@ -17973,7 +17973,7 @@
         "path": "[modules:/zinspectableobjectdata.class].entitytype",
         "in": [
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             },
             {
@@ -17989,7 +17989,7 @@
                 "description": ""
             },
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
@@ -18160,11 +18160,11 @@
         "path": "[modules:/zkeywordcalculator.class].entitytype",
         "in": [
             {
-                "pin": "613307771",
+                "pin": "Poll",
                 "description": ""
             },
             {
-                "pin": "2012375262",
+                "pin": "Evaluate",
                 "description": ""
             }
         ],
@@ -18181,7 +18181,7 @@
         "path": "[modules:/zkeywordcondition.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -18198,19 +18198,19 @@
         "path": "[modules:/zkeyworddynamicproxy.class].entitytype",
         "in": [
             {
-                "pin": "1573129704",
+                "pin": "SetOriginalB",
                 "description": ""
             },
             {
-                "pin": "3301792850",
+                "pin": "SetOriginalA",
                 "description": ""
             },
             {
-                "pin": "2114967611",
+                "pin": "RemoveKeyword",
                 "description": ""
             },
             {
-                "pin": "3483299288",
+                "pin": "AddKeyword",
                 "description": ""
             }
         ],
@@ -18221,7 +18221,7 @@
         "path": "[modules:/zkeywordfilter.class].entitytype",
         "in": [
             {
-                "pin": "2020104747",
+                "pin": "Filter",
                 "description": ""
             }
         ],
@@ -18238,7 +18238,7 @@
         "path": "[modules:/zkeywordholderproxy.class].entitytype",
         "in": [
             {
-                "pin": "2742852254",
+                "pin": "SetOriginal",
                 "description": ""
             }
         ],
@@ -18284,7 +18284,7 @@
         "path": "[modules:/zkeywordtransferentity.class].entitytype",
         "in": [
             {
-                "pin": "3108159894",
+                "pin": "Transfer",
                 "description": ""
             }
         ],
@@ -18295,15 +18295,15 @@
         "path": "[modules:/zkinematiclinkedphysicsentity.class].entitytype",
         "in": [
             {
-                "pin": "4159927587",
+                "pin": "HideBone",
                 "description": ""
             },
             {
-                "pin": "11691979",
+                "pin": "ShowBone",
                 "description": ""
             },
             {
-                "pin": "4239216355",
+                "pin": "RemovePhysics",
                 "description": ""
             }
         ],
@@ -18664,7 +18664,7 @@
         "path": "[modules:/zkntmissiontimerentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             }
         ],
@@ -18675,7 +18675,7 @@
         "path": "[modules:/zkntobjectivedynamicdataentity.class].entitytype",
         "in": [
             {
-                "pin": "3633330964",
+                "pin": "UpdateData",
                 "description": ""
             }
         ],
@@ -18943,11 +18943,11 @@
         "path": "[modules:/zlerppositiononphysicstickentity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "4273697156",
+                "pin": "Play",
                 "description": ""
             }
         ],
@@ -18973,31 +18973,31 @@
         "path": "[modules:/zlevelcontrolentity.class].entitytype",
         "in": [
             {
-                "pin": "387909035",
+                "pin": "RequestAutosave",
                 "description": ""
             },
             {
-                "pin": "775449709",
+                "pin": "LoadAuto",
                 "description": ""
             },
             {
-                "pin": "3962729486",
+                "pin": "SaveQuick",
                 "description": ""
             },
             {
-                "pin": "3272247950",
+                "pin": "QuitGame",
                 "description": ""
             },
             {
-                "pin": "3076156276",
+                "pin": "LoadScene",
                 "description": ""
             },
             {
-                "pin": "3823409785",
+                "pin": "LoadQuick",
                 "description": ""
             },
             {
-                "pin": "1345039934",
+                "pin": "RestartLevel",
                 "description": ""
             }
         ],
@@ -19019,11 +19019,11 @@
         "path": "[modules:/zlightflickerentity.class].entitytype",
         "in": [
             {
-                "pin": "1601692283",
+                "pin": "TurnLightOn",
                 "description": ""
             },
             {
-                "pin": "3251137293",
+                "pin": "TurnFlickerOn",
                 "description": ""
             }
         ],
@@ -19046,11 +19046,11 @@
         "path": "[modules:/zsmdrawonlylistentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -19103,11 +19103,11 @@
         "path": "[modules:/zlistenerdistancemeasurerentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -19148,7 +19148,7 @@
         "path": "[modules:/zlocalecompareentity.class].entitytype",
         "in": [
             {
-                "pin": "1920217537",
+                "pin": "Compare",
                 "description": ""
             }
         ],
@@ -19159,11 +19159,11 @@
         "path": "[modules:/zlogicandentity.class].entitytype",
         "in": [
             {
-                "pin": "1255198513",
+                "pin": "B",
                 "description": ""
             },
             {
-                "pin": "3554254475",
+                "pin": "A",
                 "description": ""
             }
         ],
@@ -19174,7 +19174,7 @@
         "path": "[modules:/zlogicifentity.class].entitytype",
         "in": [
             {
-                "pin": "3300074206",
+                "pin": "If",
                 "description": ""
             }
         ],
@@ -19185,7 +19185,7 @@
         "path": "[modules:/zlogicnotentity.class].entitytype",
         "in": [
             {
-                "pin": "434707923",
+                "pin": "Input",
                 "description": ""
             }
         ],
@@ -19196,11 +19196,11 @@
         "path": "[modules:/zlogicorentity.class].entitytype",
         "in": [
             {
-                "pin": "1255198513",
+                "pin": "B",
                 "description": ""
             },
             {
-                "pin": "3554254475",
+                "pin": "A",
                 "description": ""
             }
         ],
@@ -19279,11 +19279,11 @@
         "path": "[modules:/zmassimpulselistenerentity.class].entitytype",
         "in": [
             {
-                "pin": "747703502",
+                "pin": "EnableImpulseListener",
                 "description": ""
             },
             {
-                "pin": "2768719359",
+                "pin": "DisableImpulseListener",
                 "description": ""
             }
         ],
@@ -19330,7 +19330,7 @@
         "path": "[modules:/zmenucondition.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -19341,31 +19341,31 @@
         "path": "[modules:/zmenuconfigurationentity.class].entitytype",
         "in": [
             {
-                "pin": "2167233410",
+                "pin": "SetPauseMenuEnabled",
                 "description": ""
             },
             {
-                "pin": "1467528360",
+                "pin": "SetDebriefingVideoEnabled",
                 "description": ""
             },
             {
-                "pin": "1505997705",
+                "pin": "SetObjectivesBarEnabled",
                 "description": ""
             },
             {
-                "pin": "2671371660",
+                "pin": "SetNotebookMapEnabled",
                 "description": ""
             },
             {
-                "pin": "2264264812",
+                "pin": "SetNotebookEnabled",
                 "description": ""
             },
             {
-                "pin": "713026700",
+                "pin": "SetNotebookIntelEnabled",
                 "description": ""
             },
             {
-                "pin": "2423623998",
+                "pin": "SetNotebookInventoryEnabled",
                 "description": ""
             }
         ],
@@ -19376,11 +19376,11 @@
         "path": "[modules:/zmenucontextcontrol.class].entitytype",
         "in": [
             {
-                "pin": "1070296352",
+                "pin": "SetContext",
                 "description": ""
             },
             {
-                "pin": "1154025522",
+                "pin": "ClearContext",
                 "description": ""
             }
         ],
@@ -19421,7 +19421,7 @@
         "path": "[modules:/zmetricvalue_dynamic.class].entitytype",
         "in": [
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19432,7 +19432,7 @@
         "path": "[modules:/zmetricvalue_pool.class].entitytype",
         "in": [
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19443,11 +19443,11 @@
         "path": "[modules:/zmetricvalue_svector3.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19458,11 +19458,11 @@
         "path": "[modules:/zmetricvalue_zrepositoryid.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19473,11 +19473,11 @@
         "path": "[modules:/zmetricvalue_zstring.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19488,11 +19488,11 @@
         "path": "[modules:/zmetricvalue_bool.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19503,11 +19503,11 @@
         "path": "[modules:/zmetricvalue_float32.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19518,11 +19518,11 @@
         "path": "[modules:/zmetricvalue_int32.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19533,11 +19533,11 @@
         "path": "[modules:/zmetricvalue_int64.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19548,11 +19548,11 @@
         "path": "[modules:/zmetricvalue_uint32.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "366196773",
+                "pin": "GetValue",
                 "description": ""
             }
         ],
@@ -19563,7 +19563,7 @@
         "path": "[modules:/zmetricssenderentity.class].entitytype",
         "in": [
             {
-                "pin": "121738739",
+                "pin": "Send",
                 "description": ""
             }
         ],
@@ -19574,11 +19574,11 @@
         "path": "[modules:/zmicroprofileuicontroller.class].entitytype",
         "in": [
             {
-                "pin": "3662659912",
+                "pin": "EndBenchmark",
                 "description": ""
             },
             {
-                "pin": "35367759",
+                "pin": "DisplaySummary",
                 "description": ""
             }
         ],
@@ -19589,7 +19589,7 @@
         "path": "[modules:/zmicroprofileuisection.class].entitytype",
         "in": [
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -19648,7 +19648,7 @@
         "path": "[modules:/zmodaldialogdisplayentity.class].entitytype",
         "in": [
             {
-                "pin": "2453435967",
+                "pin": "Show",
                 "description": ""
             }
         ],
@@ -19665,19 +19665,19 @@
         "path": "[modules:/zmultiparentspatialentity.class].entitytype",
         "in": [
             {
-                "pin": "2295826192",
+                "pin": "GetIndex",
                 "description": ""
             },
             {
-                "pin": "1881585857",
+                "pin": "SetIndex",
                 "description": ""
             },
             {
-                "pin": "669223292",
+                "pin": "Reparent",
                 "description": ""
             },
             {
-                "pin": "2857552374",
+                "pin": "SetIndexReparent",
                 "description": ""
             }
         ],
@@ -19700,7 +19700,7 @@
         "path": "[modules:/zmusictriggerentity.class].entitytype",
         "in": [
             {
-                "pin": "121738739",
+                "pin": "Send",
                 "description": ""
             }
         ],
@@ -19831,7 +19831,7 @@
         "path": "[modules:/zonlinesessionentity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             }
         ],
@@ -19848,7 +19848,7 @@
         "path": "[modules:/zopenmenupageentity.class].entitytype",
         "in": [
             {
-                "pin": "71445658",
+                "pin": "Open",
                 "description": ""
             }
         ],
@@ -19889,7 +19889,7 @@
         "path": "[modules:/zoutputsignaldataentity.class].entitytype",
         "in": [
             {
-                "pin": "4079040810",
+                "pin": "SignalData",
                 "description": ""
             }
         ],
@@ -19900,7 +19900,7 @@
         "path": "[modules:/zoutputsignalentity.class].entitytype",
         "in": [
             {
-                "pin": "1939902659",
+                "pin": "Signal",
                 "description": ""
             }
         ],
@@ -19954,15 +19954,15 @@
         "path": "[modules:/zpfobstacleentity.class].entitytype",
         "in": [
             {
-                "pin": "2372883418",
+                "pin": "SetEnabled",
                 "description": ""
             },
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -19973,7 +19973,7 @@
         "path": "[modules:/zpfstaticobstacleboxentity.class].entitytype",
         "in": [
             {
-                "pin": "2372883418",
+                "pin": "SetEnabled",
                 "description": ""
             },
             {
@@ -19981,11 +19981,11 @@
                 "description": ""
             },
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -20038,11 +20038,11 @@
         "path": "[modules:/zparticleemitterbaseentity.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -20105,11 +20105,11 @@
         "path": "[modules:/zparticleemitterentity.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -20353,7 +20353,7 @@
         "path": "[modules:/zrenderdynamictexbaseentity.class].entitytype",
         "in": [
             {
-                "pin": "611376642",
+                "pin": "Clear",
                 "description": ""
             },
             {
@@ -20404,7 +20404,7 @@
         "path": "[modules:/zparticlerenderspawnentity.class].entitytype",
         "in": [
             {
-                "pin": "2250256132",
+                "pin": "SetAlignToVelocity",
                 "description": ""
             }
         ],
@@ -20439,51 +20439,51 @@
         "path": "[modules:/zparticleshaderparametersentity.class].entitytype",
         "in": [
             {
-                "pin": "2776966596",
+                "pin": "SetVector5",
                 "description": ""
             },
             {
-                "pin": "3289901156",
+                "pin": "SetScalar5",
                 "description": ""
             },
             {
-                "pin": "1004646503",
+                "pin": "SetVector2",
                 "description": ""
             },
             {
-                "pin": "1517518279",
+                "pin": "SetScalar2",
                 "description": ""
             },
             {
-                "pin": "3589263691",
+                "pin": "SetVector0",
                 "description": ""
             },
             {
-                "pin": "3028098283",
+                "pin": "SetScalar0",
                 "description": ""
             },
             {
-                "pin": "1290174705",
+                "pin": "SetVector3",
                 "description": ""
             },
             {
-                "pin": "762596689",
+                "pin": "SetScalar3",
                 "description": ""
             },
             {
-                "pin": "3531740498",
+                "pin": "SetVector4",
                 "description": ""
             },
             {
-                "pin": "3004225778",
+                "pin": "SetScalar4",
                 "description": ""
             },
             {
-                "pin": "3279563901",
+                "pin": "SetScalar1",
                 "description": ""
             },
             {
-                "pin": "2733171165",
+                "pin": "SetVector1",
                 "description": ""
             }
         ],
@@ -20587,11 +20587,11 @@
         "path": "[modules:/zperformanceprofileentity.class].entitytype",
         "in": [
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "660991534",
+                "pin": "Finish",
                 "description": ""
             }
         ],
@@ -20608,43 +20608,43 @@
         "path": "[modules:/zphysicsaffectorentity.class].entitytype",
         "in": [
             {
-                "pin": "2082883074",
+                "pin": "ApplyTorqueImpulse",
                 "description": ""
             },
             {
-                "pin": "1051817732",
+                "pin": "ApplyForce",
                 "description": ""
             },
             {
-                "pin": "4093102571",
+                "pin": "ApplyTorque",
                 "description": ""
             },
             {
-                "pin": "5252941",
+                "pin": "ApplyVelocity",
                 "description": ""
             },
             {
-                "pin": "852901042",
+                "pin": "SetVelocity",
                 "description": ""
             },
             {
-                "pin": "4031787924",
+                "pin": "SetTimerEnabled",
                 "description": ""
             },
             {
-                "pin": "1778189177",
+                "pin": "ApplyImpulse",
                 "description": ""
             },
             {
-                "pin": "2096014107",
+                "pin": "Apply",
                 "description": ""
             },
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             },
             {
-                "pin": "3265158591",
+                "pin": "SetOffset",
                 "description": ""
             }
         ],
@@ -20655,11 +20655,11 @@
         "path": "[modules:/zphysicscollisionentity.class].entitytype",
         "in": [
             {
-                "pin": "751866764",
+                "pin": "EnableCollision",
                 "description": ""
             },
             {
-                "pin": "4052728334",
+                "pin": "DisableCollision",
                 "description": ""
             }
         ],
@@ -20670,19 +20670,19 @@
         "path": "[modules:/zphysicsentity.class].entitytype",
         "in": [
             {
-                "pin": "3613021800",
+                "pin": "KinematicBody",
                 "description": ""
             },
             {
-                "pin": "1778189177",
+                "pin": "ApplyImpulse",
                 "description": ""
             },
             {
-                "pin": "4093102571",
+                "pin": "ApplyTorque",
                 "description": ""
             },
             {
-                "pin": "4239216355",
+                "pin": "RemovePhysics",
                 "description": ""
             }
         ],
@@ -20728,7 +20728,7 @@
         "path": "[modules:/zphysicsworldentity.class].entitytype",
         "in": [
             {
-                "pin": "2274086393",
+                "pin": "SetGravity",
                 "description": ""
             }
         ],
@@ -20821,7 +20821,7 @@
                 "description": ""
             },
             {
-                "pin": "2372883418",
+                "pin": "SetEnabled",
                 "description": ""
             },
             {
@@ -20840,7 +20840,7 @@
                 "description": ""
             },
             {
-                "pin": "2372883418",
+                "pin": "SetEnabled",
                 "description": ""
             },
             {
@@ -21212,23 +21212,23 @@
         "path": "[modules:/zpostfilterlayerentity.class].entitytype",
         "in": [
             {
-                "pin": "1149171786",
+                "pin": "BlendSustainDuration",
                 "description": ""
             },
             {
-                "pin": "2139805677",
+                "pin": "BlendIn",
                 "description": ""
             },
             {
-                "pin": "4128635282",
+                "pin": "BlendOut",
                 "description": ""
             },
             {
-                "pin": "3817427219",
+                "pin": "BlendInOut",
                 "description": ""
             },
             {
-                "pin": "867637884",
+                "pin": "BlendWeight",
                 "description": ""
             }
         ],
@@ -21287,11 +21287,11 @@
         "path": "[modules:/zprobabilityentity.class].entitytype",
         "in": [
             {
-                "pin": "434707923",
+                "pin": "Input",
                 "description": ""
             },
             {
-                "pin": "2381583415",
+                "pin": "SetProbability",
                 "description": ""
             }
         ],
@@ -21302,7 +21302,7 @@
         "path": "[modules:/zprobabilityswitch.class].entitytype",
         "in": [
             {
-                "pin": "434707923",
+                "pin": "Input",
                 "description": ""
             }
         ],
@@ -21313,7 +21313,7 @@
         "path": "[modules:/zprogresstimerentity.class].entitytype",
         "in": [
             {
-                "pin": "2512913872",
+                "pin": "SetInterval",
                 "description": ""
             }
         ],
@@ -21330,15 +21330,15 @@
         "path": "[modules:/zprojectedcrowdregionentity.class].entitytype",
         "in": [
             {
-                "pin": "1271871795",
+                "pin": "DisableProjection",
                 "description": ""
             },
             {
-                "pin": "1218741270",
+                "pin": "EnableProjection",
                 "description": ""
             },
             {
-                "pin": "3548596327",
+                "pin": "SetProjectionEnabled",
                 "description": ""
             }
         ],
@@ -21434,11 +21434,11 @@
         "path": "[modules:/zpurewaterdeformerentity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "3587585729",
+                "pin": "Trigger",
                 "description": ""
             }
         ],
@@ -21461,11 +21461,11 @@
         "path": "[modules:/zpushmenucontextentity.class].entitytype",
         "in": [
             {
-                "pin": "4278761818",
+                "pin": "Push",
                 "description": ""
             },
             {
-                "pin": "563999222",
+                "pin": "Pop",
                 "description": ""
             }
         ],
@@ -21517,7 +21517,7 @@
         "path": "[modules:/zrandomcolorentity.class].entitytype",
         "in": [
             {
-                "pin": "3103021642",
+                "pin": "Rand",
                 "description": ""
             }
         ],
@@ -21539,23 +21539,23 @@
         "path": "[modules:/zrandomtimerentity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "1549292625",
+                "pin": "MaxTime",
                 "description": ""
             },
             {
-                "pin": "1479729564",
+                "pin": "Probability",
                 "description": ""
             },
             {
-                "pin": "1605088286",
+                "pin": "MinTime",
                 "description": ""
             }
         ],
@@ -21566,7 +21566,7 @@
         "path": "[modules:/zrangetestentity.class].entitytype",
         "in": [
             {
-                "pin": "3702945584",
+                "pin": "Value",
                 "description": ""
             }
         ],
@@ -21708,7 +21708,7 @@
         "path": "[modules:/zrenderdestinationtextureentity.class].entitytype",
         "in": [
             {
-                "pin": "1664867450",
+                "pin": "SelectSource",
                 "description": ""
             }
         ],
@@ -21749,15 +21749,15 @@
         "path": "[modules:/zrendervideoplayerbase.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "375111145",
+                "pin": "Pause",
                 "description": ""
             },
             {
-                "pin": "4273697156",
+                "pin": "Play",
                 "description": ""
             }
         ],
@@ -21774,11 +21774,11 @@
         "path": "[modules:/zrendermaterialentity.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             },
             {
@@ -21852,11 +21852,11 @@
         "path": "[modules:/zrepositoryitementity.class].entitytype",
         "in": [
             {
-                "pin": "225890257",
+                "pin": "GetRepositoryID",
                 "description": ""
             },
             {
-                "pin": "3278386685",
+                "pin": "SetRepositoryID",
                 "description": ""
             }
         ],
@@ -21900,11 +21900,11 @@
         "path": "[modules:/zroomignoretrigger.class].entitytype",
         "in": [
             {
-                "pin": "2759087496",
+                "pin": "ClearIgnoreRooms",
                 "description": ""
             },
             {
-                "pin": "3852011873",
+                "pin": "SetIgnoreRooms",
                 "description": ""
             }
         ],
@@ -21921,23 +21921,23 @@
         "path": "[modules:/zrotateentity.class].entitytype",
         "in": [
             {
-                "pin": "759056129",
+                "pin": "SetYAxisSpeed",
                 "description": ""
             },
             {
-                "pin": "3322543106",
+                "pin": "SetZAxisSpeed",
                 "description": ""
             },
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "3271306303",
+                "pin": "SetXAxisSpeed",
                 "description": ""
             }
         ],
@@ -21984,11 +21984,11 @@
         "path": "[modules:/zsaveblockerentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -22053,11 +22053,11 @@
         "path": "[modules:/zscreenfadeentity.class].entitytype",
         "in": [
             {
-                "pin": "1384472931",
+                "pin": "FadeToBlack",
                 "description": ""
             },
             {
-                "pin": "2553916582",
+                "pin": "FadeToGame",
                 "description": ""
             }
         ],
@@ -22163,15 +22163,15 @@
         "path": "[modules:/zsetconfigvarentity.class].entitytype",
         "in": [
             {
-                "pin": "972063061",
+                "pin": "SetFloat",
                 "description": ""
             },
             {
-                "pin": "86648262",
+                "pin": "SetString",
                 "description": ""
             },
             {
-                "pin": "1560957263",
+                "pin": "SetInt",
                 "description": ""
             }
         ],
@@ -22188,11 +22188,11 @@
         "path": "[modules:/zsetpositionentity.class].entitytype",
         "in": [
             {
-                "pin": "3210380963",
+                "pin": "Position",
                 "description": ""
             },
             {
-                "pin": "3391229678",
+                "pin": "SetPosition",
                 "description": ""
             }
         ],
@@ -22203,11 +22203,11 @@
         "path": "[modules:/zsetrotationentity.class].entitytype",
         "in": [
             {
-                "pin": "1702818780",
+                "pin": "Angles",
                 "description": ""
             },
             {
-                "pin": "4182139269",
+                "pin": "SetAngles",
                 "description": ""
             }
         ],
@@ -22229,7 +22229,7 @@
         "path": "[modules:/zsetuicontroldisplayinfoentity.class].entitytype",
         "in": [
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             }
         ],
@@ -22240,11 +22240,11 @@
         "path": "[modules:/zsetvisibleentity.class].entitytype",
         "in": [
             {
-                "pin": "1385527690",
+                "pin": "MakeInvisible",
                 "description": ""
             },
             {
-                "pin": "639776087",
+                "pin": "MakeVisible",
                 "description": ""
             }
         ],
@@ -22337,7 +22337,7 @@
         "path": "[modules:/zshovableobjectaspect.class].entitytype",
         "in": [
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -22348,15 +22348,15 @@
         "path": "[modules:/zsignalbranchentity.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             },
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             },
             {
-                "pin": "4265625471",
+                "pin": "AsFlags",
                 "description": ""
             }
         ],
@@ -22367,7 +22367,7 @@
         "path": "[modules:/zsignalforkentity_void.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -22378,15 +22378,15 @@
         "path": "[modules:/zsignalgateentity_void.class].entitytype",
         "in": [
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             },
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             },
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             }
         ],
@@ -22397,7 +22397,7 @@
         "path": "[modules:/zsignalpipeentity_void.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -22408,7 +22408,7 @@
         "path": "[modules:/zsignalrandomrouteentity_void.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -22419,15 +22419,15 @@
         "path": "[modules:/zsignalrouteentity_variant.class].entitytype",
         "in": [
             {
-                "pin": "4069654457",
+                "pin": "SetRoute",
                 "description": ""
             },
             {
-                "pin": "3271888765",
+                "pin": "Route",
                 "description": ""
             },
             {
-                "pin": "55916349",
+                "pin": "All",
                 "description": ""
             }
         ],
@@ -22497,39 +22497,39 @@
         "path": "[modules:/zspatialtestentitya.class].entitytype",
         "in": [
             {
-                "pin": "2786260070",
+                "pin": "InEntityRef",
                 "description": ""
             },
             {
-                "pin": "2695440171",
+                "pin": "InString",
                 "description": ""
             },
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             },
             {
-                "pin": "3324302413",
+                "pin": "InMatrix",
                 "description": ""
             },
             {
-                "pin": "531894542",
+                "pin": "InColor",
                 "description": ""
             },
             {
-                "pin": "2957444978",
+                "pin": "InFloat",
                 "description": ""
             },
             {
-                "pin": "2607089750",
+                "pin": "InInt",
                 "description": ""
             },
             {
-                "pin": "2417592824",
+                "pin": "InUInt",
                 "description": ""
             },
             {
-                "pin": "2582250362",
+                "pin": "InVec2",
                 "description": ""
             }
         ],
@@ -22582,7 +22582,7 @@
         "path": "[modules:/zsplashhintglobalvisibilityhandler.class].entitytype",
         "in": [
             {
-                "pin": "958067320",
+                "pin": "CloseAll",
                 "description": ""
             }
         ],
@@ -22605,11 +22605,11 @@
         "path": "[modules:/zsplashhintvisibilityhandler.class].entitytype",
         "in": [
             {
-                "pin": "3535843008",
+                "pin": "Close",
                 "description": ""
             },
             {
-                "pin": "2453435967",
+                "pin": "Show",
                 "description": ""
             }
         ],
@@ -22644,7 +22644,7 @@
         "path": "[modules:/zstateentity.class].entitytype",
         "in": [
             {
-                "pin": "23452757",
+                "pin": "SetCurrent",
                 "description": ""
             }
         ],
@@ -22655,15 +22655,15 @@
         "path": "[modules:/zstatecontrollerentity.class].entitytype",
         "in": [
             {
-                "pin": "1831039569",
+                "pin": "InitialState",
                 "description": ""
             },
             {
-                "pin": "2059841236",
+                "pin": "PreviousState",
                 "description": ""
             },
             {
-                "pin": "2199304605",
+                "pin": "NextState",
                 "description": ""
             }
         ],
@@ -22674,15 +22674,15 @@
         "path": "[modules:/zstatecontrollerproxyentity.class].entitytype",
         "in": [
             {
-                "pin": "1831039569",
+                "pin": "InitialState",
                 "description": ""
             },
             {
-                "pin": "2059841236",
+                "pin": "PreviousState",
                 "description": ""
             },
             {
-                "pin": "2199304605",
+                "pin": "NextState",
                 "description": ""
             }
         ],
@@ -22975,7 +22975,7 @@
         "path": "[modules:/zstateproxyentity.class].entitytype",
         "in": [
             {
-                "pin": "23452757",
+                "pin": "SetCurrent",
                 "description": ""
             }
         ],
@@ -22986,7 +22986,7 @@
         "path": "[modules:/zstatesetentity.class].entitytype",
         "in": [
             {
-                "pin": "23452757",
+                "pin": "SetCurrent",
                 "description": ""
             }
         ],
@@ -22997,7 +22997,7 @@
         "path": "[modules:/zstateshareentity.class].entitytype",
         "in": [
             {
-                "pin": "3695391419",
+                "pin": "PollStartupState",
                 "description": ""
             }
         ],
@@ -23032,23 +23032,23 @@
         "path": "[modules:/zstepcounterentity.class].entitytype",
         "in": [
             {
-                "pin": "3092634149",
+                "pin": "SetCountFrom",
                 "description": ""
             },
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
-                "pin": "3119454029",
+                "pin": "SetCountTo",
                 "description": ""
             },
             {
-                "pin": "434707923",
+                "pin": "Input",
                 "description": ""
             },
             {
-                "pin": "76119383",
+                "pin": "SetStepSize",
                 "description": ""
             }
         ],
@@ -23059,27 +23059,27 @@
         "path": "[modules:/zstopwatchentity.class].entitytype",
         "in": [
             {
-                "pin": "2293011330",
+                "pin": "SetTotalSeconds",
                 "description": ""
             },
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "1186097582",
+                "pin": "GetTotalSeconds",
                 "description": ""
             },
             {
-                "pin": "3871713049",
+                "pin": "ActivateForTargetTracker",
                 "description": ""
             }
         ],
@@ -23120,7 +23120,7 @@
         "path": "[modules:/zstorylinebaseentity.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             }
         ],
@@ -23417,7 +23417,7 @@
         "path": "[modules:/zstringtosignalhandlerentity.class].entitytype",
         "in": [
             {
-                "pin": "2697857197",
+                "pin": "Receive",
                 "description": ""
             }
         ],
@@ -23557,7 +23557,7 @@
         "path": "[modules:/zsvgshapeentity.class].entitytype",
         "in": [
             {
-                "pin": "3210380963",
+                "pin": "Position",
                 "description": ""
             }
         ],
@@ -23568,7 +23568,7 @@
         "path": "[modules:/zsvgpathentity.class].entitytype",
         "in": [
             {
-                "pin": "1249618197",
+                "pin": "Paths",
                 "description": ""
             }
         ],
@@ -23585,19 +23585,19 @@
         "path": "[modules:/zswitchentity_svector2.class].entitytype",
         "in": [
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             },
             {
-                "pin": "3923258309",
+                "pin": "SwitchToChannelA",
                 "description": ""
             },
             {
-                "pin": "1749372462",
+                "pin": "Switch",
                 "description": ""
             },
             {
-                "pin": "1892776575",
+                "pin": "SwitchToChannelB",
                 "description": ""
             }
         ],
@@ -23608,19 +23608,19 @@
         "path": "[modules:/zswitchentity_zstring.class].entitytype",
         "in": [
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             },
             {
-                "pin": "3923258309",
+                "pin": "SwitchToChannelA",
                 "description": ""
             },
             {
-                "pin": "1749372462",
+                "pin": "Switch",
                 "description": ""
             },
             {
-                "pin": "1892776575",
+                "pin": "SwitchToChannelB",
                 "description": ""
             }
         ],
@@ -23631,19 +23631,19 @@
         "path": "[modules:/zswitchentity_float32.class].entitytype",
         "in": [
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             },
             {
-                "pin": "3923258309",
+                "pin": "SwitchToChannelA",
                 "description": ""
             },
             {
-                "pin": "1749372462",
+                "pin": "Switch",
                 "description": ""
             },
             {
-                "pin": "1892776575",
+                "pin": "SwitchToChannelB",
                 "description": ""
             }
         ],
@@ -23654,19 +23654,19 @@
         "path": "[modules:/zswitchentity_void.class].entitytype",
         "in": [
             {
-                "pin": "3730400060",
+                "pin": "Set",
                 "description": ""
             },
             {
-                "pin": "3923258309",
+                "pin": "SwitchToChannelA",
                 "description": ""
             },
             {
-                "pin": "1749372462",
+                "pin": "Switch",
                 "description": ""
             },
             {
-                "pin": "1892776575",
+                "pin": "SwitchToChannelB",
                 "description": ""
             }
         ],
@@ -23677,15 +23677,15 @@
         "path": "[modules:/zswizzlefloattovector.class].entitytype",
         "in": [
             {
-                "pin": "3562113298",
+                "pin": "ConstructColorRGB",
                 "description": ""
             },
             {
-                "pin": "2733962979",
+                "pin": "ConstructVector3",
                 "description": ""
             },
             {
-                "pin": "3589523061",
+                "pin": "ConstructVector2",
                 "description": ""
             }
         ],
@@ -23696,15 +23696,15 @@
         "path": "[modules:/zswizzlevectortofloat.class].entitytype",
         "in": [
             {
-                "pin": "1384014433",
+                "pin": "ColorRGB",
                 "description": ""
             },
             {
-                "pin": "1590513971",
+                "pin": "Vector3",
                 "description": ""
             },
             {
-                "pin": "701129125",
+                "pin": "Vector2",
                 "description": ""
             }
         ],
@@ -23739,11 +23739,11 @@
         "path": "[modules:/zsystemremindertriggerentity.class].entitytype",
         "in": [
             {
-                "pin": "3535843008",
+                "pin": "Close",
                 "description": ""
             },
             {
-                "pin": "3587585729",
+                "pin": "Trigger",
                 "description": ""
             }
         ],
@@ -23842,7 +23842,7 @@
         "path": "[modules:/ztextlistentity.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -23889,7 +23889,7 @@
         "path": "[modules:/ztexttospeechitementity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
@@ -23910,11 +23910,11 @@
         "path": "[modules:/ztexturestreamingcontrolentity.class].entitytype",
         "in": [
             {
-                "pin": "3587585729",
+                "pin": "Trigger",
                 "description": ""
             },
             {
-                "pin": "1371193412",
+                "pin": "Cancel",
                 "description": ""
             }
         ],
@@ -23961,19 +23961,19 @@
         "path": "[modules:/ztimerentity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "2512913872",
+                "pin": "SetInterval",
                 "description": ""
             }
         ],
@@ -23990,11 +23990,11 @@
         "path": "[modules:/ztracemessageentity.class].entitytype",
         "in": [
             {
-                "pin": "1432650504",
+                "pin": "SetValueSignal",
                 "description": ""
             },
             {
-                "pin": "4019716762",
+                "pin": "SetSignal",
                 "description": ""
             }
         ],
@@ -24071,11 +24071,11 @@
         "path": "[modules:/ztriggersubtitle.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             }
         ],
@@ -24086,15 +24086,15 @@
         "path": "[modules:/ztriggerswitchentity.class].entitytype",
         "in": [
             {
-                "pin": "3157835338",
+                "pin": "TriggerCurrent",
                 "description": ""
             },
             {
-                "pin": "902584011",
+                "pin": "TriggerIndex",
                 "description": ""
             },
             {
-                "pin": "2328114709",
+                "pin": "SetCurrentIndex",
                 "description": ""
             }
         ],
@@ -24177,11 +24177,11 @@
         "path": "[modules:/zuiattachementcontrollerentity.class].entitytype",
         "in": [
             {
-                "pin": "3559413302",
+                "pin": "Detach",
                 "description": ""
             },
             {
-                "pin": "3647306167",
+                "pin": "Attach",
                 "description": ""
             }
         ],
@@ -24204,11 +24204,11 @@
         "path": "[modules:/zuibreadcrumbdataentity.class].entitytype",
         "in": [
             {
-                "pin": "1405488443",
+                "pin": "SetState",
                 "description": ""
             },
             {
-                "pin": "2920224861",
+                "pin": "SetProgress",
                 "description": ""
             }
         ],
@@ -24219,7 +24219,7 @@
         "path": "[modules:/zuivideoresourceentity.class].entitytype",
         "in": [
             {
-                "pin": "690151322",
+                "pin": "GetRID",
                 "description": ""
             }
         ],
@@ -24248,11 +24248,11 @@
         "path": "[modules:/zuibusystateentity.class].entitytype",
         "in": [
             {
-                "pin": "4278761818",
+                "pin": "Push",
                 "description": ""
             },
             {
-                "pin": "563999222",
+                "pin": "Pop",
                 "description": ""
             }
         ],
@@ -24269,7 +24269,7 @@
         "path": "[modules:/zuibuttonnavigationentity.class].entitytype",
         "in": [
             {
-                "pin": "1281290230",
+                "pin": "Select",
                 "description": ""
             }
         ],
@@ -24328,39 +24328,39 @@
         "path": "[modules:/zuicontrolmanipulatorentity.class].entitytype",
         "in": [
             {
-                "pin": "1980592771",
+                "pin": "SetZ",
                 "description": ""
             },
             {
-                "pin": "2161082313",
+                "pin": "SetRotationY",
                 "description": ""
             },
             {
-                "pin": "548791978",
+                "pin": "SetAlpha",
                 "description": ""
             },
             {
-                "pin": "2775741162",
+                "pin": "SetRotation",
                 "description": ""
             },
             {
-                "pin": "2971177134",
+                "pin": "SetScaleY",
                 "description": ""
             },
             {
-                "pin": "2550338479",
+                "pin": "SetX",
                 "description": ""
             },
             {
-                "pin": "3323961400",
+                "pin": "SetScaleX",
                 "description": ""
             },
             {
-                "pin": "4010025785",
+                "pin": "SetY",
                 "description": ""
             },
             {
-                "pin": "4157099871",
+                "pin": "SetRotationX",
                 "description": ""
             }
         ],
@@ -24437,19 +24437,19 @@
         "path": "[modules:/zuicontrolvisibilitycontrollerentity.class].entitytype",
         "in": [
             {
-                "pin": "78341141",
+                "pin": "Hide",
                 "description": ""
             },
             {
-                "pin": "2453435967",
+                "pin": "Show",
                 "description": ""
             },
             {
-                "pin": "287381102",
+                "pin": "Alpha",
                 "description": ""
             },
             {
-                "pin": "2804285447",
+                "pin": "SetVisible",
                 "description": ""
             }
         ],
@@ -24466,7 +24466,7 @@
         "path": "[modules:/zuicontrolvisiblecondition.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             }
         ],
@@ -24525,7 +24525,7 @@
         "path": "[modules:/zuidynamicdatapairvalue.class].entitytype",
         "in": [
             {
-                "pin": "40010521",
+                "pin": "ForceUpdate",
                 "description": ""
             }
         ],
@@ -24649,11 +24649,11 @@
         "path": "[modules:/zuiinputactionforwardentity.class].entitytype",
         "in": [
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -24664,7 +24664,7 @@
         "path": "[modules:/zuiinputcontrollerimageresource.class].entitytype",
         "in": [
             {
-                "pin": "690151322",
+                "pin": "GetRID",
                 "description": ""
             }
         ],
@@ -24699,11 +24699,11 @@
         "path": "[modules:/zuikntmapconfig.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -24726,7 +24726,7 @@
         "path": "[modules:/zuilocalizedtextresourceentity.class].entitytype",
         "in": [
             {
-                "pin": "1818810142",
+                "pin": "RefreshData",
                 "description": ""
             }
         ],
@@ -24779,15 +24779,15 @@
         "path": "[modules:/zuimapcontrollerentity.class].entitytype",
         "in": [
             {
-                "pin": "2308982427",
+                "pin": "SetMinimap",
                 "description": ""
             },
             {
-                "pin": "1154652932",
+                "pin": "UnsetAnyMap",
                 "description": ""
             },
             {
-                "pin": "3673563461",
+                "pin": "SetMap",
                 "description": ""
             }
         ],
@@ -24810,11 +24810,11 @@
         "path": "[modules:/zuimapnavigationentity.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -24843,11 +24843,11 @@
         "path": "[modules:/zuiminimapnavigationentity.class].entitytype",
         "in": [
             {
-                "pin": "1326475003",
+                "pin": "Activate",
                 "description": ""
             },
             {
-                "pin": "2976632963",
+                "pin": "Deactivate",
                 "description": ""
             }
         ],
@@ -24858,7 +24858,7 @@
         "path": "[modules:/zuimovetoparentcontrollerentity.class].entitytype",
         "in": [
             {
-                "pin": "2096014107",
+                "pin": "Apply",
                 "description": ""
             }
         ],
@@ -24917,11 +24917,11 @@
         "path": "[modules:/zuioptionmanipulator.class].entitytype",
         "in": [
             {
-                "pin": "265138690",
+                "pin": "SetBool",
                 "description": ""
             },
             {
-                "pin": "972063061",
+                "pin": "SetFloat",
                 "description": ""
             }
         ],
@@ -24944,7 +24944,7 @@
         "path": "[modules:/zuioptionvalueboolget.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -24961,7 +24961,7 @@
         "path": "[modules:/zuioptionvaluefloatget.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -24978,7 +24978,7 @@
         "path": "[modules:/zuioptionvalueintget.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -25048,7 +25048,7 @@
         "path": "[modules:/zuiperformancetestmetricscollectorentity.class].entitytype",
         "in": [
             {
-                "pin": "201379431",
+                "pin": "RunAllTests",
                 "description": ""
             }
         ],
@@ -25059,7 +25059,7 @@
         "path": "[modules:/zuiperformancetestmetricswriteraspect.class].entitytype",
         "in": [
             {
-                "pin": "2140150981",
+                "pin": "OpenOutputDirectory",
                 "description": ""
             }
         ],
@@ -25177,7 +25177,7 @@
         "path": "[modules:/zuitextformatargument_int.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -25188,7 +25188,7 @@
         "path": "[modules:/zuitextformatargument_string.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -25205,7 +25205,7 @@
         "path": "[modules:/zuitriggernotificationentity.class].entitytype",
         "in": [
             {
-                "pin": "3587585729",
+                "pin": "Trigger",
                 "description": ""
             }
         ],
@@ -25222,7 +25222,7 @@
         "path": "[modules:/zuivrlaserpointercontroller.class].entitytype",
         "in": [
             {
-                "pin": "3072029796",
+                "pin": "ClearDominantHand",
                 "description": ""
             },
             {
@@ -25241,7 +25241,7 @@
         "path": "[modules:/zuivideodatabaseentryentity.class].entitytype",
         "in": [
             {
-                "pin": "690151322",
+                "pin": "GetRID",
                 "description": ""
             }
         ],
@@ -25326,7 +25326,7 @@
         "path": "[modules:/zupdatehumanoidcrowdstate.class].entitytype",
         "in": [
             {
-                "pin": "2438762569",
+                "pin": "Reset",
                 "description": ""
             },
             {
@@ -25341,7 +25341,7 @@
         "path": "[modules:/zuserdlcentitlemententity.class].entitytype",
         "in": [
             {
-                "pin": "2823372798",
+                "pin": "GetAvailability",
                 "description": ""
             }
         ],
@@ -25352,7 +25352,7 @@
         "path": "[modules:/zuserentitlemententity.class].entitytype",
         "in": [
             {
-                "pin": "1916589658",
+                "pin": "GetBundleOwnership",
                 "description": ""
             }
         ],
@@ -25375,7 +25375,7 @@
         "path": "[modules:/zvrflowmanagerentity.class].entitytype",
         "in": [
             {
-                "pin": "3302346171",
+                "pin": "EnableChangeHandling",
                 "description": ""
             }
         ],
@@ -25386,15 +25386,15 @@
         "path": "[modules:/zvrglobalentity.class].entitytype",
         "in": [
             {
-                "pin": "4201824298",
+                "pin": "SetVREnabled",
                 "description": ""
             },
             {
-                "pin": "3659008051",
+                "pin": "SetCinemaMode",
                 "description": ""
             },
             {
-                "pin": "1934358366",
+                "pin": "SetCinemaModeHighFramerate",
                 "description": ""
             }
         ],
@@ -25429,19 +25429,19 @@
         "path": "[modules:/zvalueboolbasic.class].entitytype",
         "in": [
             {
-                "pin": "3684218864",
+                "pin": "SetFalse",
                 "description": ""
             },
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "2813380637",
+                "pin": "SetTrue",
                 "description": ""
             },
             {
-                "pin": "575056061",
+                "pin": "Toggle",
                 "description": ""
             }
         ],
@@ -25458,7 +25458,7 @@
         "path": "[modules:/zvaluebool_debugentity.class].entitytype",
         "in": [
             {
-                "pin": "3558298466",
+                "pin": "Print",
                 "description": ""
             }
         ],
@@ -25504,7 +25504,7 @@
         "path": "[modules:/zvaluebool_poll.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -25515,27 +25515,27 @@
         "path": "[modules:/zvaluebool_proxy.class].entitytype",
         "in": [
             {
-                "pin": "926895941",
+                "pin": "SetCondition",
                 "description": ""
             },
             {
-                "pin": "941726150",
+                "pin": "GetCondition",
                 "description": ""
             },
             {
-                "pin": "3684218864",
+                "pin": "SetFalse",
                 "description": ""
             },
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "575056061",
+                "pin": "Toggle",
                 "description": ""
             },
             {
-                "pin": "2813380637",
+                "pin": "SetTrue",
                 "description": ""
             }
         ],
@@ -25546,19 +25546,19 @@
         "path": "[modules:/zvaluebool_set.class].entitytype",
         "in": [
             {
-                "pin": "3684218864",
+                "pin": "SetFalse",
                 "description": ""
             },
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             },
             {
-                "pin": "2813380637",
+                "pin": "SetTrue",
                 "description": ""
             },
             {
-                "pin": "575056061",
+                "pin": "Toggle",
                 "description": ""
             }
         ],
@@ -25587,7 +25587,7 @@
         "path": "[modules:/zvaluecolorrgb_poll.class].entitytype",
         "in": [
             {
-                "pin": "613307771",
+                "pin": "Poll",
                 "description": ""
             }
         ],
@@ -25604,7 +25604,7 @@
         "path": "[modules:/zvaluecolorrgb_set.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -25621,7 +25621,7 @@
         "path": "[modules:/zvaluefloat_basic.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -25644,7 +25644,7 @@
         "path": "[modules:/zvaluefloat_poll.class].entitytype",
         "in": [
             {
-                "pin": "613307771",
+                "pin": "Poll",
                 "description": ""
             }
         ],
@@ -25661,7 +25661,7 @@
         "path": "[modules:/zvaluefloat_set.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -25678,7 +25678,7 @@
         "path": "[modules:/zvalueint_basic.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -25701,7 +25701,7 @@
         "path": "[modules:/zvalueint_comparator_poll.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -25724,19 +25724,19 @@
         "path": "[modules:/zvalueint_operation.class].entitytype",
         "in": [
             {
-                "pin": "3626924255",
+                "pin": "Subtract",
                 "description": ""
             },
             {
-                "pin": "3904914205",
+                "pin": "Multiply",
                 "description": ""
             },
             {
-                "pin": "2217920638",
+                "pin": "Divide",
                 "description": ""
             },
             {
-                "pin": "3310826759",
+                "pin": "Add",
                 "description": ""
             }
         ],
@@ -25747,7 +25747,7 @@
         "path": "[modules:/zvalueint_poll.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -25758,7 +25758,7 @@
         "path": "[modules:/zvalueint_set.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -25769,19 +25769,19 @@
         "path": "[modules:/zvalueinterpolator.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "3671689905",
+                "pin": "StartFrom",
                 "description": ""
             },
             {
-                "pin": "593453428",
+                "pin": "SetEndValue",
                 "description": ""
             },
             {
-                "pin": "903355605",
+                "pin": "SetTime",
                 "description": ""
             }
         ],
@@ -25804,7 +25804,7 @@
         "path": "[modules:/zvaluevector2_poll.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -25815,7 +25815,7 @@
         "path": "[modules:/zvaluevector2_set.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -25838,7 +25838,7 @@
         "path": "[modules:/zvaluevector3_poll.class].entitytype",
         "in": [
             {
-                "pin": "3312871568",
+                "pin": "Get",
                 "description": ""
             }
         ],
@@ -25849,7 +25849,7 @@
         "path": "[modules:/zvaluevector3_set.class].entitytype",
         "in": [
             {
-                "pin": "3978463220",
+                "pin": "SetValue",
                 "description": ""
             }
         ],
@@ -25860,11 +25860,11 @@
         "path": "[modules:/zvariantcomparatorentity.class].entitytype",
         "in": [
             {
-                "pin": "3819309512",
+                "pin": "InB",
                 "description": ""
             },
             {
-                "pin": "2058311794",
+                "pin": "InA",
                 "description": ""
             }
         ],
@@ -25875,7 +25875,7 @@
         "path": "[modules:/zvarianttovoidconverterentity.class].entitytype",
         "in": [
             {
-                "pin": "3395857132",
+                "pin": "In",
                 "description": ""
             }
         ],
@@ -26084,11 +26084,11 @@
         "path": "[modules:/zvideopagecontrollerentity.class].entitytype",
         "in": [
             {
-                "pin": "2726179824",
+                "pin": "VideoStarted",
                 "description": ""
             },
             {
-                "pin": "2957962694",
+                "pin": "VideoStopped",
                 "description": ""
             }
         ],
@@ -26129,11 +26129,11 @@
         "path": "[modules:/zvirtualcamerabehaviororbitlockentity.class].entitytype",
         "in": [
             {
-                "pin": "666711088",
+                "pin": "Lock",
                 "description": ""
             },
             {
-                "pin": "1833481689",
+                "pin": "Unlock",
                 "description": ""
             }
         ],
@@ -26156,11 +26156,11 @@
         "path": "[modules:/zvirtualcamerashakeentity.class].entitytype",
         "in": [
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "3587585729",
+                "pin": "Trigger",
                 "description": ""
             }
         ],
@@ -26248,15 +26248,15 @@
         "path": "[modules:/zvoidsignalonceentity.class].entitytype",
         "in": [
             {
-                "pin": "1939902659",
+                "pin": "Signal",
                 "description": ""
             },
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             }
         ],
@@ -26319,31 +26319,31 @@
         "path": "[modules:/zwaveformgeneratorentity.class].entitytype",
         "in": [
             {
-                "pin": "763824768",
+                "pin": "Scale",
                 "description": ""
             },
             {
-                "pin": "207074180",
+                "pin": "StartTime",
                 "description": ""
             },
             {
-                "pin": "1587990502",
+                "pin": "Offset",
                 "description": ""
             },
             {
-                "pin": "426031496",
+                "pin": "Stop",
                 "description": ""
             },
             {
-                "pin": "3935651977",
+                "pin": "Continue",
                 "description": ""
             },
             {
-                "pin": "1589148299",
+                "pin": "Start",
                 "description": ""
             },
             {
-                "pin": "2760784560",
+                "pin": "Frequency",
                 "description": ""
             }
         ],
@@ -26366,35 +26366,35 @@
         "path": "[modules:/zwindentity.class].entitytype",
         "in": [
             {
-                "pin": "1521945539",
+                "pin": "SetStrength",
                 "description": ""
             },
             {
-                "pin": "4094479620",
+                "pin": "Enable",
                 "description": ""
             },
             {
-                "pin": "3246821387",
+                "pin": "SetAngularDeviationY",
                 "description": ""
             },
             {
-                "pin": "2163766477",
+                "pin": "Disable",
                 "description": ""
             },
             {
-                "pin": "1485816241",
+                "pin": "SetAngularDeviationZ",
                 "description": ""
             },
             {
-                "pin": "812205012",
+                "pin": "SetStrengthFrequency",
                 "description": ""
             },
             {
-                "pin": "2109432790",
+                "pin": "SetStrengthAmplitude",
                 "description": ""
             },
             {
-                "pin": "3954253662",
+                "pin": "SetDirectionFrequency",
                 "description": ""
             }
         ],
