@@ -53,6 +53,7 @@ jobs:
           path: |
             ${{ matrix.game == 'all' && 'hash_list.txt' || format('hash_list_{0}.txt', matrix.game) }}
             hash_list.sml
+            pins.json
             version
 
   update_statistics:
@@ -102,4 +103,5 @@ jobs:
           files: |
             latest-hashes.7z
             hash_list.sml
+            pins.json
             version
