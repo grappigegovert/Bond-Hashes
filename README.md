@@ -1,9 +1,9 @@
 # Bond-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,986-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.80%25-red.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-749,002-blue.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.81%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-21/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.80%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.81%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -14,8 +14,8 @@
 |---------|---------------|-------------|------------------|-----|---------------|
 |ALOC     |20250          |19520        |96.40%            |0    |0.00%          |
 |ANMC     |23808          |0            |0.00%             |0    |0.00%          |
-|ASEB     |11926          |11640        |97.60%            |0    |0.00%          |
-|ASET     |15096          |14810        |98.11%            |0    |0.00%          |
+|ASEB     |11929          |11643        |97.60%            |0    |0.00%          |
+|ASET     |15099          |14813        |98.11%            |0    |0.00%          |
 |BORG     |3077           |1367         |44.43%            |0    |0.00%          |
 |BOXC     |4706           |0            |0.00%             |0    |0.00%          |
 |CAMC     |2026           |0            |0.00%             |0    |0.00%          |
@@ -35,10 +35,10 @@
 |ENUM     |84             |47           |55.95%            |37   |44.05%         |
 |ERES     |1774           |1774         |100.00%           |0    |0.00%          |
 |FXAC     |1              |0            |0.00%             |0    |0.00%          |
-|FXAS     |91469          |91363        |99.88%            |0    |0.00%          |
+|FXAS     |91473          |91367        |99.88%            |0    |0.00%          |
 |GFXA     |18             |18           |100.00%           |0    |0.00%          |
 |GFXF     |14             |14           |100.00%           |0    |0.00%          |
-|GFXI     |2726           |2055         |75.39%            |0    |0.00%          |
+|GFXI     |2727           |2056         |75.39%            |0    |0.00%          |
 |GFXV     |217            |113          |52.07%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |GPBM     |20             |0            |0.00%             |0    |0.00%          |
@@ -57,7 +57,7 @@
 |JSON     |176            |91           |51.70%            |0    |0.00%          |
 |KWOR     |35             |0            |0.00%             |0    |0.00%          |
 |LINE     |4439           |0            |0.00%             |0    |0.00%          |
-|LOCR     |201            |35           |17.41%            |0    |0.00%          |
+|LOCR     |201            |36           |17.91%            |0    |0.00%          |
 |MATB     |4381           |2836         |64.73%            |0    |0.00%          |
 |MATE     |1072           |350          |32.65%            |0    |0.00%          |
 |MATI     |14612          |9458         |64.73%            |0    |0.00%          |
@@ -87,10 +87,10 @@
 |WEMD     |33             |0            |0.00%             |0    |0.00%          |
 |WSGB     |362            |14           |3.87%             |0    |0.00%          |
 |WSGT     |362            |14           |3.87%             |0    |0.00%          |
-|WSWB     |25             |7            |28.00%            |0    |0.00%          |
-|WSWT     |30             |12           |40.00%            |0    |0.00%          |
-|WWEM     |21757          |0            |0.00%             |0    |0.00%          |
-|WWES     |229313         |90371        |39.41%            |0    |0.00%          |
+|WSWB     |25             |8            |32.00%            |0    |0.00%          |
+|WSWT     |30             |13           |43.33%            |0    |0.00%          |
+|WWEM     |21758          |0            |0.00%             |0    |0.00%          |
+|WWES     |229317         |90375        |39.41%            |0    |0.00%          |
 |WWEV     |6639           |44           |0.66%             |6595 |99.34%         |
 |XMLB     |621            |621          |100.00%           |0    |0.00%          |
 |YSHP     |1              |1            |100.00%           |0    |0.00%          |
