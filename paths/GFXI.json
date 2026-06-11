@@ -13628,5 +13628,10 @@
     "hash": "01B55887BE37CCA8",
     "path": "",
     "gameFlags": 1
+  },
+  {
+    "hash": "017D60D4F2C6B440",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tileparts/t_ui_takeoverbackground_backmasked.png].gfx",
+    "gameFlags": 1
   }
 ]
