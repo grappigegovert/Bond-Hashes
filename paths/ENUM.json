@@ -262,9 +262,8 @@
   },
   {
     "hash": "0137E0276EE11B9D",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "enum_dahlia_npc_act_types"
+    "path": "[assembly:/_knt/design/enums/dahlia/enum_dahlia_npc_act_types.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01E1FEBCAD184AC9",
@@ -384,9 +383,8 @@
   },
   {
     "hash": "01A0AE8548A00688",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "server_states_enum"
+    "path": "[assembly:/_knt/design/enums/bluebell/server_states_enum.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "0135481EC61273F3",
@@ -407,15 +405,13 @@
   },
   {
     "hash": "01412BCC3EEEC8EC",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "enum_rose_introdrive_vo_ids"
+    "path": "[assembly:/_knt/design/enums/rose/enum_rose_introdrive_vo_ids.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "013639F81FFFC6CC",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "enum_lotus_npc_act_types"
+    "path": "[assembly:/_knt/design/enums/lotus/enum_lotus_npc_act_types.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01223A50F78AF618",
@@ -430,9 +426,8 @@
   },
   {
     "hash": "01CBBB7483652E3B",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "enum_ruby_elevator_floors"
+    "path": "[assembly:/_knt/design/enums/ruby/enum_ruby_elevator_floors.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "016523F5BC2AEFD3",

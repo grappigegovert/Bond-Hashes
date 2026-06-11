@@ -41,7 +41,7 @@
   },
   {
     "hash": "01F2A4226E95C932",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/tsim/tsim_orchid_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "hash": "01EA4C1B4215A6E3",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/magnolia_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "hash": "01C86A4727BCAB1F",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/tsim/tsim_lotus_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -116,12 +116,12 @@
   },
   {
     "hash": "0135785354E4C414",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/lotus_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
     "hash": "01943AA090EC58E6",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/tsim/tsim_bluebell_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -171,7 +171,7 @@
   },
   {
     "hash": "011E1D540ED7C499",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/orchid_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "hash": "0102E49C3D7707C6",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/tsim/tsim_pepper_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -376,7 +376,7 @@
   },
   {
     "hash": "018D94E35C8F5183",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/ui_unlockableitems.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -421,7 +421,7 @@
   },
   {
     "hash": "017019D55AFCAD6F",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/bluebell_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "hash": "01E396571C5A9DF8",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/ui_online_setpieces_items.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -516,7 +516,7 @@
   },
   {
     "hash": "015FCF054DF3FE72",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/global_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -536,7 +536,7 @@
   },
   {
     "hash": "0107B7F6E0D15EAB",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/tsim/tsim_clover_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -606,7 +606,7 @@
   },
   {
     "hash": "01C907E04C9A964E",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/tsim/tsim_rose_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -641,7 +641,7 @@
   },
   {
     "hash": "01AEA68D4B4DFFDD",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/clover_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -761,7 +761,7 @@
   },
   {
     "hash": "010011DE678DA7CE",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/knt_texttospeechitems.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -781,12 +781,12 @@
   },
   {
     "hash": "01C238405C7C62CA",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/tsim/tsim_dahlia_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
     "hash": "010D69121F8D00D0",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/ivy_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -896,7 +896,7 @@
   },
   {
     "hash": "012B2BCE40B783D2",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/rose_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
@@ -966,7 +966,7 @@
   },
   {
     "hash": "010A962C5D1FE762",
-    "path": "",
+    "path": "[assembly:/_knt/localization/knt/conversations/ui/online/challenges/pepper_challenges.sweetmenutext].localized-textlist",
     "gameFlags": 1
   },
   {
