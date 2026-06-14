@@ -1,9 +1,9 @@
 # Bond-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-749,002-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.81%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.82%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-21/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.81%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.82%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -60,7 +60,7 @@
 |LOCR     |201            |36           |17.91%            |0    |0.00%          |
 |MATB     |4381           |2836         |64.73%            |0    |0.00%          |
 |MATE     |1072           |350          |32.65%            |0    |0.00%          |
-|MATI     |14612          |9458         |64.73%            |0    |0.00%          |
+|MATI     |14612          |9462         |64.75%            |0    |0.00%          |
 |MATT     |4381           |2836         |64.73%            |0    |0.00%          |
 |MOMA     |370            |0            |0.00%             |0    |0.00%          |
 |NAVP     |228            |0            |0.00%             |0    |0.00%          |
@@ -78,17 +78,17 @@
 |TDAT     |8              |0            |0.00%             |0    |0.00%          |
 |TDPK     |348            |0            |0.00%             |0    |0.00%          |
 |TEMP     |69802          |66940        |95.90%            |0    |0.00%          |
-|TEXD     |30862          |13985        |45.31%            |0    |0.00%          |
-|TEXT     |31771          |14283        |44.96%            |0    |0.00%          |
+|TEXD     |30862          |14002        |45.37%            |0    |0.00%          |
+|TEXT     |31771          |14300        |45.01%            |0    |0.00%          |
 |UICB     |81             |81           |100.00%           |0    |0.00%          |
 |UICT     |81             |81           |100.00%           |0    |0.00%          |
 |VTXD     |2728           |2197         |80.54%            |0    |0.00%          |
 |WBNK     |102            |3            |2.94%             |0    |0.00%          |
 |WEMD     |33             |0            |0.00%             |0    |0.00%          |
-|WSGB     |362            |14           |3.87%             |0    |0.00%          |
-|WSGT     |362            |14           |3.87%             |0    |0.00%          |
-|WSWB     |25             |8            |32.00%            |0    |0.00%          |
-|WSWT     |30             |13           |43.33%            |0    |0.00%          |
+|WSGB     |362            |20           |5.52%             |0    |0.00%          |
+|WSGT     |362            |20           |5.52%             |0    |0.00%          |
+|WSWB     |25             |18           |72.00%            |0    |0.00%          |
+|WSWT     |30             |23           |76.67%            |0    |0.00%          |
 |WWEM     |21758          |0            |0.00%             |0    |0.00%          |
 |WWES     |229317         |90375        |39.41%            |0    |0.00%          |
 |WWEV     |6639           |44           |0.66%             |6595 |99.34%         |
