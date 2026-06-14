@@ -1,12 +1,12 @@
 [
   {
     "hash": "01370E7778E6D0E3",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_damagetype.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "011FF4837AD33772",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_lightattacktype.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "hash": "011F966F49B898F0",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_grapple.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "hash": "012E8D325C34C740",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_vocalizationtype.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "hash": "01F498AC062E8AED",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_heavyattacktype.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "hash": "019BEBC1318057BB",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/haptics/switch_vehicle_surfacetypeindex.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "hash": "01A2D2F35E44CBCE",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_agility.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "hash": "0117DC7835E885BA",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_defensemoves.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "hash": "0136E792FBB4C917",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/veh_suspension_force/veh_suspension_force.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "hash": "01314C4A03D7C9B7",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/veh_collision_material/veh_collision_material.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {

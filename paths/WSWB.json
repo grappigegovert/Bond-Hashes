@@ -16,12 +16,12 @@
   },
   {
     "hash": "016A3836641B21AE",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_damagetype.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "019E630C8CB89A37",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_defensemoves.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "hash": "01DCEDA88A0B95B7",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_agility.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "hash": "01B7E8ED630E4707",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/haptics/switch_vehicle_surfacetypeindex.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "hash": "013C655B6ECCA49D",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/veh_collision_material/veh_collision_material.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01CB99F02B1D1084",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_vocalizationtype.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "hash": "016E9E2A08956249",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_heavyattacktype.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -111,17 +111,17 @@
   },
   {
     "hash": "01B7A06DB75D62E0",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/veh_suspension_force/veh_suspension_force.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "012B80743F20436C",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_lightattacktype.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "015DA4D56B3BD12B",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/vocalizations/switch_voc_pc_cc_grapple.wwiseswitchgroup].entityblueprint",
     "gameFlags": 1
   }
 ]

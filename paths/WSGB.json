@@ -591,7 +591,7 @@
   },
   {
     "hash": "01748AB23F5FBE4C",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/dialogue_states/state_dx_lockedconv.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -941,7 +941,7 @@
   },
   {
     "hash": "013A3A5487931F17",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/locomotion/state_loc_pc_locomotionvelocity.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1031,7 +1031,7 @@
   },
   {
     "hash": "0137DA81264C7B99",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/locomotion/state_loc_npc_clover.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1191,7 +1191,7 @@
   },
   {
     "hash": "01874F898C638AD9",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/locomotion/state_loc_pc_dropping.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1566,7 +1566,7 @@
   },
   {
     "hash": "01D5E492A5A77645",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/locomotion/state_loc_pc_agility.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1686,7 +1686,7 @@
   },
   {
     "hash": "01E7E98ED42D22CD",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/states/locomotion/state_loc_pc_inwater.wwisestategroup].entityblueprint",
     "gameFlags": 1
   },
   {
