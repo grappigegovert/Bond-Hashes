@@ -4461,7 +4461,7 @@
   },
   {
     "hash": "017B7BFC1F410769",
-    "path": "",
+    "path": "[assembly:/_pro/textures/effects/misc/noise_01.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -35506,7 +35506,7 @@
   },
   {
     "hash": "015FA947FE304201",
-    "path": "",
+    "path": "[assembly:/_pro/textures/basicsurface/constants/color_red.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -75716,7 +75716,7 @@
   },
   {
     "hash": "01EC5DE3B9EFE79E",
-    "path": "",
+    "path": "[assembly:/_pro/textures/weapons/cubemaps/weapon_lightprobe.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -80316,7 +80316,7 @@
   },
   {
     "hash": "01C8656A47A7399D",
-    "path": "",
+    "path": "[assembly:/_pro/textures/effects/reflectionmaps/reflection_cube_main_hdr_01.texture?/diffuse_a.tex](ascubemap).tex",
     "gameFlags": 1
   },
   {
@@ -94751,7 +94751,7 @@
   },
   {
     "hash": "018B731B31CE4A1E",
-    "path": "",
+    "path": "[assembly:/_pro/textures/basicsurface/constants/color_gray.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -133321,7 +133321,7 @@
   },
   {
     "hash": "012AA9C9D91061F6",
-    "path": "",
+    "path": "[assembly:/_pro/textures/basicsurface/detailmaps/detailmap_stone_02.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -142901,7 +142901,7 @@
   },
   {
     "hash": "01E8B92D0B17727B",
-    "path": "",
+    "path": "[assembly:/_pro/textures/basicsurface/detailmaps/detailmap_metal_01.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -144051,7 +144051,7 @@
   },
   {
     "hash": "015C357051C82DBC",
-    "path": "",
+    "path": "[assembly:/_pro/textures/basicsurface/detailmaps/detailmap_stone_01.texture?/diffuse_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
