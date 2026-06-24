@@ -1,9 +1,9 @@
 # Bond-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-749,002-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.82%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.84%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-21/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.82%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.84%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -69,15 +69,15 @@
 |PETY     |1              |1            |100.00%           |0    |0.00%          |
 |PRIM     |32768          |27689        |84.50%            |0    |0.00%          |
 |RTLV     |2              |2            |100.00%           |0    |0.00%          |
-|SCDA     |201            |6            |2.99%             |0    |0.00%          |
+|SCDA     |201            |190          |94.53%            |0    |0.00%          |
 |SDEF     |102            |102          |100.00%           |0    |0.00%          |
 |SNEB     |8              |0            |0.00%             |0    |0.00%          |
 |SNET     |8              |0            |0.00%             |0    |0.00%          |
 |SVOL     |64             |0            |0.00%             |0    |0.00%          |
-|TBLU     |49509          |46649        |94.22%            |0    |0.00%          |
+|TBLU     |49509          |46650        |94.23%            |0    |0.00%          |
 |TDAT     |8              |0            |0.00%             |0    |0.00%          |
 |TDPK     |348            |0            |0.00%             |0    |0.00%          |
-|TEMP     |69802          |66940        |95.90%            |0    |0.00%          |
+|TEMP     |69802          |66941        |95.90%            |0    |0.00%          |
 |TEXD     |30862          |14008        |45.39%            |0    |0.00%          |
 |TEXT     |31771          |14308        |45.03%            |0    |0.00%          |
 |UICB     |81             |81           |100.00%           |0    |0.00%          |
