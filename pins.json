@@ -18665,7 +18665,12 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "RoomID",
+                "description": "Outputs the roomid of the spatial entity."
+            }
+        ]
     },
     {
         "hash": "01FF6A1EB294D690",
