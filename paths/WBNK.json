@@ -2,81 +2,86 @@
   {
     "hash": "01343D5E2103D304",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "mx_onl_s06_bluebell"
   },
   {
     "hash": "012A8AC570FD3F61",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_orchid"
   },
   {
     "hash": "01B4286B114AF8DD",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_binlorry.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "011A429D1D472898",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_orchid.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01CA389827DCF277",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_dahlia.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01F3EE9C9D5FFD39",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_npc_rose_airstrip.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "010C6D3323AB160E",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_ivy.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01782BA61D252DD2",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_lily.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0188BC765D52B37C",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_buttercup.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01D8BCD1584FAAC3",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_bluebell.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0107532F67858597",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_magnolia"
   },
   {
     "hash": "013B0492EAF71285",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "mx_clover"
   },
   {
     "hash": "0176188333408872",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_minetruck.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01F87A2012B73FDB",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_npc_dahlia_alamo.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01BF5C3EE2445A48",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "mx_tulip"
   },
   {
     "hash": "011D671F1430A124",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_misc.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -86,12 +91,12 @@
   },
   {
     "hash": "017E1FAD38E78BAD",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_lotus.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "016A133464D4A233",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_magnolia.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -111,17 +116,17 @@
   },
   {
     "hash": "018B326DB48E190A",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_buttercup.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01FC6ED29938EEF0",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_gameessentials.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0101FDDEA1E30A1A",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_land_rover_series03_1978.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -166,7 +171,7 @@
   },
   {
     "hash": "01B44C0F6DBDEB4A",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_npc_009_chase.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -176,37 +181,37 @@
   },
   {
     "hash": "01DD99B0280D8DF3",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_baggagetruck.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0177D93922446B44",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_lotus.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "010DEA36A1960B50",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_rose.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01ABD3E508FA9338",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_magnolia.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "019C20F0E8FCD41D",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_clover.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "010079FDC7ED8094",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_dahlia.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "012CE4E5BDB22491",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_iris.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -221,7 +226,7 @@
   },
   {
     "hash": "0131ADCA2C8CCA35",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_rose_cargojet.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -236,12 +241,12 @@
   },
   {
     "hash": "01D0D57A855CEA46",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_speedboat.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01B8DBE7301DB1C7",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_ioisplash.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -271,33 +276,36 @@
   },
   {
     "hash": "0171DCDC378D9A45",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_bluebell.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0138B4184BF3A8E5",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_aston_martin_db9_2006.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01A274B52EA19D25",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "rev_orchid"
   },
   {
     "hash": "015750D5211B2EAE",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "mx_orchid"
   },
   {
     "hash": "01DCB2EF613A586A",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_dahlia_helicopter.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01D8E68A32EA7E33",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "mx_sys_clover"
   },
   {
     "hash": "01F1AD1CDA10C6CF",
@@ -321,12 +329,12 @@
   },
   {
     "hash": "011A4CC0EA522BA0",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_rose.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0178F75675A03371",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_iris.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -371,7 +379,7 @@
   },
   {
     "hash": "01980B15FE07DD81",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_mainmenu.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -441,7 +449,7 @@
   },
   {
     "hash": "013B57250EA6B5EC",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_pepper.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -451,7 +459,7 @@
   },
   {
     "hash": "012E7DE9DF2E0887",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_ivy.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -461,7 +469,7 @@
   },
   {
     "hash": "0163CC3D3DA34966",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_ruby.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -507,6 +515,7 @@
   {
     "hash": "016C1F2E3B23D630",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_rose"
   }
 ]
