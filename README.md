@@ -1,9 +1,9 @@
 # Bond-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-749,015-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.85%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.86%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-21/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.85%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.86%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -58,10 +58,10 @@
 |KWOR     |35             |0            |0.00%             |0    |0.00%          |
 |LINE     |4439           |0            |0.00%             |0    |0.00%          |
 |LOCR     |201            |37           |18.41%            |0    |0.00%          |
-|MATB     |4381           |2836         |64.73%            |0    |0.00%          |
+|MATB     |4381           |2838         |64.78%            |0    |0.00%          |
 |MATE     |1072           |350          |32.65%            |0    |0.00%          |
-|MATI     |14613          |9463         |64.76%            |0    |0.00%          |
-|MATT     |4381           |2836         |64.73%            |0    |0.00%          |
+|MATI     |14613          |9482         |64.89%            |0    |0.00%          |
+|MATT     |4381           |2838         |64.78%            |0    |0.00%          |
 |MOMA     |370            |0            |0.00%             |0    |0.00%          |
 |NAVP     |228            |0            |0.00%             |0    |0.00%          |
 |ORES     |5              |5            |100.00%           |0    |0.00%          |
@@ -78,8 +78,8 @@
 |TDAT     |8              |0            |0.00%             |0    |0.00%          |
 |TDPK     |348            |0            |0.00%             |0    |0.00%          |
 |TEMP     |69803          |66942        |95.90%            |0    |0.00%          |
-|TEXD     |30865          |14008        |45.38%            |0    |0.00%          |
-|TEXT     |31774          |14308        |45.03%            |0    |0.00%          |
+|TEXD     |30865          |14057        |45.54%            |0    |0.00%          |
+|TEXT     |31774          |14357        |45.18%            |0    |0.00%          |
 |UICB     |81             |81           |100.00%           |0    |0.00%          |
 |UICT     |81             |81           |100.00%           |0    |0.00%          |
 |VTXD     |2728           |2197         |80.54%            |0    |0.00%          |
