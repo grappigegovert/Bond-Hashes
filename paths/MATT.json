@@ -4981,7 +4981,7 @@
   },
   {
     "hash": "01FF871BC001044B",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/materials/envionmentfriendly_car_a/envionmentfriendly_car_a_lights.mi].entitytype",
     "gameFlags": 1
   },
   {
@@ -19301,7 +19301,7 @@
   },
   {
     "hash": "01911ED49CAE3573",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/materials/envionmentfriendly_car_a/envionmentfriendly_car_a_exterior.mi].entitytype",
     "gameFlags": 1
   },
   {

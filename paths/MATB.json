@@ -2696,7 +2696,7 @@
   },
   {
     "hash": "01E78FF4885245E9",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/materials/envionmentfriendly_car_a/envionmentfriendly_car_a_lights.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21286,7 +21286,7 @@
   },
   {
     "hash": "01A4469AD3180C00",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/materials/envionmentfriendly_car_a/envionmentfriendly_car_a_exterior.mi].entityblueprint",
     "gameFlags": 1
   },
   {

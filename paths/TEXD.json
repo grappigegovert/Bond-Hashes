@@ -3706,7 +3706,7 @@
   },
   {
     "hash": "011CB9548F01CFED",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/sculpture_facade_ornate_c.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -5596,7 +5596,7 @@
   },
   {
     "hash": "016D6F762AD8FF72",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/street_props/fence_park_tall_paris_column_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -7571,7 +7571,7 @@
   },
   {
     "hash": "0112AE7D586299FC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/equipment/pressure_bottle_miami_protector_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -17001,7 +17001,7 @@
   },
   {
     "hash": "01FF9DF4C0AA0D25",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/scupture_thai_elephant_b.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -19991,7 +19991,7 @@
   },
   {
     "hash": "013CACAC1D2D27AA",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_interiordecals.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -21876,7 +21876,7 @@
   },
   {
     "hash": "01139DF7F7CF5E85",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_interiordecals.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -21936,7 +21936,7 @@
   },
   {
     "hash": "01F915373A792E45",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/paintings_modern_thailand_b.texture?/specular_e.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -22036,7 +22036,7 @@
   },
   {
     "hash": "01F3B8F5953797BD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/russian_bust_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -25266,7 +25266,7 @@
   },
   {
     "hash": "01EF0B042543A685",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/scupture_thai_elephant_b.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -26436,7 +26436,7 @@
   },
   {
     "hash": "0167A70BD2F3D238",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/sculpture_facade_ornate_g.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -29541,7 +29541,7 @@
   },
   {
     "hash": "01837669F185A0DC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/sculpture_facade_ornate_c.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -34791,7 +34791,7 @@
   },
   {
     "hash": "011185190379BD8D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/magpie_rosetta_stones_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -36636,7 +36636,7 @@
   },
   {
     "hash": "0121E45B52B17749",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/magpie_rosetta_stones_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -43491,7 +43491,7 @@
   },
   {
     "hash": "014B0E3717410475",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/sculpture_concreteblock_sandripple_b.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -49656,7 +49656,7 @@
   },
   {
     "hash": "0130FDB109C0E604",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_exterior.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -50281,7 +50281,7 @@
   },
   {
     "hash": "01C7A2D8679104FE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/signs/warnings_a.texture?/diffuse_hazardcold.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -50936,7 +50936,7 @@
   },
   {
     "hash": "01F2E5984FA80F9C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/signs/sign_no_access_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -52421,7 +52421,7 @@
   },
   {
     "hash": "01A468C7FCAB2D18",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_exteriordecals.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -58556,7 +58556,7 @@
   },
   {
     "hash": "0172445851ED06D5",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_exterior.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -58636,7 +58636,7 @@
   },
   {
     "hash": "014416F045A67DB7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/magpie_rosetta_stones_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -61871,7 +61871,7 @@
   },
   {
     "hash": "012C4B89C4ACCDAE",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_lights.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -64021,7 +64021,7 @@
   },
   {
     "hash": "01A21AE773C264A8",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/street_props/fence_park_tall_paris_column_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -70761,7 +70761,7 @@
   },
   {
     "hash": "0178E6E4C5CCE663",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/sculpture_facade_ornate_g.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -72116,7 +72116,7 @@
   },
   {
     "hash": "01570FE42E3B5DAC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/sculpture_concreteblock_sandripple_b.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -74856,7 +74856,7 @@
   },
   {
     "hash": "010528B91DF02507",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/bird_bath_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -78896,7 +78896,7 @@
   },
   {
     "hash": "0194AD740F973F98",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/signs/warnings_a.texture?/diffuse_exclamationmark.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -84106,7 +84106,7 @@
   },
   {
     "hash": "01B07705D59BBFC4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/russian_bust_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -85576,7 +85576,7 @@
   },
   {
     "hash": "01A19D3B4044C992",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/sculpture_facade_ornate_g.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -94781,7 +94781,7 @@
   },
   {
     "hash": "0113970E7D7DC231",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_lights.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -99916,7 +99916,7 @@
   },
   {
     "hash": "01A6D3CC969A91A1",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_exteriordecals.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -101256,7 +101256,7 @@
   },
   {
     "hash": "013C913A68261728",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/street_props/fence_park_tall_paris_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -107756,7 +107756,7 @@
   },
   {
     "hash": "01A43094C13705C2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/sculpture_facade_ornate_c.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -109086,7 +109086,7 @@
   },
   {
     "hash": "019F5D7B613AF5E9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/bird_bath_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -111941,7 +111941,7 @@
   },
   {
     "hash": "01DFBB9425616945",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/street_props/traffic_sign_speedlimit50_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -118226,7 +118226,7 @@
   },
   {
     "hash": "0186324F68B75509",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_lights.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -121336,7 +121336,7 @@
   },
   {
     "hash": "01F49572E1AF234A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/paintings_modern_thailand_b.texture?/normal_e.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -129171,7 +129171,7 @@
   },
   {
     "hash": "01EA5AC36F4E62DF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/bird_bath_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -129716,7 +129716,7 @@
   },
   {
     "hash": "015FB761C5A420A1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/paintings_modern_thailand_b.texture?/diffuse_e.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -131411,7 +131411,7 @@
   },
   {
     "hash": "015A7A2D804B068F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/sculpture_concreteblock_sandripple_b.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -133996,7 +133996,7 @@
   },
   {
     "hash": "018A047C228E7472",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/street_props/fence_park_tall_paris_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -134826,7 +134826,7 @@
   },
   {
     "hash": "012E942C7AC76E34",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/russian_bust_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -134971,7 +134971,7 @@
   },
   {
     "hash": "01E46B68BA6BC429",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/street_props/fence_park_tall_paris_column_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -137751,7 +137751,7 @@
   },
   {
     "hash": "01097F075201CAC3",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_interiordecals.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -140321,7 +140321,7 @@
   },
   {
     "hash": "0182953B1FF6F9CA",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/street_props/fence_park_tall_paris_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -142576,7 +142576,7 @@
   },
   {
     "hash": "019CA64FD407E1BA",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/equipment/pressure_bottle_miami_protector_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -146316,7 +146316,7 @@
   },
   {
     "hash": "01B171F0D241FC86",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/equipment/pressure_bottle_miami_protector_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -149081,7 +149081,7 @@
   },
   {
     "hash": "0160060296203711",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/street_props/fence_park_tall_paris_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -150321,7 +150321,7 @@
   },
   {
     "hash": "0116F79D5C6154F3",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_exteriordecals.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -151176,7 +151176,7 @@
   },
   {
     "hash": "016F4DB01EF02AA1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/scupture_thai_elephant_b.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
