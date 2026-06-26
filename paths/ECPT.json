@@ -41528,5 +41528,10 @@
     "hash": "012CD9E8F5C125C7",
     "path": "[assembly:/_knt/environment/geometry/kits/skyscraper/webb_hq_int_webb_office_kit_a.wl2?/webboffice_int_wall_doorframe_end_2x8m_a.prim](material_overwrite).entitytype",
     "gameFlags": 1
+  },
+  {
+    "hash": "01A8064B25F81379",
+    "path": "[assembly:/_knt/environment/geometry/levels/london/museum/museum_mainhall_stage_a.wl2?/speaker_podium_b.prim](material_overwrite).entitytype",
+    "gameFlags": 1
   }
 ]
