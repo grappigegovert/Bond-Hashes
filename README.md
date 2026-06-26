@@ -1,9 +1,9 @@
 # Bond-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-749,015-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-62.86%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-63.05%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-21/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-62.86%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-63.05%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -16,7 +16,7 @@
 |ANMC     |23808          |0            |0.00%             |0    |0.00%          |
 |ASEB     |11930          |11644        |97.60%            |0    |0.00%          |
 |ASET     |15100          |14814        |98.11%            |0    |0.00%          |
-|BORG     |3077           |1367         |44.43%            |0    |0.00%          |
+|BORG     |3077           |2806         |91.19%            |0    |0.00%          |
 |BOXC     |4706           |0            |0.00%             |0    |0.00%          |
 |CAMC     |2026           |0            |0.00%             |0    |0.00%          |
 |CBLU     |2290           |2290         |100.00%           |0    |0.00%          |
