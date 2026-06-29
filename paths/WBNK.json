@@ -1,9 +1,8 @@
 [
   {
     "hash": "01343D5E2103D304",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "mx_onl_s06_bluebell"
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_online/mx_onl_s06_bluebell.wwisesoundbank].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "012A8AC570FD3F61",
@@ -59,9 +58,8 @@
   },
   {
     "hash": "013B0492EAF71285",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "mx_clover"
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_clover.wwisesoundbank].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "0176188333408872",
@@ -75,9 +73,8 @@
   },
   {
     "hash": "01BF5C3EE2445A48",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "mx_tulip"
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_tulip.wwisesoundbank].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "011D671F1430A124",
@@ -86,7 +83,7 @@
   },
   {
     "hash": "0125F35CEAB27044",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_land_rover_defender_2026.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -102,17 +99,19 @@
   {
     "hash": "0160FA0006B302C3",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_ruby"
   },
   {
     "hash": "018CD349767A2BB9",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_lavender.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01F43E93D62EFDFE",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "rev_clover"
   },
   {
     "hash": "018B326DB48E190A",
@@ -131,33 +130,36 @@
   },
   {
     "hash": "019E9F9CDEDF280F",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_sunflower.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "010D1A2D91C30549",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_rose_preludebriefing.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01758F92A65330E1",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_clover"
   },
   {
     "hash": "0100D28ED65F8FE5",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "rev_magnolia"
   },
   {
     "hash": "01BE7B90249C88E9",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_aston_martin_dbs_1969.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01355BB492A0ADF8",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_dahlia"
   },
   {
     "hash": "019634A334F7E39E",
@@ -177,7 +179,8 @@
   {
     "hash": "01477225CF698C43",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "rev_ruby_mi6"
   },
   {
     "hash": "01DD99B0280D8DF3",
@@ -216,12 +219,12 @@
   },
   {
     "hash": "01721B012692B186",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_poppy.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "014187B06AED6E8F",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_online/mx_onl_s01_clover.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -232,12 +235,14 @@
   {
     "hash": "014DE724D19C0331",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_daisy"
   },
   {
     "hash": "017417BA3D2218D9",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "rev_dahlia"
   },
   {
     "hash": "01D0D57A855CEA46",
@@ -251,27 +256,27 @@
   },
   {
     "hash": "01275242A751831C",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_lily.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01EE8630ADA5641B",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_buttercup.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "014302101D01FA7B",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_ivy.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01B96EB073DC2E40",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_magnolia.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01D0E2B9C6D6FF77",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_iris.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -292,9 +297,8 @@
   },
   {
     "hash": "015750D5211B2EAE",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "mx_orchid"
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_orchid.wwisesoundbank].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01DCB2EF613A586A",
@@ -309,22 +313,22 @@
   },
   {
     "hash": "01F1AD1CDA10C6CF",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_online/mx_onl_s04_dahlia.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01303E913CDCD848",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_dahlia.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0162D0DC99377ED7",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_online/mx_onl_s02_lotus.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "015B86D3C3F805BC",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_rangeroversport.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -339,28 +343,31 @@
   },
   {
     "hash": "01420B80FDE7C2A4",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_combatboat.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01B2793D73CDB3B9",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_pepper"
   },
   {
     "hash": "01F028E1CDDE8E43",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_lotus.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0180FA4CAB5A06D7",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_lotus"
   },
   {
     "hash": "01A2E931E12EF255",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_iris"
   },
   {
     "hash": "01E4E9C791AD95E2",
@@ -369,12 +376,12 @@
   },
   {
     "hash": "01E74FC6F35D6E7B",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_poppy.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01A5BCABDDCCA18E",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_pepper.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -384,67 +391,70 @@
   },
   {
     "hash": "01A71353F527A1A6",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_online/mx_onl_s03_rose.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01E60A4F37528654",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "rev_lotus"
   },
   {
     "hash": "01A9791C324624DA",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "rev_bluebell"
   },
   {
     "hash": "019BEC75E6EF7DC0",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_online/mx_onl_cattail_lakefly/mx_onl_cattail_lakefly.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "019697E8ACC42A1F",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_online/mx_onl_s09_orchid.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01FB5D47C8DCBA9A",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_dah_preludebreifing.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "017355D34236E77E",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_pepper.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "012305B9F908F4B7",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/vehicles/veh_jaguar_xj.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "012583C40BEACB8E",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_sunflower.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "011C1427196647A6",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_clover.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "012F22984CCBB0AD",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "rev_pepper"
   },
   {
     "hash": "010F1D5B77079822",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_rose.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0112D85B554A304F",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_daisy.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -455,7 +465,8 @@
   {
     "hash": "0171CEB16B73802F",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_ivy"
   },
   {
     "hash": "012E7DE9DF2E0887",
@@ -464,7 +475,7 @@
   },
   {
     "hash": "01D7385101A3E012",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/environments/env_h_lotus_end.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
@@ -474,43 +485,45 @@
   },
   {
     "hash": "01761A85EFF968C0",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_daisy.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "0121E4F7534EA247",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_lavender.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01C2D687D7B171D2",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_campaign/mx_bluebell.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01D0DEC02C970B2D",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_online/mx_online_hub.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01AEE1EDFD732ADA",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/music/mx_online/mx_onl_s05_pepper.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01B8A8A052C9D592",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "sm_bluebell"
   },
   {
     "hash": "01B161324F537530",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/soundbanks/cinematics/cin_orchid.wwisesoundbank].wwisebank",
     "gameFlags": 1
   },
   {
     "hash": "01100019C4FBEEE8",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "rev_rose"
   },
   {
     "hash": "016C1F2E3B23D630",
