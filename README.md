@@ -1,9 +1,9 @@
 # Bond-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-749,015-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-63.06%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-63.07%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-21/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-63.06%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-63.07%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -78,8 +78,8 @@
 |TDAT     |8              |0            |0.00%             |0    |0.00%          |
 |TDPK     |348            |0            |0.00%             |0    |0.00%          |
 |TEMP     |69803          |66942        |95.90%            |0    |0.00%          |
-|TEXD     |30865          |14057        |45.54%            |0    |0.00%          |
-|TEXT     |31774          |14357        |45.18%            |0    |0.00%          |
+|TEXD     |30865          |14088        |45.64%            |0    |0.00%          |
+|TEXT     |31774          |14389        |45.29%            |0    |0.00%          |
 |UICB     |81             |81           |100.00%           |0    |0.00%          |
 |UICT     |81             |81           |100.00%           |0    |0.00%          |
 |VTXD     |2728           |2197         |80.54%            |0    |0.00%          |
