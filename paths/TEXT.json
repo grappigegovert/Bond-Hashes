@@ -2146,7 +2146,7 @@
   },
   {
     "hash": "01FF183A1504CEE3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/clover_container_painted_metal_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -8881,7 +8881,7 @@
   },
   {
     "hash": "01F2F5BD49198125",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/lamps/lamp_modern_qlab_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -15816,7 +15816,7 @@
   },
   {
     "hash": "01952134C5F9B54A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/ground/decal_dirt_path_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -24776,7 +24776,7 @@
   },
   {
     "hash": "01E2D1CBACDBFF6C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/metal/decal_screws_atlas_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -27326,7 +27326,7 @@
   },
   {
     "hash": "016983801469AC94",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/metal/decal_screws_atlas_a.texture?/height_a.tex](asheightmap).tex",
     "gameFlags": 1
   },
   {
@@ -29591,7 +29591,7 @@
   },
   {
     "hash": "015D929B1CB76EDD",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/nemesis/textures/male_nemesis_shoes_02.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -30506,7 +30506,7 @@
   },
   {
     "hash": "01C977076A8493F1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/nemesis/textures/male_nemesis_shoes_02.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -31341,7 +31341,7 @@
   },
   {
     "hash": "01702320114AB304",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wood_panels_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -42906,7 +42906,7 @@
   },
   {
     "hash": "01668785DDA353C8",
-    "path": "",
+    "path": "[assembly:/_knt/items/textures/gadgets/dartgun_a/dartgun_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -47041,7 +47041,7 @@
   },
   {
     "hash": "01B1FAAE4FCB03CD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/metal/decal_screws_atlas_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -50341,7 +50341,7 @@
   },
   {
     "hash": "010D6AA1F23DA99C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/signs/signs_danger_b.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -53001,7 +53001,7 @@
   },
   {
     "hash": "01F6FD5FF4094F26",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_white_quarry_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -53481,7 +53481,7 @@
   },
   {
     "hash": "01D1BCA6EF715DB3",
-    "path": "",
+    "path": "[assembly:/_knt/items/textures/gadgets/dartgun_a/dartgun_a.texture?/emissive_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -56426,7 +56426,7 @@
   },
   {
     "hash": "01C24BC1C2FA31DA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/ground/decal_dirt_path_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -70881,7 +70881,7 @@
   },
   {
     "hash": "019B44D3EFABD720",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wood_panels_c.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -90481,7 +90481,7 @@
   },
   {
     "hash": "019EBAEC3D5D947E",
-    "path": "",
+    "path": "[assembly:/_knt/items/textures/gadgets/dartgun_a/dartgun_a.texture?/normal_b.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -91181,7 +91181,7 @@
   },
   {
     "hash": "01AB81FFF10D9101",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_white_quarry_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -94076,7 +94076,7 @@
   },
   {
     "hash": "012F46BCA58DEA26",
-    "path": "",
+    "path": "[assembly:/_knt/items/textures/gadgets/dartgun_a/dartgun_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -94956,7 +94956,7 @@
   },
   {
     "hash": "0166FE903B93E127",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/nemesis/textures/male_nemesis_shoes_02.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -99816,7 +99816,7 @@
   },
   {
     "hash": "016F463CCD3CAD95",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wood_panels_c.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -101356,7 +101356,7 @@
   },
   {
     "hash": "0156C128BB694214",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/ground/decal_dirt_path_a.texture?/height_a.tex](asheightmap).tex",
     "gameFlags": 1
   },
   {
@@ -104636,7 +104636,7 @@
   },
   {
     "hash": "016A8C407A74BFED",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wood_panels_a.texture?/diffuse_b.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -105601,7 +105601,7 @@
   },
   {
     "hash": "0159E3823237988D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/metal_brushed_a.texture?/normal_b.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -112306,7 +112306,7 @@
   },
   {
     "hash": "01BC0473423ED7BF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/lamps/lamp_modern_qlab_a.texture?/emissive_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -117846,7 +117846,7 @@
   },
   {
     "hash": "01DE21AC30609578",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/clover_container_painted_metal_a.texture?/normal_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -122261,7 +122261,7 @@
   },
   {
     "hash": "01A2F75B80CEBB35",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/lamps/lamp_modern_qlab_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -129931,7 +129931,7 @@
   },
   {
     "hash": "018FD927CF1777A3",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_exterior.texture?/mask_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -141671,7 +141671,7 @@
   },
   {
     "hash": "010B815304DFB9FC",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/textures/envionmentfriendly_car_a/envionmentfriendly_car_a_lights.texture?/emissive_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -142771,7 +142771,7 @@
   },
   {
     "hash": "018AD1F7E5C2EAFC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wood_panels_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -143221,7 +143221,7 @@
   },
   {
     "hash": "011CE85E4315B0E5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/metal_brushed_a.texture?/diffuse_c.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -158486,7 +158486,7 @@
   },
   {
     "hash": "01AE1BD36BF33A1C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/signs/signs_danger_b.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -158796,7 +158796,7 @@
   },
   {
     "hash": "01CB9AC805394CEA",
-    "path": "",
+    "path": "[assembly:/_knt/items/textures/gadgets/dartgun_a/dartgun_a.texture?/diffuse_b.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
